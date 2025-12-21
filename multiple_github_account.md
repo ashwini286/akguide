@@ -16,32 +16,32 @@ This file documents the complete setup for using multiple GitHub accounts on a s
 
 ## SSH Availability
 
-    ssh -V
+    ssh -V  # Check if SSH is installed and show version
 
 ---
 
 ## SSH Key Generation
 
-    ssh-keygen -t ed25519 -C "personal-email@example.com"
-    ~/.ssh/id_ed25519_personal
+    ssh-keygen -t ed25519 -C "personal-email@example.com"  # Generate SSH key for personal account with email as comment
+    ~/.ssh/id_ed25519_personal  # Save personal key to this file path
 
-    ssh-keygen -t ed25519 -C "work-email@company.com"
-    ~/.ssh/id_ed25519_work
+    ssh-keygen -t ed25519 -C "work-email@company.com"  # Generate SSH key for work account with email as comment
+    ~/.ssh/id_ed25519_work  # Save work key to this file path
 
 ---
 
 ## SSH Agent
 
-    eval "$(ssh-agent -s)"
-    ssh-add ~/.ssh/id_ed25519_personal
-    ssh-add ~/.ssh/id_ed25519_work
+    eval "$(ssh-agent -s)"  # Start SSH agent in background and set environment variables
+    ssh-add ~/.ssh/id_ed25519_personal  # Add personal SSH key to agent for authentication
+    ssh-add ~/.ssh/id_ed25519_work  # Add work SSH key to agent for authentication
 
 ---
 
 ## Public Keys
 
-    cat ~/.ssh/id_ed25519_personal.pub
-    cat ~/.ssh/id_ed25519_work.pub
+    cat ~/.ssh/id_ed25519_personal.pub  # Display personal SSH public key to copy to GitHub
+    cat ~/.ssh/id_ed25519_work.pub  # Display work SSH public key to copy to GitHub
 
 GitHub → Settings → SSH and GPG Keys → New SSH Key
 
@@ -49,7 +49,7 @@ GitHub → Settings → SSH and GPG Keys → New SSH Key
 
 ## SSH Configuration
 
-    nano ~/.ssh/config
+    nano ~/.ssh/config  # Open SSH config file in nano editor to add host aliases
 
     Host github-personal
       HostName github.com
@@ -72,37 +72,37 @@ GitHub → Settings → SSH and GPG Keys → New SSH Key
 
 ## Repository Cloning
 
-    git clone git@github-personal:username/repository.git
-    git clone git@github-work:organization/repository.git
+    git clone git@github-personal:username/repository.git  # Clone repository using personal SSH alias
+    git clone git@github-work:organization/repository.git  # Clone repository using work SSH alias
 
 ---
 
 ## Git Remote Commands
 
-    git remote -v
-    git remote add origin git@github-work:organization/repository.git
-    git remote set-url origin git@github-work:organization/repository.git
-    git remote remove origin
+    git remote -v  # List all remote repositories and their URLs
+    git remote add origin git@github-work:organization/repository.git  # Add remote origin using work SSH alias
+    git remote set-url origin git@github-work:organization/repository.git  # Change existing remote origin URL
+    git remote remove origin  # Remove the remote origin repository
 
 ---
 
 ## Branch Push
 
-    git push -u origin branch-name
+    git push -u origin branch-name  # Push branch and set upstream tracking
 
 ---
 
 ## SSH Test
 
-    ssh -T git@github-work
-    ssh -T git@github-personal
+    ssh -T git@github-work  # Test SSH connection to GitHub using work account
+    ssh -T git@github-personal  # Test SSH connection to GitHub using personal account
 
 ---
 
 ## Git Identity (Per Repository)
 
-    git config user.name "Your Name"
-    git config user.email "your-email@example.com"
+    git config user.name "Your Name"  # Set Git username for commits in this repository
+    git config user.email "your-email@example.com"  # Set Git email for commits in this repository
 
 ---
 
