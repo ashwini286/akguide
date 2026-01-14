@@ -447,65 +447,14 @@ A.
 𝑁
 𝐻
 4
-)
-2
-𝑆
-𝑂
-4
-(NH
-4
-	​
+**Options:**
+- **A.** $(NH_4)_2SO_4$
+- **B.** $NH_4Cl$
+- **C.** $NH_4NO_3$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-)
-2
-	​
-
-SO
-4
-	​
-
-
-B. 
-𝑁
-𝐻
-4
-𝐶
-𝑙
-NH
-4
-	​
-
-Cl
-C. 
-𝑁
-𝐻
-4
-𝑁
-𝑂
-3
-NH
-4
-	​
-
-NO
-3
-	​
-
-
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: B. 
-𝑁
-𝐻
-4
-𝐶
-𝑙
-NH
-4
-	​
-
-Cl
+✅ **Correct Answer:** **B.** $NH_4Cl$
 
 🔊 Q43. Which of the following mediums will exhibit maximum velocity of sound?
 
