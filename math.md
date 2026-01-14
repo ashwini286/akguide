@@ -89,17 +89,22 @@
 
 ✅ **Correct Answer:** **B. Day 2**
 
+---
+
 ### **Question 6**
 **The cost of carpeting a room 18 m long with a carpet 75 cm wide at ₹4.50 per metre is ₹810.**
 *18 मीटर लंबे कमरे में 75 सेमी चौड़ी कालीन बिछाने की लागत ₹810 है। कालीन की दर ₹4.50 प्रति मीटर है। कमरे की चौड़ाई (Breadth) क्या है?*
 
-A. 7 m
-B. 7.5 m
-C. 8 m
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 7 m
+- **B.** 7.5 m
+- **C.** 8 m
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: B. 7.5 m
+✅ **Correct Answer:** **B. 7.5 m**
+
+---
 
 ### **Question 7**
 **Two persons A and B complete a task in 15 days when working together.**
@@ -108,13 +113,16 @@ E. None of the above (इनमें से कोई नहीं)
 **Person A alone can complete the task in 20 days. How many days will person B take to complete the task alone?**
 *व्यक्ति A अकेले उस कार्य को 20 दिनों में पूरा कर सकता है। व्यक्ति B अकेले उस कार्य को कितने दिनों में पूरा करेगा?*
 
-A. 35 days (35 दिन)
-B. 25 days (25 दिन)
-C. 60 days (60 दिन)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 35 days (35 दिन)
+- **B.** 25 days (25 दिन)
+- **C.** 60 days (60 दिन)
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: C. 60 days
+✅ **Correct Answer:** **C. 60 days**
+
+---
 
 ### **Question 8**
 **The sum of the numerator and denominator of a fraction is 11.**
@@ -123,13 +131,16 @@ E. None of the above (इनमें से कोई नहीं)
 **If 1 is added to the numerator and 2 is subtracted from the denominator, the fraction becomes 3/2. What is the original fraction?**
 *यदि अंश में 1 जोड़ दिया जाए और हर में से 2 घटा दिया जाए, तो वह भिन्न 3/2 बन जाती है। मूल भिन्न क्या है?*
 
-A. 5/6
-B. 6/5
-C. 3/8
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 5/6
+- **B.** 6/5
+- **C.** 3/8
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: A. 5/6
+✅ **Correct Answer:** **A. 5/6**
+
+---
 
 ### **Question 9**
 **The cost of 5 bats and 18 balls is ₹6,500 and the cost of 2 bats and 20 balls is ₹4,200.**
@@ -138,13 +149,16 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Linear Equations
 विषय: बीजगणित – रैखिक समीकरण
 
-A. ₹850, ₹125
-B. ₹630, ₹115
-C. ₹780, ₹150
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** ₹850, ₹125
+- **B.** ₹630, ₹115
+- **C.** ₹780, ₹150
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: A. ₹850, ₹125
+✅ **Correct Answer:** **A. ₹850, ₹125**
+
+---
 
 ### **Question 10**
 **A shopkeeper purchases an item at ₹615 and sells it at ₹820.**
@@ -153,13 +167,16 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Profit & Loss
 विषय: लाभ एवं हानि
 
-A. 25%
-B. 33.33%
-C. 35.50%
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 25%
+- **B.** 33.33%
+- **C.** 35.50%
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: B. 33.33%
+✅ **Correct Answer:** **B. 33.33%**
+
+---
 
 ### **Question 11**
 **A hacker finds that the ATM PIN of a person has:**
@@ -171,13 +188,16 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Permutation & Combination
 विषय: क्रमचय एवं संचय
 
-A. 48
-B. 24
-C. 720
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 48
+- **B.** 24
+- **C.** 720
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: A. 48
+✅ **Correct Answer:** **A. 48**
+
+---
 
 ### **Question 12**
 **The lengths of two sides of a triangle are 8 cm and 9 cm and its area is $\frac{12\sqrt{5}}{5}$ cm².**
@@ -186,13 +206,16 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Mensuration – Triangle
 विषय: क्षेत्रमिति – त्रिभुज
 
-A. 5 cm
-B. 9 cm
-C. 7 cm
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 5 cm
+- **B.** 9 cm
+- **C.** 7 cm
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: C. 7 cm
+✅ **Correct Answer:** **C. 7 cm**
+
+---
 
 ### **Question 13**
 **There are 50 numbers. Each number is subtracted from 53 and the mean of the numbers so obtained is $-\frac{3}{5}$.**
@@ -201,28 +224,34 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Statistics – Average
 विषय: सांख्यिकी – औसत
 
-A. 56.5
-B. 53.5
-C. 49.5
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 56.5
+- **B.** 53.5
+- **C.** 49.5
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: A. 56.5 
- 
- ### **Question 14**
+✅ **Correct Answer:** **A. 56.5**
+
+---
+
+### **Question 14**
 **The ratio of the ages of two brothers is 4 : 3.**
 *दो भाइयों की आयु का अनुपात 4 : 3 है। यदि बड़ा भाई छोटे भाई से 6 वर्ष बड़ा है, तो उनकी आयु (वर्षों में) क्या है?*
 
 📌 Topic: Ratio & Proportion
 विषय: अनुपात एवं समानुपात
 
-A. 24, 18
-B. 36, 30
-C. 15, 9
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 24, 18
+- **B.** 36, 30
+- **C.** 15, 9
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: A. 24, 18
+✅ **Correct Answer:** **A. 24, 18**
+
+---
 
 ### **Question 15**
 **The value of $\frac{1}{1 \times 2} - \frac{1}{2 \times 3} - \frac{1}{3 \times 4} - \cdots - \frac{1}{n(n+1)}$ is:**
@@ -231,13 +260,14 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Series
 विषय: बीजगणित – श्रेणी
 
-A. $\frac{n-1}{n}$
-B. $\frac{1}{n}$
-C. $\frac{1}{n+1}$
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** $\frac{n-1}{n}$
+- **B.** $\frac{1}{n}$
+- **C.** $\frac{1}{n+1}$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
-✅ Correct Answer: B. $\frac{1}{n}$
+✅ **Correct Answer:** **B.** $\frac{1}{n}$
 
 ---
 
@@ -248,11 +278,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Quadratic Equations
 विषय: द्विघात समीकरण
 
-A. $x^2 - 3x - 4 = 0$
-B. $x^2 + 3x + 3 = 0$
-C. $x^2 - 4x + 1 = 0$
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** $x^2 - 3x - 4 = 0$
+- **B.** $x^2 + 3x + 3 = 0$
+- **C.** $x^2 - 4x + 1 = 0$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **A.** $x^2 - 3x - 4 = 0$
 
@@ -264,16 +295,16 @@ E. None of the above (इनमें से कोई नहीं)
 
 **If the cost of painting the four walls at the rate of ₹10 per m² is ₹15,000, then the height of the hall is:**
 *यदि चारों दीवारों को ₹10 प्रति वर्ग मीटर की दर से रंगने की लागत ₹15,000 है, तो हॉल की ऊँचाई क्या है?*
-तो हॉल की ऊँचाई क्या है?
 
 📌 Topic: Mensuration – Area of Four Walls
 विषय: क्षेत्रमिति – चार दीवारों का क्षेत्रफल
 
-A. 7 metres
-B. 16 metres
-C. 6 metres
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 7 metres
+- **B.** 16 metres
+- **C.** 6 metres
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **C.** 6 metres
 
@@ -286,14 +317,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Number System
 विषय: संख्या पद्धति
 
-A. Every natural number is a whole number.
-(प्रत्येक प्राकृतिक संख्या पूर्ण संख्या है)
-B. Every integer is a whole number.
-(प्रत्येक पूर्णांक पूर्ण संख्या है)
-C. Every natural number is an integer number.
-(प्रत्येक प्राकृतिक संख्या पूर्णांक है)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** Every natural number is a whole number. (प्रत्येक प्राकृतिक संख्या पूर्ण संख्या है)
+- **B.** Every integer is a whole number. (प्रत्येक पूर्णांक पूर्ण संख्या है)
+- **C.** Every natural number is an integer number. (प्रत्येक प्राकृतिक संख्या पूर्णांक है)
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** Every integer is a whole number
 
@@ -309,11 +338,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Average
 विषय: औसत
 
-A. 20
-B. 21
-C. 23
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 20
+- **B.** 21
+- **C.** 23
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **C.** 23
 
@@ -326,11 +356,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Quadratic Equation
 विषय: बीजगणित – द्विघात समीकरण
 
-A. $b^2 - 4ac < 0$
-B. $b^2 - 4ac > 0$
-C. $b^2 - 4ac = 0$
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** $b^2 - 4ac < 0$
+- **B.** $b^2 - 4ac > 0$
+- **C.** $b^2 - 4ac = 0$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** $b^2 - 4ac > 0$
 
@@ -346,11 +377,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Time & Work
 विषय: समय और कार्य
 
-A. 20 days
-B. 11 days
-C. 14 days
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 20 days
+- **B.** 11 days
+- **C.** 14 days
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** 11 days
 
@@ -363,17 +395,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Identities & Comparison
 विषय: बीजगणित – सर्वसमिकाएँ एवं तुलना
 
-A. X is less than Y if a = b
-B. X is greater than Y if 
-𝑎
-≠
-𝑏
-a
-
-=b
-C. Y is greater than X if a = b
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** X is less than Y if a = b
+- **B.** X is greater than Y if $a ≠ b$
+- **C.** Y is greater than X if a = b
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **D.** More than one of the above
 
@@ -386,15 +413,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Probability
 विषय: प्रायिकता
 
-A. $\frac{1}{7}$
-
-B. $\frac{2}{53}$
-
-C. $\frac{1}{53}$
-
-
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** $\frac{1}{7}$
+- **B.** $\frac{2}{53}$
+- **C.** $\frac{1}{53}$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **A.** $\frac{1}{7}$
 
@@ -407,11 +431,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Quadratic Equation
 विषय: बीजगणित – द्विघात समीकरण
 
-A. 3
-B. 4
-C. 7
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 3
+- **B.** 4
+- **C.** 7
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** 4
 
@@ -426,11 +451,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Mensuration – Circle
 विषय: क्षेत्रमिति – वृत्त
 
-A. $\pi$
-B. $2\pi$
-C. $4\pi$
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** $\pi$
+- **B.** $2\pi$
+- **C.** $4\pi$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** $2\pi$
 
@@ -443,11 +469,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Identities
 विषय: बीजगणित – सर्वसमिकाएँ
 
-A. 0
-B. $\frac{1}{4}$
-C. 1
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 0
+- **B.** $\frac{1}{4}$
+- **C.** 1
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** $\frac{1}{4}$
 
@@ -455,17 +482,17 @@ E. None of the above (इनमें से कोई नहीं)
 
 ### **Question 27**
 **If 20% of (x + y) is equal to 50% of (x − y), then what is (x : y)?**
-
-यदि (x + y) का 20% = (x − y) का 50% हो, तो (x : y) क्या है?
+*यदि (x + y) का 20% = (x − y) का 50% हो, तो (x : y) क्या है?*
 
 📌 Topic: Ratio & Proportion
 विषय: अनुपात एवं समानुपात
 
-A. 7 : 3
-B. 3 : 7
-C. 7 : 5
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 7 : 3
+- **B.** 3 : 7
+- **C.** 7 : 5
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **A.** 7 : 3
 
@@ -481,11 +508,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Profit & Loss
 विषय: लाभ एवं हानि
 
-A. ₹700
-B. ₹500
-C. ₹300
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** ₹700
+- **B.** ₹500
+- **C.** ₹300
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** ₹500
 
@@ -501,11 +529,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Ratio
 विषय: अनुपात
 
-A. 24
-B. 16
-C. 12
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 24
+- **B.** 16
+- **C.** 12
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **B.** 16
 
@@ -518,11 +547,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Factorisation
 विषय: बीजगणित – गुणनखंड
 
-A. 5, 4
-B. −5, 4
-C. 5, −4
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 5, 4
+- **B.** −5, 4
+- **C.** 5, −4
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **A.** 5, 4
 
@@ -535,11 +565,12 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Mensuration – Circle
 विषय: क्षेत्रमिति – वृत्त
 
-A. 50%
-B. 60%
-C. 75%
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** 50%
+- **B.** 60%
+- **C.** 75%
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **C.** 75%
 
@@ -552,15 +583,157 @@ E. None of the above (इनमें से कोई नहीं)
 📌 Topic: Algebra – Linear Equation
 विषय: बीजगणित – रैखिक समीकरण
 
-A. $\frac{73}{77}$
-
-B. $\frac{77}{33}$
-
-C. $\frac{22}{75}$
-
-
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**
+- **A.** $\frac{73}{77}$
+- **B.** $\frac{77}{33}$
+- **C.** $\frac{22}{75}$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **A.** $\frac{73}{77}$
 
+---
+
+### **Question 33**
+**Find the value of $(x + \frac{1}{x})^2$**
+*निम्नलिखित से $(x + \frac{1}{x})^2$ का मान क्या है?*
+
+📌 Topic: Algebra – Identities
+विषय: बीजगणित – सर्वसमिकाएँ
+
+**Options:**
+- **A.** $x^2 + \frac{1}{x^2}$
+- **B.** $x^2 - \frac{1}{x^2}$
+- **C.** $x^2 + \frac{1}{x^2} + 1$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **E.** None of the above
+
+*(Correct value = $x^2 + 2 + \frac{1}{x^2}$)*
+
+---
+
+### **Question 34**
+**An article is marked at 10% more than the cost price (CP). If a discount of 10% is allowed, which of the following is correct?**
+*किसी वस्तु का अंकित मूल्य क्रय मूल्य से 10% अधिक है। यदि 10% की छूट दी जाए, तो क्या होगा?*
+
+📌 Topic: Profit & Loss
+विषय: लाभ एवं हानि
+
+**Options:**
+- **A.** 1% gain (1% लाभ)
+- **B.** 1% loss (1% हानि)
+- **C.** No gain no loss (न लाभ न हानि)
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **B.** 1% loss
+
+---
+
+### **Question 35**
+**By what number should 81 be divided to get a perfect cube?**
+*81 को किस संख्या से भाग देने पर एक पूर्ण घन (Perfect Cube) प्राप्त होगा?*
+
+📌 Topic: Number System
+विषय: संख्या पद्धति
+
+**Options:**
+- **A.** 3
+- **B.** 6
+- **C.** 7
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **A.** 3
+
+---
+
+### **Question 36**
+**The difference between two whole numbers is 66 and their ratio is 2 : 5. Find the two numbers.**
+*दो पूर्ण संख्याओं का अंतर 66 है और उनका अनुपात 2 : 5 है। संख्याएँ क्या हैं?*
+
+📌 Topic: Ratio & Proportion
+विषय: अनुपात एवं समानुपात
+
+**Options:**
+- **A.** 60 and 6
+- **B.** 100 and 33
+- **C.** 110 and 44
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **C.** 110 and 44
+
+---
+
+### **Question 37**
+**In a parallelogram ABCD, angle A and angle B are in the ratio 1 : 2. Find angle A.**
+*समांतर चतुर्भुज ABCD में कोण A और B का अनुपात 1 : 2 है। कोण A ज्ञात कीजिए।*
+
+📌 Topic: Geometry – Parallelogram
+विषय: ज्यामिति – समांतर चतुर्भुज
+
+**Options:**
+- **A.** 30°
+- **B.** 45°
+- **C.** 60°
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **C.** 60°
+
+---
+
+### **Question 38**
+**The radius of a cylinder is 7 cm and its total surface area is 968 cm². Find its height.**
+*एक बेलन की त्रिज्या 7 सेमी है और उसका कुल पृष्ठीय क्षेत्रफल 968 सेमी² है। ऊँचाई ज्ञात कीजिए।*
+
+📌 Topic: Mensuration – Cylinder
+विषय: क्षेत्रमिति – बेलन
+
+**Options:**
+- **A.** 15 cm
+- **B.** 17 cm
+- **C.** 19 cm
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **A.** 15 cm
+
+---
+
+### **Question 39**
+**If $(-3)^{m+1} \times (-3)^5 = (-3)^7$, then the value of $m$ is:**
+*यदि $(-3)^{m+1} \times (-3)^5 = (-3)^7$, तो $m$ का मान क्या है?*
+
+📌 Topic: Algebra – Laws of Exponents
+विषय: घातांक के नियम
+
+**Options:**
+- **A.** 5
+- **B.** 7
+- **C.** 1
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **C.** 1
+
+---
+
+### **Question 40**
+**If x and y are inversely proportional, then:**
+*यदि x और y व्युत्क्रमानुपाती हैं, तो—*
+
+📌 Topic: Proportion
+विषय: समानुपात
+
+**Options:**
+- **A.** $\frac{y}{x} = \text{constant}$
+- **B.** $xy = \text{constant}$
+- **C.** $\frac{x}{y} = \text{constant}$
+- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
+- **E.** None of the above (इनमें से कोई नहीं)
+
+✅ **Correct Answer:** **B.** $xy = \text{constant}$

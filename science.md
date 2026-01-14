@@ -566,3 +566,171 @@ D. More than one of the above (उपरोक्त में से एक स
 E. None of the above (इनमें से कोई नहीं)
 
 ✅ Correct Answer: C. Both deviated and dispersed
+
+Q39. A wire of resistance R is cut into 5 equal parts and connected in parallel.
+
+If the equivalent resistance is R′, find the ratio 
+𝑅
+/
+𝑅
+′
+R/R′.
+
+R प्रतिरोध की एक तार को 5 समान भागों में काटकर समांतर संयोजन में जोड़ा गया।
+यदि समतुल्य प्रतिरोध R′ है, तो 
+𝑅
+/
+𝑅
+′
+R/R′ ज्ञात करें।
+
+📌 Topic: Physics – Electricity
+विषय: भौतिकी – विद्युत
+
+A. 1/25
+B. 1/5
+C. 25
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: C. 25
+ ## tre3.0 (11 to 12)
+
+🔥 Q40. An electric heater of resistance 8 Ω draws a current of 15 A for 2 hours.
+
+What is the rate at which heat is developed?
+
+8 Ω प्रतिरोध का एक विद्युत हीटर 15 A धारा खींचता है।
+ऊष्मा उत्पन्न होने की दर क्या है?
+
+📌 Topic: Physics – Electric Power
+विषय: भौतिकी – विद्युत शक्ति
+
+A. 220 watt
+B. 120 watt
+C. 210 watt
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: E. None of the above
+(Correct power = 
+𝐼
+2
+𝑅
+=
+15
+2
+×
+8
+=
+1800
+I
+2
+R=15
+2
+×8=1800 watt)
+
+Q41. Which of the following lenses would you prefer to use while reading small letters found in a dictionary?
+
+डिक्शनरी में लिखे छोटे अक्षरों को पढ़ने के लिए आप किस लेंस का उपयोग करेंगे?
+
+📌 Topic: Physics – Optics (Lenses)
+विषय: भौतिकी – प्रकाशिकी (लेंस)
+
+A. A convex lens of 50 cm
+B. A concave lens of 50 cm
+C. A concave lens of 5 cm
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: A. A convex lens of 50 cm
+
+👁️ Q42. The human eye forms the image of an object at its ________
+
+मानव आँख किसी वस्तु की छवि कहाँ बनाती है?
+
+📌 Topic: Physics – Human Eye
+विषय: भौतिकी – मानव नेत्र
+
+A. Cornea
+B. Iris
+C. Retina
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: C. Retina
+
+♀️ Q43. Which of the following is not a part of the female reproductive system in human beings?
+
+निम्नलिखित में से कौन मानव स्त्री प्रजनन तंत्र का भाग नहीं है?
+
+📌 Topic: Biology – Reproduction
+विषय: जीवविज्ञान – प्रजनन
+
+A. Ovary
+B. Uterus
+C. Vas deferens
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: C. Vas deferens
+
+🌼 Q44. The anther contains ________
+
+परागकोष (Anther) में क्या पाया जाता है?
+
+📌 Topic: Biology – Plant Reproduction
+विषय: जीवविज्ञान – पादप प्रजनन
+
+A. Sepals
+B. Ovules
+C. Pollen grains
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: C. Pollen grains
+
+🧫 Q45. Asexual reproduction takes place through budding in ______
+
+निम्नलिखित में से किसमें कलीकरण (Budding) द्वारा अलैंगिक प्रजनन होता है?
+
+📌 Topic: Biology – Asexual Reproduction
+विषय: जीवविज्ञान – अलैंगिक प्रजनन
+
+A. Amoeba
+B. Yeast
+C. Plasmodium
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: B. Yeast
+
+💊 Q46. Which one of the following types of medicines is used for treating indigestion?
+
+अपच (Indigestion) के उपचार में कौन-सी दवा उपयोग की जाती है?
+
+📌 Topic: Biology – Medicines
+विषय: जीवविज्ञान – औषधियाँ
+
+A. Antibiotic
+B. Antacid
+C. Analgesic
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: B. Antacid
+
+🏛️ Q47. The task of processing citizenship applications under the CAA will be undertaken by:
+
+CAA के अंतर्गत नागरिकता आवेदनों की प्रक्रिया किस विभाग द्वारा की जाएगी?
+
+📌 Topic: Current Affairs – Indian Polity
+विषय: समसामयिक घटनाएँ – भारतीय राजनीति
+
+A. Postal Department
+B. Census Department
+C. Central Security / IB
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: A. Postal Department

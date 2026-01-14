@@ -370,3 +370,51 @@ D. More than one of the above (उपरोक्त में से एक स
 E. None of the above (इनमें से कोई नहीं)
 
 ✅ Correct Answer: C. “Welcome, buddy”
+
+## tre3.0(11 to 12)
+Q48. In which of the following countries has India launched its UPI?
+
+निम्नलिखित में से किस देश में भारत ने UPI शुरू किया है?
+
+📌 Topic: Current Affairs – Digital Payments
+विषय: समसामयिक घटनाएँ – डिजिटल भुगतान
+
+A. Thailand
+B. Myanmar
+C. Mauritius
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: C. Mauritius
+
+🚀 Q49. What is the name of the spacecraft to be launched by ISRO in 2024 to carry astronauts?
+
+अंतरिक्ष यात्रियों को ले जाने हेतु ISRO द्वारा 2024 में प्रक्षेपित किए जाने वाले अंतरिक्ष यान का नाम क्या है?
+
+📌 Topic: Science & Technology – Space Mission
+विषय: विज्ञान एवं प्रौद्योगिकी – अंतरिक्ष मिशन
+
+A. Akashyan
+B. Gaganyan
+C. Bhramyan
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: B. Gaganyan
+(Correct spelling: Gaganyaan)
+
+🌍 Q50. Which country is not a member of G7?
+
+निम्नलिखित में से कौन G7 का सदस्य नहीं है?
+
+📌 Topic: International Organizations
+विषय: अंतरराष्ट्रीय संगठन
+
+A. Russia
+B. Canada
+C. USA
+D. More than one of the above
+E. None of the above
+
+✅ Correct Answer: A. Russia
+
