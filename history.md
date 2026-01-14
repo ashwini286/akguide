@@ -774,3 +774,257 @@ E. None of the above (इनमें से कोई नहीं)
 ✅ Correct Answer: E. None of the above
 (This phrase was used by Jawaharlal Nehru, who is not in the options) 
 
+Q47. In which country was the ASEAN–India Grassroots Innovation Forum (AIGIF) launched in November 2023?
+
+ASEAN–India Grassroots Innovation Forum (AIGIF) नवंबर 2023 में किस देश में शुरू किया गया?
+
+📌 Topic: Current Affairs – International Cooperation
+विषय: समसामयिक घटनाएँ – अंतरराष्ट्रीय सहयोग
+
+A. Vietnam
+B. Malaysia
+C. India
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. Vietnam
+
+🇪🇬 Q48. In April 2024, Abdel Fattah al-Sisi was re-elected for a third six-year term as President of which country?
+
+अप्रैल 2024 में अब्देल फत्ताह अल-सीसी किस देश के राष्ट्रपति के रूप में तीसरे छह वर्षीय कार्यकाल के लिए पुनः निर्वाचित हुए?
+
+📌 Topic: Current Affairs – World Politics
+विषय: समसामयिक घटनाएँ – विश्व राजनीति
+
+A. Yemen
+B. Jordan
+C. Egypt
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Egypt
+
+💊 Q49. Which country became the first nation to adopt India’s Jan Aushadhi Scheme in February 2024?
+
+फरवरी 2024 में भारत की जन औषधि योजना को अपनाने वाला पहला देश कौन-सा बना?
+
+📌 Topic: Current Affairs – Health & Cooperation
+विषय: समसामयिक घटनाएँ – स्वास्थ्य एवं सहयोग
+
+A. Sri Lanka
+B. Mauritius
+C. Nepal
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. Mauritius
+
+🏕️ Q50. Which countries continue to host the majority of Afghan refugees globally, providing access to health and education services?
+
+कौन-से देश विश्व स्तर पर अधिकांश अफगान शरणार्थियों की मेज़बानी करते हैं और उन्हें स्वास्थ्य व शिक्षा की सुविधा प्रदान करते हैं?
+
+📌 Topic: Current Affairs – Refugees & International Issues
+विषय: समसामयिक घटनाएँ – शरणार्थी एवं अंतरराष्ट्रीय मुद्दे
+
+A. Turkey and Syria
+B. Iran and Pakistan
+C. Lebanon and Egypt
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. Iran and Pakistan
+
+🤖 Q51. Which state government has proposed the design, development and operation of India’s first AI City in 2024?
+
+2024 में भारत का पहला AI City विकसित करने का प्रस्ताव किस राज्य सरकार ने रखा?
+
+📌 Topic: Current Affairs – Science & Technology
+विषय: समसामयिक घटनाएँ – विज्ञान एवं प्रौद्योगिकी
+
+A. Maharashtra
+B. Kerala
+C. Uttar Pradesh
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. Kerala
+
+🪙 Q52. Which company has become the third-largest silver producer globally according to the 2024 World Silver Survey?
+
+2024 वर्ल्ड सिल्वर सर्वे के अनुसार विश्व की तीसरी सबसे बड़ी चांदी उत्पादक कंपनी कौन-सी है?
+
+📌 Topic: Current Affairs – Economy & Industry
+विषय: समसामयिक घटनाएँ – अर्थव्यवस्था एवं उद्योग
+
+A. Hindustan Zinc Limited
+B. Silver Zinc Limited
+C. Sunrise Zinc Corporation
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. Hindustan Zinc Limited
+
+🌱 Q53. What initiative did India announce at the G20 Summit to take ethanol blending with petrol globally to 20 percent?
+
+पेट्रोल में एथनॉल मिश्रण को वैश्विक स्तर पर 20% तक ले जाने के लिए भारत ने G20 शिखर सम्मेलन में किस पहल की घोषणा की?
+
+📌 Topic: Current Affairs – Energy & G20
+विषय: समसामयिक घटनाएँ – ऊर्जा एवं G20
+
+A. Global Climate Action Plan
+B. Green Energy Revolution
+C. Global Biofuel Alliance
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Global Biofuel Alliance
+
+⚓ Q54. Which ferry craft was inducted into the Indian Navy at the end of December 2023?
+
+दिसंबर 2023 के अंत में भारतीय नौसेना में कौन-सा फेरी क्राफ्ट शामिल किया गया?
+
+📌 Topic: Current Affairs – Defence
+विषय: समसामयिक घटनाएँ – रक्षा
+
+A. Manjula
+B. Manohar
+C. Mangal
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. Manjula 
+
+Q55. Very high-intensity Earthquake Zone includes:
+
+अत्यधिक तीव्रता वाले भूकंप क्षेत्र (Zone-V) में कौन-से जिले शामिल हैं?
+
+📌 Topic: Bihar Geography – Earthquake Zones
+विषय: बिहार भूगोल – भूकंप क्षेत्र
+
+A. Pashchim Champaran and Purab Champaran
+B. Madhubani and Supaul
+C. Purnea and Katihar
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: D. More than one of the above
+
+🐦 Q56. The smallest Bird Sanctuary in Bihar in terms of geographical area is:
+
+भौगोलिक क्षेत्रफल की दृष्टि से बिहार का सबसे छोटा पक्षी अभयारण्य कौन-सा है?
+
+📌 Topic: Bihar Geography – Wildlife Sanctuaries
+विषय: बिहार भूगोल – वन्यजीव अभयारण्य
+
+A. Barela Jheel Salim Ali Bird Sanctuary
+B. Nakti Dam Bird Sanctuary
+C. Nagi Dam Bird Sanctuary
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. Barela Jheel Salim Ali Bird Sanctuary
+
+🌊 Q57. The tributary of the Ganga having the longest distance in Bihar is:
+
+बिहार में गंगा की सबसे लंबी सहायक नदी कौन-सी है?
+
+📌 Topic: Bihar Geography – Rivers
+विषय: बिहार भूगोल – नदियाँ
+
+A. Sone
+B. Kosi
+C. Burhi Gandak
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Burhi Gandak
+
+🌍 Q58. The river having the largest basin area is:
+
+निम्नलिखित में से किस नदी का अपवाह क्षेत्र (Basin Area) सबसे बड़ा है?
+
+📌 Topic: Indian Geography – River Basins
+विषय: भारतीय भूगोल – नदी अपवाह क्षेत्र
+
+A. Pennar
+B. Brahmani
+C. Sabarmati
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. Pennar
+
+🗺️ Q59. The second longest length of international boundary is shared by India with:
+
+भारत की दूसरी सबसे लंबी अंतरराष्ट्रीय सीमा किस देश के साथ है?
+
+📌 Topic: Indian Geography – International Boundaries
+विषय: भारतीय भूगोल – अंतरराष्ट्रीय सीमाएँ
+
+A. Pakistan
+B. China
+C. Bangladesh
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. China
+
+⛰️ Q60. The antecedent drainage pattern of river systems is found in:
+
+नदियों का एंटीसिडेंट (Antecedent) अपवाह तंत्र कहाँ पाया जाता है?
+
+📌 Topic: Indian Physical Geography – Drainage
+विषय: भारतीय भौतिक भूगोल – अपवाह तंत्र
+
+A. The Punjab Himalayas
+B. The Kumaun Himalayas
+C. The Deccan Plateau Region
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. The Punjab Himalayas
+
+🐯 Q61. The State with the highest number of wildlife sanctuaries (2019) is:
+
+2019 में सर्वाधिक वन्यजीव अभयारण्य किस राज्य में थे?
+
+📌 Topic: Indian Environment – Wildlife
+विषय: भारतीय पर्यावरण – वन्यजीव
+
+A. Maharashtra
+B. Karnataka
+C. Madhya Pradesh
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. Maharashtra
+
+☀️ Q62. The State producing the highest solar power generation in 2022–23 is:
+
+2022–23 में सर्वाधिक सौर ऊर्जा उत्पादन करने वाला राज्य कौन-सा है?
+
+📌 Topic: Indian Economy – Renewable Energy
+विषय: भारतीय अर्थव्यवस्था – नवीकरणीय ऊर्जा
+
+A. Gujarat
+B. Karnataka
+C. Rajasthan
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Rajasthan
+
+🏛️ Q63. Which Indian leader used the ‘Safety-Valve Theory’ to attack the moderates in the Congress?
+
+कांग्रेस में नरमपंथियों की आलोचना करने के लिए ‘सेफ्टी-वाल्व सिद्धांत’ का उपयोग किस भारतीय नेता ने किया?
+
+📌 Topic: Modern Indian History – Extremists vs Moderates
+विषय: आधुनिक भारतीय इतिहास – गरम दल एवं नरम दल
+
+A. Womesh Chandra Bonnerjee
+B. Bipin Chandra Pal
+C. Lala Lajpat Rai
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Lala Lajpat Rai 

@@ -13,340 +13,588 @@
 - **E.** None of the above
 
 ✅ **Correct Answer:** **C. Time Sharing**
-42. Which language is better for writing structured code?
-(A) PASCAL
-(B) FORTRAN
-(C) BASIC
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: A. PASCAL
-43. Which language does a browser use to display information from the World Wide Web?
-(A) Machine code
-(B) Assembly language
-(C) C++ 
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: E. None of the above *(HTML is used)*
-44. Select the true statement for compiler.
-(A) The input of the compiler is source program.
-(B) It translates the source code into object code as a whole.
-(C) The output of the compiler is object code.
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: D. More than one of the above
-45. _____ is used to shift processes so they are contiguous, and all free memory is in one block.
-(A) Fragmentation
-(B) Compaction
-(C) External Fragmentation
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: B. Compaction 
-46. Which of the following is not a valid variable name in most programming languages?
-(A) myVariable
-(B) 123Variable
-(C) _myVariable
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: B. 123Variable
-47. Secondary memory is the long-term store for programs and data while main memory holds program and data currently in use. What kind of an organization is this?
-(A) Physical
-(B) Logical
-(C) Structural
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: A. Physical
-48. If a semicolon is not used at the end of the statement, what message will be displayed by C++?
-(A) Semicolon missing
-(B) Statement missing
-(C) Error in statements
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: E. None of the above
-49. A set of libraries that provides programmatically access to some kind of graphics 2D functions is
-(A) Graphics package
-(B) Formatting package
-(C) Animation package
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: A. Graphics package
-50. Which shortcut key is used to compile and run the program in C++?
-(A) Alt+F9
-(B) Alt+F5
-(C) Ctrl+F9
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: E. None of the above
-51. What does the control unit generate to control other units?
-(A) Timing signals
-(B) Command signals
-(C) Control signals
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: D. More than one of the above 
-52. Which of the following is user-defined header file extension used in C++?
-(A) hg
-(B) cpp
-(C) h
-(D) More than one of the above
-(E) None of the above
-✅ Correct Answer: C. h
-(D) More than one of the above
-(E) None of the above
-53. The most common addressing
-technique employed by a CPU is
-(A) direct
-(B) indirect
-(C) immediate
-(D) More than one of the above
-(E) None of the above
-54. What will happen if the following
-C++ statement is compiled and
-executed?
+
+---
+
+### **Question 42**
+**Which language is better for writing structured code?**
+
+**Options:**  
+- **A.** PASCAL  
+- **B.** FORTRAN  
+- **C.** BASIC  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. PASCAL**
+
+---
+
+### **Question 43**
+**Which language does a browser use to display information from the World Wide Web?**
+
+**Options:**  
+- **A.** Machine code  
+- **B.** Assembly language  
+- **C.** C++  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above** *(HTML is used)*
+
+---
+
+### **Question 44**
+**Select the true statement for compiler.**
+
+**Options:**  
+- **A.** The input of the compiler is source program.  
+- **B.** It translates the source code into object code as a whole.  
+- **C.** The output of the compiler is object code.  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 45**
+**_____ is used to shift processes so they are contiguous, and all free memory is in one block.**
+
+**Options:**  
+- **A.** Fragmentation  
+- **B.** Compaction  
+- **C.** External Fragmentation  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Compaction**
+
+---
+
+### **Question 46**
+**Which of the following is not a valid variable name in most programming languages?**
+
+**Options:**  
+- **A.** myVariable  
+- **B.** 123Variable  
+- **C.** _myVariable  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. 123Variable**
+
+---
+
+### **Question 47**
+**Secondary memory is the long-term store for programs and data while main memory holds program and data currently in use. What kind of an organization is this?**
+
+**Options:**  
+- **A.** Physical  
+- **B.** Logical  
+- **C.** Structural  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Physical**
+
+---
+
+### **Question 48**
+**If a semicolon is not used at the end of the statement, what message will be displayed by C++?**
+
+**Options:**  
+- **A.** Semicolon missing  
+- **B.** Statement missing  
+- **C.** Error in statements  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above**
+
+---
+
+### **Question 49**
+**A set of libraries that provides programmatically access to some kind of graphics 2D functions is**
+
+**Options:**  
+- **A.** Graphics package  
+- **B.** Formatting package  
+- **C.** Animation package  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Graphics package**
+
+---
+
+### **Question 50**
+**Which shortcut key is used to compile and run the program in C++?**
+
+**Options:**  
+- **A.** Alt+F9  
+- **B.** Alt+F5  
+- **C.** Ctrl+F9  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above**
+
+---
+
+### **Question 51**
+**What does the control unit generate to control other units?**
+
+**Options:**  
+- **A.** Timing signals  
+- **B.** Command signals  
+- **C.** Control signals  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 52**
+**Which of the following is user-defined header file extension used in C++?**
+
+**Options:**  
+- **A.** hg  
+- **B.** cpp  
+- **C.** h  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. h**
+
+---
+
+### **Question 53**
+**The most common addressing technique employed by a CPU is**
+
+**Options:**  
+- **A.** direct  
+- **B.** indirect  
+- **C.** immediate  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. indirect**
+
+---
+
+### **Question 54**
+**What will happen if the following C++ statement is compiled and executed?**
+
+```
 int *ptr = NULL;
 delete ptr;
-(A) The program is not
-semantically correct
-(B) The program is compiled
-and executed successfully
-(C) The program gives a
-compile-time error
-(D) More than one of the above
-(E) None of the above
-55. In various devices, _____ are
-used to overcome the difference
-in data transfer speed.
-(A) multiple buses
-(B) buffer registers
-(C) speed-enhancing circuitries
-(D) More than one of the above
-(E) None of the above
-56. What do we use to extend the
-connectivity of the processor
-bus?
-(A) PCI bus
-(B) Multiple bus
-(C) SCSI bus
-(D) More than one of the above
-(E) None of the above
-57. In memory mapped I/O
-(A) the I/O devices and the
-memory share the same
-address space
-(B) the I/O devices have a
-separate address space
-(C) the memory and I/O devices
-have an associated address
-space
-(D) More than one of the above
-(E) None of the above 
-58. What is the addressing called
-that is used in an instruction of
-the form ADD X Y?
-(A) Indirect
-(B) Index
-(C) Absolute
-(D) More than one of the above
-(E) None of the above
-59. Which of the following correctly
-declares an array in C++?
-(A) array{10};
-(B) int array;
-(C) int array[10];
-(D) More than one of the above
-(E) None of the above
-60. SQL views are also known as
-(A) simple tables
-(B) virtual tables
-(C) complex tables
-(D) More than one of the above
-(E) None of the above
-61. How many primary keys can
-be there in a table?
-(A) Only 1
-(B) Only 2
-(C) Depends on number of
-columns
-(D) More than one of the above
-(E) None of the above
-62. What will be the output of the
-following C++ code?
+```
+
+**Options:**  
+- **A.** The program is not semantically correct  
+- **B.** The program is compiled and executed successfully  
+- **C.** The program gives a compile-time error  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. The program is compiled and executed successfully**
+
+---
+
+### **Question 55**
+**In various devices, _____ are used to overcome the difference in data transfer speed.**
+
+**Options:**  
+- **A.** multiple buses  
+- **B.** buffer registers  
+- **C.** speed-enhancing circuitries  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. buffer registers**
+
+---
+
+### **Question 56**
+**What do we use to extend the connectivity of the processor bus?**
+
+**Options:**  
+- **A.** PCI bus  
+- **B.** Multiple bus  
+- **C.** SCSI bus  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. PCI bus**
+
+---
+
+### **Question 57**
+**In memory mapped I/O**
+
+**Options:**
+- **A.** the I/O devices and the memory share the same address space
+- **B.** the I/O devices have a separate address space
+- **C.** the memory and I/O devices have an associated address space
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. the I/O devices and the memory share the same address space**
+
+---
+
+### **Question 58**
+**What is the addressing called that is used in an instruction of the form ADD X Y?**
+
+**Options:**
+- **A.** Indirect
+- **B.** Index
+- **C.** Absolute
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Absolute**
+
+---
+
+### **Question 59**
+**Which of the following correctly declares an array in C++?**
+
+**Options:**
+- **A.** array{10};
+- **B.** int array;
+- **C.** int array[10];
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. int array[10]**
+
+---
+
+### **Question 60**
+**SQL views are also known as**
+
+**Options:**
+- **A.** simple tables
+- **B.** virtual tables
+- **C.** complex tables
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. virtual tables**
+
+---
+
+### **Question 61**
+**How many primary keys can be there in a table?**
+
+**Options:**
+- **A.** Only 1
+- **B.** Only 2
+- **C.** Depends on number of columns
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Only 1**
+
+---
+
+### **Question 62**
+**What will be the output of the following C++ code?**
+
+```cpp
 #include<iostream>
 #include<string>
 using namespace std;
-int main(int argc, char
-const *argv[ ])
+int main(int argc, char const *argv[])
 {
-char s1[6]=“Hello”;
-char s2[6]=“World”;
-char s3[12]=s1+“ ”+s2;
-cout<<s3;
-return 0;
+    char s1[6]="Hello";
+    char s2[6]="World";
+    char s3[12]=s1+" "+s2;
+    cout<<s3;
+    return 0;
 }
-(A) Hello
-(B) World
-(C) Error
-(D) More than one of the above
-(E) None of the above
-63. Which of the following is not
-constraint in SQL?
-(A) Primary key
-(B) Not null
-(C) Union
-(D) More than one of the above
-(E) None of the above
-64. Which of the following is not a
-valid aggregate function?
-(A) COUNT
-(B) COMPUTE
-(C) SUM
-(D) More than one of the above
-(E) None of the above
-65. Who is the father of computer?
-(A) James Gosling
-(B) Charles Babbage
-(C) Dennis Ritchie
-(D) More than one of the above
-(E) None of the above
-66. If we have not specified ASC or
-DESC after an SQL ORDER BY
-clause, which of the following is
-used by default?
-(A) DESC
-(B) ASC
-(C) There is no default value
-(D) More than one of the above
-(E) None of the above
-67. In IA-32 architecture along with
-the general flags, which of the
-following conditional flags is
-provided?
-(A) TF
-(B) IOPL
-(C) IF
-(D) More than one of the above
-(E) None of the above
+```
 
-68. Which of the following is true
-about the HAVING clause?
-(A) Similar to the WHERE
-clause but is used for
-columns rather than groups
-(B) Similar to WHERE clause
-but is used for rows rather
-than columns
-(C) Similar to WHERE clause
-but is used for groups
-rather than rows
-(D) More than one of the above
-(E) None of the above
-69. The method of accessing the I/O
-devices by repeatedly checking
-the status flags is
-(A) program-controlled I/O
-(B) memory-mapped I/O
-(C) I/O-mapped I/O
-(D) More than one of the above
-(E) None of the above
-70. _____ clause creates temporary
-relation for the query on which it
-is defined.
-(A) WITH
-(B) FROM
-(C) WHERE
-(D) More than one of the above
-(E) None of the above
-71. The SQL statement
-SELECT ROUND (65.726, -1)
-FROM DUAL;
-prints
-(A) 70
-(B) garbage
-(C) 726
-(D) More than one of the above
-(E) None of the above
-72. The matrix contains m rows and
-n columns. The matrix is called
-Sparse Matrix if
-(A) total number of zero
-elements > ( )/ m n* 2
-(B) total number of zero
-elements = m n+
-(C) total number of zero
-elements = m n/
-(D) More than one of the above
-(E) None of the above 
-73. _____ command makes the
-updates performed by the
-transaction permanent in the
-database.
-(A) ROLLBACK
-(B) COMMIT
-(C) TRUNCATE
-(D) More than one of the above
-(E) None of the above
-74. Which of the following is the
-basic approach for joining
-tables?
-(A) Union JOIN
-(B) Natural JOIN
-(C) Subqueries
-(D) More than one of the above
-(E) None of the above
-75. What is the time complexity of
-an infix to postfix conversion
-algorithm?
-(A) O N N ( log )
-(B) O N( )
-(C) O N( ) 2
-(D) More than one of the above
-(E) None of the above
-76. Which of the following is the
-advantage of the array data
-structure?
-(A) Elements of mixed data
-types can be stored
-(B) Easier to access the
-elements in an array
-(C) Index of the first element
-starts from 1
-(D) More than one of the above
-(E) None of the above
-77. Which data structure is mainly
-used for implementing the
-recursive algorithm?
-(A) Queue
-(B) Stack
-(C) Binary tree
-(D) More than one of the above
-(E) None of the above
+**Options:**
+- **A.** Hello
+- **B.** World
+- **C.** Error
+- **D.** More than one of the above
+- **E.** None of the above
 
-78. What is the postfix expression
-for the corresponding infix
-expression?
+✅ **Correct Answer:** **C. Error**
+
+---
+
+### **Question 63**
+**Which of the following is not a constraint in SQL?**
+
+**Options:**
+- **A.** Primary key
+- **B.** Not null
+- **C.** Union
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Union**
+
+---
+
+### **Question 64**
+**Which of the following is not a valid aggregate function?**
+
+**Options:**
+- **A.** COUNT
+- **B.** COMPUTE
+- **C.** SUM
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. COMPUTE**
+
+---
+
+### **Question 65**
+**Who is the father of computer?**
+
+**Options:**
+- **A.** James Gosling
+- **B.** Charles Babbage
+- **C.** Dennis Ritchie
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Charles Babbage**
+
+---
+
+### **Question 66**
+**If we have not specified ASC or DESC after an SQL ORDER BY clause, which of the following is used by default?**
+
+**Options:**
+- **A.** DESC
+- **B.** ASC
+- **C.** There is no default value
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. ASC**
+
+---
+
+### **Question 67**
+**In IA-32 architecture along with the general flags, which of the following conditional flags is provided?**
+
+**Options:**
+- **A.** TF
+- **B.** IOPL
+- **C.** IF
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 68**
+**Which of the following is true about the HAVING clause?**
+
+**Options:**
+- **A.** Similar to the WHERE clause but is used for columns rather than groups
+- **B.** Similar to WHERE clause but is used for rows rather than columns
+- **C.** Similar to WHERE clause but is used for groups rather than rows
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Similar to WHERE clause but is used for groups rather than rows**
+
+---
+
+### **Question 69**
+**The method of accessing the I/O devices by repeatedly checking the status flags is**
+
+**Options:**
+- **A.** program-controlled I/O
+- **B.** memory-mapped I/O
+- **C.** I/O-mapped I/O
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. program-controlled I/O**
+
+---
+
+### **Question 70**
+**_____ clause creates temporary relation for the query on which it is defined.**
+
+**Options:**
+- **A.** WITH
+- **B.** FROM
+- **C.** WHERE
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. WITH**
+
+---
+
+### **Question 71**
+**The SQL statement**
+
+```sql
+SELECT ROUND (65.726, -1) FROM DUAL;
+```
+
+**prints**
+
+**Options:**
+- **A.** 70
+- **B.** garbage
+- **C.** 726
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. 70**
+
+---
+
+### **Question 72**
+**The matrix contains m rows and n columns. The matrix is called Sparse Matrix if**
+
+**Options:**
+- **A.** total number of zero elements > (m*n)/2
+- **B.** total number of zero elements = m*n
+- **C.** total number of zero elements = m*n/2
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. total number of zero elements > (m*n)/2**
+
+---
+
+### **Question 73**
+**_____ command makes the updates performed by the transaction permanent in the database.**
+
+**Options:**
+- **A.** ROLLBACK
+- **B.** COMMIT
+- **C.** TRUNCATE
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. COMMIT**
+
+---
+
+### **Question 74**
+**Which of the following is the basic approach for joining tables?**
+
+**Options:**
+- **A.** Union JOIN
+- **B.** Natural JOIN
+- **C.** Subqueries
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Natural JOIN**
+
+---
+
+### **Question 75**
+**What is the time complexity of an infix to postfix conversion algorithm?**
+
+**Options:**
+- **A.** O(N log N)
+- **B.** O(N)
+- **C.** O(N²)
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. O(N)**
+
+---
+
+### **Question 76**
+**Which of the following is the advantage of the array data structure?**
+
+**Options:**
+- **A.** Elements of mixed data types can be stored
+- **B.** Easier to access the elements in an array
+- **C.** Index of the first element starts from 1
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Easier to access the elements in an array**
+
+---
+
+### **Question 77**
+**Which data structure is mainly used for implementing the recursive algorithm?**
+
+**Options:**
+- **A.** Queue
+- **B.** Stack
+- **C.** Binary tree
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Stack**
+
+---
+
+### **Question 78**
+**What is the postfix expression for the corresponding infix expression?**
+
+```
 a b c d e + * + * ( )
-(A) abc de * + * +
-(B) abc de + * * +
-(C) a bc de + * + *
-(D) More than one of the above
-(E) None of the above
-79. Which one of the following is not
-the type of queue?
-(A) Linear queue
-(B) Circular queue
-(C) Double-ended queue
-(D) More than one of the above
-(E) None of the above
-80. The necessary condition to be
-checked before deletion from the
-queue is
-(A) overflow
-(B) underflow
-(C) rear value
-(D) More than one of the above
-(E) None of the above
-81. After performing following set of
-operations, what does the final
-list look contain?
+```
+
+**Options:**
+- **A.** abc de * + * +
+- **B.** abc de + * * +
+- **C.** a bc de + * + *
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. abc de * + * +**
+
+---
+
+### **Question 79**
+**Which one of the following is not the type of queue?**
+
+**Options:**
+- **A.** Linear queue
+- **B.** Circular queue
+- **C.** Double-ended queue
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above**
+
+---
+
+### **Question 80**
+**The necessary condition to be checked before deletion from the queue is**
+
+**Options:**
+- **A.** overflow
+- **B.** underflow
+- **C.** rear value
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. underflow**
+
+---
+
+### **Question 81**
+**After performing following set of operations, what does the final list look contain?**
+
+```
 InsertFront(10);
 InsertFront(20);
 InsertRear(30);
@@ -356,647 +604,942 @@ InsertRear(10);
 DeleteRear( );
 InsertRear(15);
 display( );
-(A) 10 30 10 15
-(B) 20 30 40 15
-(C) 10 30 40 15
-(D) More than one of the above
-(E) None of the above
-82. A linear data structure in which
-insertion and deletion operations can be performed from
-both the ends is
-(A) queue
-(B) circular queue
-(C) deque
-(D) More than one of the above
-(E) None of the above 
-83. If circular queue is implemented
-using array having size
-MAX_SIZE in which array index
-starts with 0, front points to the
-first element in the queue, and
-rear points to the last element in
-the queue. Which one of the
-following conditions is used to
-specify that the circular queue is
-empty?
-(A) Front=rear= -1
-(B) Front=rear=0
-(C) Front=rear +1
-(D) More than one of the above
-(E) None of the above
-84. What is the functionality of the
-following piece of code?
+```
+
+**Options:**
+- **A.** 10 30 10 15
+- **B.** 20 30 40 15
+- **C.** 10 30 40 15
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. 10 30 40 15**
+
+---
+
+### **Question 82**
+**A linear data structure in which insertion and deletion operations can be performed from both the ends is**
+
+**Options:**
+- **A.** queue
+- **B.** circular queue
+- **C.** deque
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. deque**
+
+---
+
+### **Question 83**
+**If circular queue is implemented using array having size MAX_SIZE in which array index starts with 0, front points to the first element in the queue, and rear points to the last element in the queue. Which one of the following conditions is used to specify that the circular queue is empty?**
+
+**Options:**
+- **A.** Front=rear= -1
+- **B.** Front=rear=0
+- **C.** Front=rear +1
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Front=rear= -1**
+
+---
+
+### **Question 84**
+**What is the functionality of the following piece of code?**
+
+```java
 public void fun(int x)
 {
-q1.offer(x);
+    q1.offer(x);
 }
-(A) Perform push( ) with push
-as the costlier operation
-(B) Perform push( ) with pop as
-the costlier operation
-(C) Perform pop( ) with push as
-the costlier operation
-(D) More than one of the above
-(E) None of the above
-85. Which one of the following
-techniques is not used in the
-binary tree?
-(A) Randomized traversal
-(B) Preorder traversal
-(C) Postorder traversal
-(D) More than one of the above
-(E) None of the above
-86. Which of the following is not a
-feature of DBMS?
-(A) Minimum duplication and
-redundancy of data
-(B) High-level of security
-(C) Single-user access only
-(D) More than one of the above
-(E) None of the above 
-87. Which of the following statements is not true about the
-doubly linked list?
-(A) We can traverse in both the
-directions.
-(B) It requires extra space.
-(C) Implementation of doubly
-linked list is easier than the
-singly linked list.
-(D) More than one of the above
-(E) None of the above
-88. The values appearing in given
-attributes of any tuple in the
-referencing relation must
-likewise occur in specified
-attributes of at least one tuple
-in the referenced relation,
-according to _____ integrity
-constraint.
-(A) referential
-(B) primary
-(C) referencing
-(D) More than one of the above
-(E) None of the above
-89. Which of the following options is
-not true about the binary
-search tree?
-(A) The value of the left child
-should be less than the root
-node.
-(B) The value of the right child
-should be greater than the
-root node.
-(C) The left and right subtrees
-should also be a binary
-search tree.
-(D) More than one of the above
-(E) None of the above
-90. The expression Y=AB+BC+AC
-shows the _____ operation.
-(A) EX-OR
-(B) SOP
-(C) POS
-(D) More than one of the above
-(E) None of the above
-91. What are the canonical forms of
-Boolean expressions?
-(A) OR and XOR
-(B) NOR and XNOR
-(C) SOM and POM
-(D) More than one of the above
-(E) None of the above 
-92. Derive the Boolean expression
-for the logic circuit shown
-below :
-(A) C A B DE ( ) +
-(B) [ ( ) ] C A B D E + + ¢
-(C) [[ ( ) ] ] C A B D E + ¢
-(D) More than one of the above
-(E) None of the above
-93. Boolean algebra can be used
-(A) for designing the digital
-computers
-(B) in building logic symbols
-(C) in circuit theory
-(D) More than one of the above
-(E) None of the above
-94. What does the control unit
-generate to control other units?
-(A) Transfer signals
-(B) Command signals
-(C) Control signals
-(D) More than one of the above
-(E) None of the above
-95. To display time in railway
-stations which digital circuit is
-used?
-(A) Seven-segment decoder
-(B) Eight-segment encoder
-(C) 8 : 3 multiplexer
-(D) More than one of the above
-(E) None of the above
-96. What kind of transmission
-medium is most appropriate to
-carry data in a computer
-network that is exposed to
-electrical interference?
-(A) Unshielded twisted pair
-(B) Optical fiber
-(C) Coaxial cable
-(D) More than one of the above
-(E) None of the above
-97. Which network topology
-requires a central controller or
-hub?
-(A) Star
-(B) Mesh
-(C) Ring
-(D) More than one of the above
-(E) None of the above
-98. A collection of hyperlinked
-documents on the Internet
-forms the
-(A) World Wide Web (WWW)
-(B) e-mail system
-(C) mailing list
-(D) More than one of the above
-(E) None of the above
-99. Which of the following is not a
-step in the Header translation
-procedure?
-(A) The IPv6 mapped address is
-changed to an IPv4 address
-by extracting the rightmost
-32 bits
-(B) The value of the IPv6
-priority field is discarded
-(C) The IPv6 flow label is
-considered
-(D) More than one of the above
-(E) None of the above
-100. Which one of the following
-would breach the integrity of a
-system?
-(A) Locking the room to prevent
-theft
-(B) Full access rights for all
-users
-(C) Fitting the system with an
-anti-theft device
-(D) More than one of the above
-(E) None of the above
-101. Which sublayer of the data link
-layer performs data link
-functions that depend upon the
-type of medium?
-(A) Logical link control sublayer
-(B) Media access control
-sublayer
-(C) Network interface control
-sublayer
-(D) More than one of the above
-(E) None of the above 
-102. Which one of the following is not
-a network topology?
-(A) Peer-to-peer
-(B) Ring
-(C) Bus
-(D) More than one of the above
-(E) None of the above
-103. How do structures and classes
-in C++ differ?
-(A) Structures by default hide
-every member whereas
-classes do not
-(B) In structures, members are
-public by default, whereas,
-in classes, they are private
-by default
-(C) Structures cannot have
-private members, whereas
-classes can have
-(D) More than one of the above
-(E) None of the above
-104. When the mail server sends mail
-to other mail servers it becomes
-(A) SMTP client
-(B) SMTP server
-(C) peer
-(D) More than one of the above
-(E) None of the above
-105. The length of an IPv6 address is
-(A) 32 bits
-(B) 64 bits
-(C) 256 bits
-(D) More than one of the above
-(E) None of the above
-106. What is the use of ios::trunc
-mode?
-(A) To open a file in input mode
-(B) To open a file in output
-mode
-(C) To truncate an existing file
-to zero
-(D) More than one of the above
-(E) None of the above 
-107. Which layer of the TCP/IP stack
-corresponds to the OSI model
-transport layer?
-(A) Host-to-host
-(B) Application
-(C) Internet
-(D) More than one of the above
-(E) None of the above
-108. Which of the following
-statements is/are correct?
-1. It is not possible to combine
-two or more files opening
-mode in open( ) method.
-2. It is possible to combine two
-or more files opening mode
-in open( ) method.
-3. ios::in and ios::out are
-input and output file
-opening modes respectively.
-(A) 1, 3
-(B) 2, 3
-(C) 3 only
-(D) More than one of the above
-(E) None of the above
-109. Which of the following is true
-with regard to the ping
-command?
-(A) Ping stands for Packet
-Internet Generator.
-(B) The ping command checks
-the port level connectivity
-between source destinations endpoints.
-(C) Ping summarizes the packet
-loss and round-trip delay
-between two IP endpoints.
-(D) More than one of the above
-(E) None of the above
-110. The correct statement for a
-function that takes pointer to a
-float, a pointer to a pointer to a
-char and returns a pointer to a
-pointer to an integer is
-(A) int **fun(float **, char **)
-(B) int *fun(float *, char *)
-(C) int **fun(float *, char **)
-(D) More than one of the above
-(E) None of the above
-111. The private key in asymmetric
-key cryptography is kept by
-(A) sender
-(B) receiver
-(C) sender and receiver
-(D) More than one of the above
-(E) None of the above 
-112. What will be the output of the
-following C++ code?
+```
+
+**Options:**
+- **A.** Perform push( ) with push as the costlier operation
+- **B.** Perform push( ) with pop as the costlier operation
+- **C.** Perform pop( ) with push as the costlier operation
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above**
+
+---
+
+### **Question 85**
+**Which one of the following techniques is not used in the binary tree?**
+
+**Options:**
+- **A.** Randomized traversal
+- **B.** Preorder traversal
+- **C.** Postorder traversal
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Randomized traversal**
+
+---
+
+### **Question 86**
+**Which of the following is not a feature of DBMS?**
+
+**Options:**
+- **A.** Minimum duplication and redundancy of data
+- **B.** High-level of security
+- **C.** Single-user access only
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Single-user access only**
+
+---
+
+### **Question 87**
+**Which of the following statements is not true about the doubly linked list?**
+
+**Options:**
+- **A.** We can traverse in both the directions.
+- **B.** It requires extra space.
+- **C.** Implementation of doubly linked list is easier than the singly linked list.
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Implementation of doubly linked list is easier than the singly linked list.**
+
+---
+
+### **Question 88**
+**The values appearing in given attributes of any tuple in the referencing relation must likewise occur in specified attributes of at least one tuple in the referenced relation, according to _____ integrity constraint.**
+
+**Options:**
+- **A.** referential
+- **B.** primary
+- **C.** referencing
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. referential**
+
+---
+
+### **Question 89**
+**Which of the following options is not true about the binary search tree?**
+
+**Options:**
+- **A.** The value of the left child should be less than the root node.
+- **B.** The value of the right child should be greater than the root node.
+- **C.** The left and right subtrees should also be a binary search tree.
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above**
+
+---
+
+### **Question 90**
+**The expression Y=AB+BC+AC shows the _____ operation.**
+
+**Options:**
+- **A.** EX-OR
+- **B.** SOP
+- **C.** POS
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. SOP**
+
+---
+
+### **Question 91**
+**What are the canonical forms of Boolean expressions?**
+
+**Options:**
+- **A.** OR and XOR
+- **B.** NOR and XNOR
+- **C.** SOM and POM
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. SOM and POM**
+
+---
+
+### **Question 92**
+**Derive the Boolean expression for the logic circuit shown below:**
+
+*(Circuit diagram not available in text format)*
+
+**Options:**
+- **A.** C A B DE ( ) +
+- **B.** [ ( ) ] C A B D E + + ¢
+- **C.** [[ ( ) ] ] C A B D E + ¢
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above**
+
+---
+
+### **Question 93**
+**Boolean algebra can be used**
+
+**Options:**
+- **A.** for designing the digital computers
+- **B.** in building logic symbols
+- **C.** in circuit theory
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 94**
+**What does the control unit generate to control other units?**
+
+**Options:**
+- **A.** Transfer signals
+- **B.** Command signals
+- **C.** Control signals
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 95**
+**To display time in railway stations which digital circuit is used?**
+
+**Options:**
+- **A.** Seven-segment decoder
+- **B.** Eight-segment encoder
+- **C.** 8 : 3 multiplexer
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Seven-segment decoder**
+
+---
+
+### **Question 96**
+**What kind of transmission medium is most appropriate to carry data in a computer network that is exposed to electrical interference?**
+
+**Options:**
+- **A.** Unshielded twisted pair
+- **B.** Optical fiber
+- **C.** Coaxial cable
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Optical fiber**
+
+---
+
+### **Question 97**
+**Which network topology requires a central controller or hub?**
+
+**Options:**
+- **A.** Star
+- **B.** Mesh
+- **C.** Ring
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Star**
+
+---
+
+### **Question 98**
+**A collection of hyperlinked documents on the Internet forms the**
+
+**Options:**
+- **A.** World Wide Web (WWW)
+- **B.** e-mail system
+- **C.** mailing list
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. World Wide Web (WWW)**
+
+---
+
+### **Question 99**
+**Which of the following is not a step in the Header translation procedure?**
+
+**Options:**
+- **A.** The IPv6 mapped address is changed to an IPv4 address by extracting the rightmost 32 bits
+- **B.** The value of the IPv6 priority field is discarded
+- **C.** The IPv6 flow label is considered
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. The IPv6 flow label is considered**
+
+---
+
+### **Question 100**
+**Which one of the following would breach the integrity of a system?**
+
+**Options:**
+- **A.** Locking the room to prevent theft
+- **B.** Full access rights for all users
+- **C.** Fitting the system with an anti-theft device
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Full access rights for all users**
+
+---
+
+### **Question 101**
+**Which sublayer of the data link layer performs data link functions that depend upon the type of medium?**
+
+**Options:**
+- **A.** Logical link control sublayer
+- **B.** Media access control sublayer
+- **C.** Network interface control sublayer
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Media access control sublayer**
+
+---
+
+### **Question 102**
+**Which one of the following is not a network topology?**
+
+**Options:**
+- **A.** Peer-to-peer
+- **B.** Ring
+- **C.** Bus
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above**
+
+---
+
+### **Question 103**
+**How do structures and classes in C++ differ?**
+
+**Options:**
+- **A.** Structures by default hide every member whereas classes do not
+- **B.** In structures, members are public by default, whereas, in classes, they are private by default
+- **C.** Structures cannot have private members, whereas classes can have
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. In structures, members are public by default, whereas, in classes, they are private by default**
+
+---
+
+### **Question 104**
+**When the mail server sends mail to other mail servers it becomes**
+
+**Options:**
+- **A.** SMTP client
+- **B.** SMTP server
+- **C.** peer
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. SMTP client**
+
+---
+
+### **Question 105**
+**The length of an IPv6 address is**
+
+**Options:**
+- **A.** 32 bits
+- **B.** 64 bits
+- **C.** 256 bits
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **E. None of the above** *(IPv6 addresses are 128 bits)*
+
+---
+
+### **Question 106**
+**What is the use of ios::trunc mode?**
+
+**Options:**
+- **A.** To open a file in input mode
+- **B.** To open a file in output mode
+- **C.** To truncate an existing file to zero
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. To truncate an existing file to zero**
+
+---
+
+### **Question 107**
+**Which layer of the TCP/IP stack corresponds to the OSI model transport layer?**
+
+**Options:**
+- **A.** Host-to-host
+- **B.** Application
+- **C.** Internet
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Host-to-host**
+
+---
+
+### **Question 108**
+**Which of the following statements is/are correct?**
+
+1. It is not possible to combine two or more files opening mode in open( ) method.  
+2. It is possible to combine two or more files opening mode in open( ) method.  
+3. ios::in and ios::out are input and output file opening modes respectively.
+
+**Options:**
+- **A.** 1, 3
+- **B.** 2, 3
+- **C.** 3 only
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. 2, 3**
+
+---
+
+### **Question 109**
+**Which of the following is true with regard to the ping command?**
+
+**Options:**
+- **A.** Ping stands for Packet Internet Generator.
+- **B.** The ping command checks the port level connectivity between source destinations endpoints.
+- **C.** Ping summarizes the packet loss and round-trip delay between two IP endpoints.
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Ping summarizes the packet loss and round-trip delay between two IP endpoints.**
+
+---
+
+### **Question 110**
+**The correct statement for a function that takes pointer to a float, a pointer to a pointer to a char and returns a pointer to a pointer to an integer is**
+
+**Options:**
+- **A.** int **fun(float **, char **)
+- **B.** int *fun(float *, char *)
+- **C.** int **fun(float *, char **)
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. int **fun(float *, char **)**
+
+---
+
+### **Question 111**
+**The private key in asymmetric key cryptography is kept by**
+
+**Options:**
+- **A.** sender
+- **B.** receiver
+- **C.** sender and receiver
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. sender and receiver**
+
+---
+
+### **Question 112**
+**What will be the output of the following C++ code?**
+
+```cpp
 #include<iostream>
 using namespace std;
 long factorial (long a)
 {
-if (a>1)
-return (a * factorial (a+1));
-else
-return(1);
+    if (a>1)
+        return (a * factorial (a+1));
+    else
+        return(1);
 }
 int main( )
 {
-long num = 3;
-cout <<num<<“!=”<<factorial
-(num);
-return 0;
+    long num = 3;
+    cout << num << "!=" << factorial(num);
+    return 0;
 }
-(A) 6
-(B) 24
-(C) Segmentation fault
-(D) More than one of the above
-(E) None of the above
-113. Which of the following features
-must be supported by any
-programming language to
-become a pure object-oriented
-programming language?
-(A) Encapsulation
-(B) Inheritance
-(C) Polymorphism
-(D) More than one of the above
-(E) None of the above
-114. Which is correct syntax of
-inheritance?
-(A) class base_classname :
-access derived_classname
-{/*define class body*/};
-(B) class derived_classname :
-access base_classname
-{/*define class body*/};
-(C) class derived_classname :
-base_classname {/*define
-class body*/};
-(D) More than one of the above
-(E) None of the above
-115. Which one of the following is the
-correct definition of “is_array( );”
-function in C++?
-(A) It checks that the specified
-variable is of the array or
-not
-(B) It checks that the specified
-array is of single dimension
-or not
-(C) It checks that the specified
-array is of multi-dimension
-or not
-(D) More than one of the above
-(E) None of the above 
-116. Which of the following statements is correct about the
-class?
-(A) An object is an instance of
-its class.
-(B) A class is an instance of its
-object.
-(C) An object is the instance of
-the data type of that class.
-(D) More than one of the above
-(E) None of the above
-117. Which of the following can be
-used to create an abstract class
-in the C++ programming
-language?
-(A) By using the pure virtual
-function in the class
-(B) By declaring a virtual
-function in the base class
-(C) By declaring the virtual
-keyword afterward the class
-declaration
-(D) More than one of the above
-(E) None of the above
-118. Which of the following statements is correct about the C++
-programming language?
-(A) In C++, both the static and
-dynamic types checking are
-allowed.
-(B) In C++, member function
-are allowed to be of the type
-const.
-(C) In C++, dynamic checking is
-allowed.
-(D) More than one of the above
-(E) None of the above
-119. Which feature of OOP is
-indicated by the following code?
+```
+
+**Options:**
+- **A.** 6
+- **B.** 24
+- **C.** Segmentation fault
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Segmentation fault**
+
+---
+
+### **Question 113**
+**Which of the following features must be supported by any programming language to become a pure object-oriented programming language?**
+
+**Options:**
+- **A.** Encapsulation
+- **B.** Inheritance
+- **C.** Polymorphism
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 114**
+**Which is correct syntax of inheritance?**
+
+**Options:**
+- **A.** class base_classname : access derived_classname {/*define class body*/};
+- **B.** class derived_classname : access base_classname {/*define class body*/};
+- **C.** class derived_classname : base_classname {/*define class body*/};
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. class derived_classname : access base_classname {/*define class body*/};**
+
+---
+
+### **Question 115**
+**Which one of the following is the correct definition of "is_array( );"
+function in C++?**
+
+**Options:**
+- **A.** It checks that the specified variable is of the array or not
+- **B.** It checks that the specified array is of single dimension or not
+- **C.** It checks that the specified array is of multi-dimension or not
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. It checks that the specified variable is of the array or not**
+
+---
+
+### **Question 116**
+**Which of the following statements is correct about the class?**
+
+**Options:**
+- **A.** An object is an instance of its class.
+- **B.** A class is an instance of its object.
+- **C.** An object is the instance of the data type of that class.
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. An object is an instance of its class.**
+
+---
+
+### **Question 117**
+**Which of the following can be used to create an abstract class in the C++ programming language?**
+
+**Options:**
+- **A.** By using the pure virtual function in the class
+- **B.** By declaring a virtual function in the base class
+- **C.** By declaring the virtual keyword afterward the class declaration
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. By using the pure virtual function in the class**
+
+---
+
+### **Question 118**
+**Which of the following statements is correct about the C++ programming language?**
+
+**Options:**
+- **A.** In C++, both the static and dynamic types checking are allowed.
+- **B.** In C++, member function are allowed to be of the type const.
+- **C.** In C++, dynamic checking is allowed.
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 119**
+**Which feature of OOP is indicated by the following code?**
+
+```cpp
 class student{int marks;};
 class topper: public student{int age;
 topper(int age) {this.age=age;}};
-(A) Encapsulation and inheritance
-(B) Inheritance and polymorphism
-(C) Polymorphism
-(D) More than one of the above
-(E) None of the above
-120. Which of the following natural
-elements is the primary element
-in computer chips?
-(A) Carbon
-(B) Silicon
-(C) Iron
-(D) More than one of the above
-(E) None of the above 
-✅ Correct Answer: B. Silicon
+```
 
-PART—III
-( COMPUTER )
-71. The brain of any computer
-system is
-(A) ALU
-(B) memory
-(C) CPU
-(D) More than one of the above
-(E) None of the above
-72. When a key is pressed on
-keyboard, which standard
-is used for converting
-the keystroke into the
-corresponding bits?
-(A) ANSI
-(B) ASCII
-(C) EBCDIC
-(D) More than one of the above
-(E) None of the above
-73. What difference do the fifth
-generation computers have from
-other generation computers?
-(A) Technological advancement
-(B) Object-oriented
-programming
-(C) Scientific code
-(D) More than one of the above
-(E) None of the above
-74. Source code is available to view,
-modify and redistribute in
-(A) open source
-(B) licensed
-(C) proprietary
-(D) More than one of the above
-(E) None of the above
-75. Machine language is
-(A) machine dependent
-(B) difficult to program
-(C) error prone
-(D) More than one of the above
-(E) None of the above
-76. An assembly language is a/an
-(A) low-level programming
-language
-(B) middle-level programming
-language
-(C) Internet-based
-programming language
-(D) More than one of the above
-(E) None of the above 
-77. A compiler is a translating
-program which
-(A) translates instruction of a
-high-level language into
-machine language
-(B) translates entire source
-program into machine
-language program
-(C) It is not involved in
-program’s execution
-(D) More than one of the above
-(E) None of the above
-78. Which of the following
-approaches is used by C++?
-(A) Left-right
-(B) Top-down
-(C) Bottom-up
-(D) More than one of the above
-(E) None of the above
-79. What is virtual inheritance in
-C++?
-(A) C++ technique to enhance
-multiple inheritance
-(B) C++ technique to ensure
-that a private member of
-the base class can be
-accessed somehow
-(C) C++ technique to avoid
-multiple copies of the base
-class into children/derived
-class
-(D) More than one of the above
-(E) None of the above
-80. What happens if the following
-C++ statement is compiled and
-executed?
+**Options:**
+- **A.** Encapsulation and inheritance
+- **B.** Inheritance and polymorphism
+- **C.** Polymorphism
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Encapsulation and inheritance**
+
+---
+
+### **Question 120**
+**Which of the following natural elements is the primary element in computer chips?**
+
+**Options:**
+- **A.** Carbon
+- **B.** Silicon
+- **C.** Iron
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Silicon**
+
+---
+
+### **Question 121**
+**Which of the following is a divide-and-conquer algorithm?**
+
+**Options:**
+- **A.** Merge sort
+- **B.** Heap sort
+- **C.** Bubble sort
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Merge sort**
+
+---
+
+## 🔧 Computer Fundamentals Questions
+
+### **Question 71**
+**The brain of any computer system is**
+
+**Options:**
+- **A.** ALU
+- **B.** memory
+- **C.** CPU
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. CPU**
+
+---
+
+### **Question 72**
+**When a key is pressed on keyboard, which standard is used for converting the keystroke into the corresponding bits?**
+
+**Options:**
+- **A.** ANSI
+- **B.** ASCII
+- **C.** EBCDIC
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. ASCII**
+
+---
+
+### **Question 73**
+**What difference do the fifth generation computers have from other generation computers?**
+
+**Options:**
+- **A.** Technological advancement
+- **B.** Object-oriented programming
+- **C.** Scientific code
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Object-oriented programming**
+
+---
+
+### **Question 74**
+**Source code is available to view, modify and redistribute in**
+
+**Options:**
+- **A.** open source
+- **B.** licensed
+- **C.** proprietary
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. open source**
+
+---
+
+### **Question 75**
+**Machine language is**
+
+**Options:**
+- **A.** machine dependent
+- **B.** difficult to program
+- **C.** error prone
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 76**
+**An assembly language is a/an**
+
+**Options:**
+- **A.** low-level programming language
+- **B.** middle-level programming language
+- **C.** Internet-based programming language
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. low-level programming language**
+
+---
+
+### **Question 77**
+**A compiler is a translating program which**
+
+**Options:**
+- **A.** translates instruction of a high-level language into machine language
+- **B.** translates entire source program into machine language program
+- **C.** It is not involved in program's execution
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
+
+---
+
+### **Question 78**
+**Which of the following approaches is used by C++?**
+
+**Options:**
+- **A.** Left-right
+- **B.** Top-down
+- **C.** Bottom-up
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Bottom-up**
+
+---
+
+### **Question 79**
+**What is virtual inheritance in C++?**
+
+**Options:**
+- **A.** C++ technique to enhance multiple inheritance
+- **B.** C++ technique to ensure that a private member of the base class can be accessed somehow
+- **C.** C++ technique to avoid multiple copies of the base class into children/derived class
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. C++ technique to avoid multiple copies of the base class into children/derived class**
+
+---
+
+### **Question 80**
+**What happens if the following C++ statement is compiled and executed?**
+
+```cpp
 int*ptr=NULL;
-deleteptr;
-(A) The program is not
-semantically correct
-(B) The program is compiled
-and executed successfully
-(C) The program is compiled
-successfully but throws an
-error during runtime
-(D) More than one of the above
-(E) None of the above
-81. What is the difference between
-delete and delete[ ] in C++?
-(A) Delete is syntactically
-correct but delete[ ] is
-wrong and hence will give
-an error if used in any case
-(B) Delete is used to delete
-normal objects whereas
-delete[ ] is used to delete
-pointer objects
-(C) Delete is used to delete
-single object whereas
-delete[ ] is used to
-delete multiple (array/
-pointer of) objects
-(D) More than one of the above
-(E) None of the above  
-82. What happens if the following
-program is executed in C and
-C++?
+delete ptr;
+```
+
+**Options:**
+- **A.** The program is not semantically correct
+- **B.** The program is compiled and executed successfully
+- **C.** The program is compiled successfully but throws an error during runtime
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. The program is compiled and executed successfully**
+
+---
+
+### **Question 81**
+**What is the difference between delete and delete[ ] in C++?**
+
+**Options:**
+- **A.** Delete is syntactically correct but delete[ ] is wrong and hence will give an error if used in any case
+- **B.** Delete is used to delete normal objects whereas delete[ ] is used to delete pointer objects
+- **C.** Delete is used to delete single object whereas delete[ ] is used to delete multiple (array/ pointer of) objects
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Delete is used to delete single object whereas delete[ ] is used to delete multiple (array/ pointer of) objects**
+
+---
+
+### **Question 82**
+**What happens if the following program is executed in C and C++?**
+
+```c
 #include<stdio.h>
 int main(void)
 {
-intnew=5;
-printf(“%d”, new);
+    int new=5;
+    printf("%d", new);
 }
-(A) Error in C and successful
-execution in C++
-(B) Error in both C and C++
-(C) Error in C++ and successful
-execution in C
-(D) More than one of the above
-(E) None of the above
-83. What is the value of ‘p’ in the
-following C++ code snippet?
+```
+
+**Options:**
+- **A.** Error in C and successful execution in C++
+- **B.** Error in both C and C++
+- **C.** Error in C++ and successful execution in C
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Error in both C and C++**
+
+---
+
+### **Question 83**
+**What is the value of 'p' in the following C++ code snippet?**
+
+```cpp
 1. #include <iostream>
-2. usingnamespacestd;
+2. using namespace std;
 3. int main()
 4. {
-5. int p;
-6. bool a=true;
-7. bool b=false;
-8. int x =10;
-9. int y =5;
-10. p=((x|y)+(a+b));
-11. cout<<p;
-12. return 0;
+5.     int p;
+6.     bool a=true;
+7.     bool b=false;
+8.     int x =10;
+9.     int y =5;
+10.    p=((x|y)+(a+b));
+11.    cout<<p;
+12.    return 0;
 13. }
-(A) 12
-(B) 16
-(C) 2
-(D) More than one of the above
-(E) None of the above
-84. The C++ code which
-causes abnormal termination
-/behaviour of a program should
-be written under _____ block.
-(A) catch
-(B) throw
-(C) try
-(D) More than one of the above
-(E) None of the above
-85. What will be the output of the
-following C++ code?
+```
+
+**Options:**
+- **A.** 12
+- **B.** 16
+- **C.** 2
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. 16**
+
+---
+
+### **Question 84**
+**The C++ code which causes abnormal termination/behaviour of a program should be written under _____ block.**
+
+**Options:**
+- **A.** catch
+- **B.** throw
+- **C.** try
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. try**
+
+---
+
+### **Question 85**
+**What will be the output of the following C++ code?**
+
+```cpp
 #include <iostream.h>
-usingnamespacestd;
+using namespace std;
 void square (int*x, int*y)
 {
-*x=(*x)*––(*y);
+    *x=(*x)*--(*y);
 }
 int main()
 {
-int number=30;
-square(&number,
-&number);
-cout<<number;
-return 0;
+    int number=30;
+    square(&number, &number);
+    cout<<number;
+    return 0;
 }
-(A) 30
-(B) 870
-(C) Segmentation fault
-(D) More than one of the above
-(E) None of the above 
-86. Pick the incorrect statement
-about inline functions in C++.
-(A) They save overhead of a
-return call from a function.
-(B) They are generally very
-large and complicated
-function.
-(C) These functions are
-inserted/substituted at the
-point of call.
-(D) More than one of the above
-(E) None of the above
-87. What is abstract class in C++?
-(A) Any class in C++ is an
-abstract class/Class from
-which any class is derived
-(B) Class specifically used as a
-base class with at least one
-virtual function
-(C) Class specifically used as a
-base class with at least one
-pure virtual function
-(D) More than one of the above
-(E) None of the above
-88. Which of the following
-constructors is provided by the
-C++ compiler if not defined in a
-class?
-(A) Copy constructor
-(B) Default constructor
-(C) Parameterized constructor
-(D) More than one of the above
-(E) None of the above
-89. How do structures and classes
-in C++ differ?
-(A) In structures, members are
-private by default whereas
-in classes, they are public
-by default
-(B) In structures, members are
-public by default whereas in
-classes, they are private by
-default
-(C) Structures cannot have
-private members whereas
-classes can have
-(D) More than one of the above
-(E) None of the above
-90. Which of the following features
+```
+
+**Options:**
+- **A.** 30
+- **B.** 870
+- **C.** Segmentation fault
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. 870**
+
+---
+
+### **Question 86**
+**Pick the incorrect statement about inline functions in C++.**
+
+**Options:**
+- **A.** They save overhead of a return call from a function.
+- **B.** They are generally very large and complicated function.
+- **C.** These functions are inserted/substituted at the point of call.
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. They are generally very large and complicated function.**
+
+---
+
+### **Question 87**
+**What is abstract class in C++?**
+
+**Options:**
+- **A.** Any class in C++ is an abstract class/Class from which any class is derived
+- **B.** Class specifically used as a base class with at least one virtual function
+- **C.** Class specifically used as a base class with at least one pure virtual function
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **C. Class specifically used as a base class with at least one pure virtual function**
+
+---
+
+### **Question 88**
+**Which of the following constructors is provided by the C++ compiler if not defined in a class?**
+
+**Options:**
+- **A.** Copy constructor
+- **B.** Default constructor
+- **C.** Parameterized constructor
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. Default constructor**
+
+---
+
+### **Question 89**
+**How do structures and classes in C++ differ?**
+
+**Options:**
+- **A.** In structures, members are private by default whereas in classes, they are public by default
+- **B.** In structures, members are public by default whereas in classes, they are private by default
+- **C.** Structures cannot have private members whereas classes can have
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **B. In structures, members are public by default whereas in classes, they are private by default**
+
+---
+
+### **Question 90**
+**Which of the following features must be supported by any programming language to become a pure object-oriented programming language?**
+
+**Options:**
+- **A.** Encapsulation
+- **B.** Inheritance
+- **C.** Polymorphism
+- **D.** More than one of the above
+- **E.** None of the above
+
+✅ **Correct Answer:** **D. More than one of the above**
 must be supported by any
 programming language to
 become a pure object-oriented
@@ -1564,3 +2107,1250 @@ D. More than one of the above (उपरोक्त में से एक स
 E. None of the above (इनमें से कोई नहीं)
 
 ✅ Correct Answer: C. Dots per inch
+
+## tre2.0 (11 to 12)
+71. The brain of computer is
+(A) CPU
+(B) memory
+(C) I/O device
+(D) More than one of the above
+(E) None of the above
+72. Intel 8085 microprocessor is of
+_____ generation.
+(A) first
+(B) second
+(C) third
+(D) More than one of the above
+(E) None of the above
+73. The maximum memory size of
+third generation microprocessor
+is
+(A) 4 GB
+(B) 16 MB
+(C) 16 GB
+(D) More than one of the above
+(E) None of the above
+74. CPU on a single chip is called
+(A) microprocessor
+(B) microcontroller
+(C) solid-state device
+(D) More than one of the above
+(E) None of the above
+75. Computer on a single chip is
+called
+(A) microcontroller
+(B) microprocessor
+(C) assembler
+(D) More than one of the above
+(E) None of the above
+76. Which one of the following is
+used for playing video games?
+(A) Mouse
+(B) Trackball
+(C) Joystick
+(D) More than one of the above
+(E) None of the above
+77. _____ is used to store softwares
+that does not update.
+(A) SRAM
+(B) DRAM
+(C) ROM
+(D) More than one of the above
+(E) None of the above
+78. Which of the following contains
+a laser?
+(A) CD Drive
+(B) RAM
+(C) Hard Disk Drive
+(D) More than one of the above
+(E) None of the above
+79. A computer program that
+converts an assembly language
+program into equivalent machine
+language program is called
+(A) compiler
+(B) assembler
+(C) linker
+(D) More than one of the above
+(E) None of the above
+80. A computer program that
+converts a high-level language
+program into an equivalent
+machine language program is
+called
+(A) assembler
+(B) compiler
+(C) loader
+(D) More than one of the above
+(E) None of the above
+81. A computer program that
+translates high-level language
+program into machine language program statement-bystatement is called
+(A) compiler
+(B) loader
+(C) interpreter
+(D) More than one of the above
+(E) None of the above
+82. Which of the following is not an
+operating system?
+(A) Linux
+(B) Windows
+(C) Oracle
+(D) More than one of the above
+(E) None of the above
+83. A software that runs on a
+computer hardware and serves
+as a platform for other softwares
+to run is called
+(A) system software
+(B) operating system
+(C) application software
+(D) More than one of the above
+(E) None of the above
+84. Which of the following is not a
+system tool?
+(A) Scandisk
+(B) Format
+(C) Folder
+(D) More than one of the above
+(E) None of the above
+85. The key/keys used to delete a
+file without allowing it to store in
+recycle bin is/are
+(A) Delete
+(B) Shift + Delete
+(C) Ctrl + Delete
+(D) More than one of the above
+(E) None of the above
+86. The three main components of a
+digital computer system are
+(A) memory, I/O, DMA
+(B) ALU, CPU, memory
+(C) memory, CPU, I/O
+(D) More than one of the above
+(E) None of the above
+87. FFFF will be the last memory
+location in a memory of size
+(A) 16K
+(B) 32K
+(C) 64K
+(D) More than one of the above
+(E) None of the above
+88. The cost of storing a bit is
+minimum in
+(A) cache
+(B) register
+(C) magnetic tape
+(D) More than one of the above
+(E) None of the above
+89. Tera means
+(A) 2
+20
+(B) 2
+40
+(C) 2
+30
+(D) More than one of the above
+(E) None of the above
+90. Which of the following system
+softwares resides always in main
+memory?
+(A) Loader
+(B) Linker
+(C) Assembler
+(D) More than one of the above
+(E) None of the above
+91. The postfix expression
+equivalent of the prefix
+expression * + - ab cd is
+(A) ab cd + - *
+(B) abcd + - *
+(C) ab cd + * -
+(D) More than one of the above
+(E) None of the above
+92. Which data structure is used to
+convert infix notation to postfix
+notation?
+(A) Stack
+(B) Queue
+(C) Tree
+(D) More than one of the above
+(E) None of the above
+93. The data structure in which
+data are added at the rear and
+deleted from front is called
+(A) stack
+(B) queue
+(C) linked list
+(D) More than one of the above
+(E) None of the above
+94. Queue data structure uses
+(A) FIFO
+(B) LIFO
+(C) LILO
+(D) More than one of the above
+(E) None of the above
+95. Stack data structure uses
+(A) FIFO
+(B) LIFO
+(C) LILO
+(D) More than one of the above
+(E) None of the above
+96. A constructor is called whenever
+(A) an object is created
+(B) a class is created
+(C) a class is declared
+(D) More than one of the above
+(E) None of the above
+97. All members of a structure in
+C++ are _____ by default.
+(A) public
+(B) private
+(C) protected
+(D) More than one of the above
+(E) None of the above
+98. In C++, all members of a class
+are _____ by default.
+(A) public
+(B) private
+(C) protected
+(D) More than one of the above
+(E) None of the above
+99. In C++, what does a class hold?
+(A) Array
+(B) Data
+(C) Data and functions
+(D) More than one of the above
+(E) None of the above
+100. The number of access specifiers
+in class of C++ is
+(A) 2
+(B) 3
+(C) 4
+(D) More than one of the above
+(E) None of the above
+101. Which of the following is used to
+define the members of a class
+externally in C++?
+(A) :
+(B) : :
+(C) #
+(D) More than one of the above
+(E) None of the above
+102. Which concept of C++ is used to
+reuse the written code?
+(A) Polymorphism
+(B) Inheritance
+(C) Encapsulation
+(D) More than one of the above
+(E) None of the above
+103. What will be the output of the
+following program fragment?
+int i = 10;
+void main( )
+{ int i = 20;
+{
+int i = 30;
+printf(“%d, %d”, i, : :i);
+}
+}
+(A) 30,10
+(B) 30,20
+(C) 20,30
+(D) More than one of the above
+(E) None of the above
+104. Choose the correct statement
+about inline function in C++.
+(A) It speeds up the execution.
+(B) It slows down the execution.
+(C) It decreases the code size.
+(D) More than one of the above
+(E) None of the above
+105. What will be the output of the
+following?
+int a = 5;
+cout <<“FIRST” <<(a<<2) <<“SECOND”;
+(A) FIRST 52 SECOND
+(B) FIRST 20 SECOND
+(C) SECOND 25 FIRST
+(D) More than one of the above
+(E) None of the above
+106. cout in C++ stands for
+(A) class output
+(B) character output
+(C) common output
+(D) More than one of the above
+(E) None of the above
+107. Group of instructions that
+directs a computer is called
+(A) memory
+(B) storage
+(C) program
+(D) More than one of the above
+(E) None of the above
+108. A computer program consists of
+(A) system flowchart
+(B) program flowchart
+(C) algorithms written in
+computer language
+(D) More than one of the above
+(E) None of the above
+109. The topology with highest
+reliability is
+(A) star
+(B) ring
+(C) mesh
+(D) More than one of the above
+(E) None of the above
+110. End-to-end connectivity is
+provided from host-to-host in
+(A) network layer
+(B) transport layer
+(C) session layer
+(D) More than one of the above
+(E) None of the above
+111. The _____ measures the number
+of lost or garbled messages as a
+fraction of the total sent in the
+sampling period.
+(A) residual error rate
+(B) transfer failure probability
+(C) connection release failure
+probability
+(D) More than one of the above
+(E) None of the above
+112. A high-speed communication
+equipment typically would not
+be needed for
+(A) e-mail
+(B) transferring large volume of
+data
+(C) supporting communication
+between nodes in a LAN
+(D) More than one of the above
+(E) None of the above
+113. A _____ topology uses a single
+connection to connect all devices
+together.
+(A) bus
+(B) star
+(C) ring
+(D) More than one of the above
+(E) None of the above
+114. A _____ is used to connect
+networking devices that are in a
+very close geographic area such
+as a floor of a building.
+(A) WAN
+(B) LAN
+(C) MAN
+(D) More than one of the above
+(E) None of the above
+115. In computer network, what is
+the size of IP address in IPv4?
+(A) 8 bits
+(B) 16 bits
+(C) 32 bits
+(D) More than one of the above
+(E) None of the above
+116. What is the size of MAC address
+in computer network?
+(A) 32 bits
+(B) 16 bits
+(C) 48 bits
+(D) More than one of the above
+(E) None of the above
+117. What is the name given to the
+act of gaining illegal entry to
+computer files through remote
+terminals or microcomputers?
+(A) Hacking
+(B) Decoding
+(C) Beating the system
+(D) More than one of the above
+(E) None of the above
+118. A computer virus is a software
+program which has the essential
+ability to
+(A) damage data
+(B) damage program
+(C) clone itself
+(D) More than one of the above
+(E) None of the above
+
+119. Copying computer program/
+software without the permission
+of its authors is called
+(A) larceny
+(B) software piracy
+(C) highway robbery
+(D) More than one of the above
+(E) None of the above
+120. A hard disk becomes totally
+inaccessible when a computer
+virus corrupts
+(A) partition table
+(B) file allocation table
+(C) root directory
+(D) More than one of the above
+(E) None of the above
+121. An attribute of one table
+matching the primary key of
+another table is called as
+(A) foreign key
+(B) secondary key
+(C) candidate key
+(D) More than one of the above
+(E) None of the above
+122. If every non-key attribute is fully
+dependent on the primary key,
+then the relation will be in
+(A) First Normal Form (1NF)
+(B) Second Normal Form (2NF)
+(C) Third Normal Form (3NF)
+(D) More than one of the above
+(E) None of the above
+123. In relational database, the data
+type of values in each column of
+a table is called
+(A) attribute
+(B) domain
+(C) relation
+(D) More than one of the above
+(E) None of the above
+124. In relational database, the
+number of attributes of a
+relation is called the _____ of
+relation.
+(A) domain
+(B) degree
+(C) cardinality
+(D) More than one of the above
+(E) None of the above
+
+125. Which of the following SQL
+commands is used to change the
+attribute values of one or more
+rows in a table?
+(A) Update
+(B) Insert
+(C) Alter
+(D) More than one of the above
+(E) None of the above
+126. To retrieve information from a
+database, which of the following
+SQL commands is used?
+(A) Display
+(B) Show
+(C) Select
+(D) More than one of the above
+(E) None of the above
+127. Which of the following SQL
+commands is used to modify the
+structure of a table?
+(A) Alter
+(B) Modify
+(C) Update
+(D) More than one of the above
+(E) None of the above
+128. Which of the following SQL
+keywords is used to display data
+from a table based on certain
+pattern?
+(A) IN
+(B) LIKE
+(C) BETWEEN
+(D) More than one of the above
+(E) None of the above
+129. Degree and cardinality of a
+relation in relational database
+are 4 and 3 respectively. If 3
+attributes and 4 tuples are
+added to the relation, what will
+be its new cardinality and
+degree?
+(A) 7, 6
+(B) 7, 7
+(C) 8, 6
+(D) More than one of the above
+(E) None of the above
+130. Which SQL command is used to
+remove a table from a database?
+(A) DELETE
+(B) DROP
+(C) ERASE
+(D) More than one of the above
+(E) None of the above
+131. The register that contains the
+address of the next instruction
+to be executed is called
+(A) program counter
+(B) instruction register
+(C) accumulator
+(D) More than one of the above
+(E) None of the above
+132. The register that contains the
+instruction that is being
+executed is called
+(A) accumulator
+(B) program counter
+(C) instruction register
+(D) More than one of the above
+(E) None of the above
+133. The register which holds the
+address of location of memory to
+and from which data are to be
+transferred is known as
+(A) index register
+(B) memory address register
+(C) memory buffer register
+(D) More than one of the above
+(E) None of the above
+134. A storage device used to
+compensate the difference in
+flow of data is known as
+(A) main memory
+(B) auxiliary memory
+(C) buffer
+(D) More than one of the above
+(E) None of the above
+135. Memory in which any location
+can be reached in a fixed
+amount of time after specifying
+its address is called
+(A) Sequential Access Memory
+(B) Random Access Memory
+(C) Secondary Memory
+(D) More than one of the above
+(E) None of the above
+136. If ( ) ( ) ( ) , X YX YX 567 2 5 71 8 8 8 + =
+then the values of X and Y are
+(A) 4, 3
+(B) 3, 3
+(C) 4, 4
+(D) More than one of the above
+(E) None of the above
+137. The range of the numbers that
+can be represented in 8-bit
+using 2’s complement representation is
+(A) –128 to +128
+(B) –127 to +127
+(C) –128 to +127
+(D) More than one of the above
+(E) None of the above
+138. If ( ) ( ) 11 1 12 9 X Y C 8 16 = , then the
+values of X and Y are
+(A) 5, 1
+(B) 5, 7
+(C) 3, 1
+(D) More than one of the above
+(E) None of the above
+139. Which of the following 4-bit
+numbers equals its 2’s
+complement?
+(A) 1010
+(B) 0101
+(C) 1000
+(D) More than one of the above
+(E) None of the above
+140. The number of 1’s in the binary
+representation of the value of
+the decimal expression of
+16 9 16 7 16 5 3 3 2 ´ + ´ + ´ +
+is
+(A) 15
+(B) 9
+(C) 12
+(D) More than one of the above
+(E) None of the above
+141. The Boolean expression x x y + ¢
+equals
+(A) x y+
+(B) x xy +
+(C) y yx +
+(D) More than one of the above
+(E) None of the above
+142. The Boolean expression
+AB AB A C AC + ¢ + ¢ +
+is independent of Boolean
+variable
+(A) A
+(B) B
+(C) C
+(D) More than one of the above
+(E) None of the above
+143. The Boolean expression A BC +
+equals
+(A) ( )( ) A B A C ¢ + ¢ +
+(B) ( )( ) A B A C + ¢ +
+(C) ( )( ) A B A C + +
+(D) More than one of the above
+(E) None of the above
+144. The Boolean expression x xy +
+will be equal to
+(A) x
+(B) y
+(C) x y+
+(D) More than one of the above
+(E) None of the above
+145. The Boolean expression x x y ( ) +
+is equal to
+(A) x
+(B) y
+(C) xy
+(D) More than one of the above
+(E) None of the above
+146. If x is a Boolean variable, then
+((( ) ) ) x ¢ ¢ ¢ ¢ will be
+(A) x ¢
+(B) x
+(C) x x + ¢
+(D) More than one of the above
+(E) None of the above
+147. In two-valued Boolean algebra,
+the maximum number of
+Boolean functions for two
+variables will be
+(A) 8
+(B) 12
+(C) 16
+(D) More than one of the above
+(E) None of the above
+148. Simplified Boolean function of
+Boolean function
+F A C A B AB C BC = ¢ + ¢ + ¢ +
+is
+(A) F C A B = + ¢
+(B) F A B B C = ¢ + ¢
+(C) F BC A B = + ¢
+(D) More than one of the above
+(E) None of the above
+149. Which of the following logic
+gates is called universal gate?
+(A) AND
+(B) OR
+(C) NAND
+(D) More than one of the above
+(E) None of the above
+150. The minimum number of NAND
+gates required to implement
+Boolean function f x y xy = ¢ + ¢ is
+(A) 3
+(B) 4
+(C) 6
+(D) More than one of the above
+(E) None of the above
+
+## tre3.0(9 to 10)
+
+71. The octal number (651.124)8 is equivalent
+to _______.
+(A) (1A9.2A)16
+(B) (1B0.l0)16
+(C) (1A8.A3)16
+(D) More than one of the above
+(E) None of the above
+72. Which characteristic of IC in Digital Circuits
+represents a function of the switching time of
+a particular transistor?
+(A) Fan - out
+(B) Fan - in
+(C) Propagation delay
+(D) More than one of the above
+(E) None of the above
+73. What are the basic gates in MOS logic family?
+(A) NAND and NOR
+(B) AND and OR
+(C) NAND and OR
+(D) More than one of the above
+(E) None of the above
+PART - III
+(COMPUTER)
+74. How many AND gates are required to
+construct a 4 - bit parallel multiplier if four
+4 - bit parallel binary adders are given?
+(A) Four 2 - input AND gates
+(B) Eight 2 - input AND gates
+(C) Sixteen 2 - input AND gates
+(D) More than one of the above
+(E) None of the above
+75. A priority encoder has four inputs I0
+, I1
+, I2
+and I3
+ where I3
+ has the highest priority and
+I
+0
+ has the least priority. If I2
+ = 1, what will be
+the output?
+(A) 00
+(B) 11
+(C) 10
+(D) More than one of the above
+(E) None of the above
+76. Which of these pins will allow to activate and
+deactivate a multiplexer?
+(A) Enable pin
+(B) Selection pin
+(C) Present pin
+(D) More than one of the above
+(E) None of the above
+77. Which of the following is the full form of
+CISC?
+(A) Complex Instruction Sequential
+Compilation
+(B) Complex Instruction Set Computer
+(C) Computer Integrated Sequential
+Compiler
+(D) More than one of the above
+(E) None of the above
+78. In order to read multiple bytes of a row at the
+same time, we make use of _______.
+(A) Memory extension
+(B) Latch
+(C) Shift register
+(D) More than one of the above
+(E) None of the above
+79. The memory devices which are similar to
+EEPROM but differ in the cost effectiveness
+is ________.
+(A) CMOS
+(B) Memory sticks
+(C) Flash memory
+(D) More than one of the above
+(E) None of the above
+80. _______ method is used to map logical
+addresses of variable length onto physical
+memory.
+(A) Paging
+(B) Overlays
+(C) Segmentation
+(D) More than one of the above
+(E) None of the above
+81. Which of the following is not the application
+of stack?
+(A) Data Transfer between two
+asynchronous process
+(B) Compiler Syntax Analyzer
+(C) Tracking of local variables at run time
+(D) More than one of the above
+(E) None of the above
+82. What is the need for a circular queue?
+(A) Easier computations
+(B) Implement LIFO principle in queues
+(C) Effective usage of memory
+(D) More than one of the above
+(E) None of the above
+83. Which of the following is the most widely used
+external memory data structure?
+(A) B-tree
+(B) Red-black tree
+(C) AVL tree
+(D) More than one of the above
+(E) None of the above
+84. What is the time complexity of inserting at the
+end in dynamic arrays?
+(A) O(1)
+(B) O(n)
+(C) Either O(1) or O(n)
+(D) More than one of the above
+(E) None of the above
+85. Linked lists are not suitable for the
+implementation of _________.
+(A) Insertion sort
+(B) Radix sort
+(C) Binary search
+(D) More than one of the above
+(E) None of the above
+86. Which of the following sorting algorithms can
+be used to sort a random linked list with
+minimum time complexity?
+(A) Insertion Sort
+(B) Quick Sort
+(C) Merge Sort
+(D) More than one of the above
+(E) None of the above
+87. Which of the following tree data structures is
+not a balanced binary tree?
+(A) Red - black tree
+(B) B-tree
+(C) AVL tree
+(D) More than one of the above
+(E) None of the above
+88. Which of the following application makes use
+of a circular linked list?
+(A) Recursive function calls
+(B) Allocating CPU to resources
+(C) Implement Hash Tables
+(D) More than one of the above
+(E) None of the above
+89. Which data structures are considered linear?
+(A) Binary tree
+(B) Graph
+(C) Stack
+(D) More than one of the above
+(E) None of the above
+90. What is the worst case time complexity of
+the binary tree sort?
+(A) O(n)
+(B) O(nlogn)
+(C) O(n2)
+(D) More than one of the above
+(E) None of the above
+91. Consider the original array 17 8 12 4 26.
+How many comparisons are needed to
+construct the BST on the original array?
+(A) 5
+(B) 10
+(C) 7
+(D) More than one of the above
+(E) None of the above
+92. Bellman Ford algorithm is an example for
+_______
+(A) Linear Programming
+(B) Greedy Algorithms
+(C) Dynamic Programming
+(D) More than one of the above
+(E) None of the above
+93. Fractional knapsack problem is solved most
+efficiently by which of the following
+algorithm?
+(A) Backtracking
+(B) Greedy algorithm
+(C) Dynamic programming
+(D) More than one of the above
+(E) None of the above
+94. Who published the first solution of the eight
+queens puzzle?
+(A) Franz Nauck
+(B) Max Bezzel
+(C) Friedrich
+(D) More than one of the above
+(E) None of the above
+95. Which of the following is the biggest
+advantage of selection sort?
+(A) it has low time complexity
+(B) it has low space complexity
+(C) it requires only n swaps under any
+condition
+(D) More than one of the above
+(E) None of the above
+96. What is the main function of the command
+interpreter?
+(A) To provide the interface between the
+API and application program
+(B) To handle the files in the operating
+system
+(C) To get and execute the next userspecified command
+(D) More than one of the above
+(E) None of the above
+97. Which one of the following is not true?
+(A) Kernel remains in the memory during
+the entire computer session
+(B) Kernel is made of various modules
+which can not be loaded in running
+operating system
+(C) Kernel is the first part of the operating
+system to load into memory during
+booting
+(D) More than one of the above
+(E) None of the above
+98. Which one of the following is not a real time
+operating system?
+(A) RT Linux
+(B) Palm OS
+(C) VxWorks
+(D) More than one of the above
+(E) None of the above
+99. What does OS X has?
+(A) Monolithic kernel with modules
+(B) Micro kernel
+(C) Hybrid kernel
+(D) More than one of the above
+(E) None of the above
+100. In a timeshare operating system, when the
+time slot assigned to a process is completed,
+the process switches from the current state
+to?
+(A) Suspended state
+(B) Blocked state
+(C) Ready state
+(D) More than one of the above
+(E) None of the above
+101. A deadlock avoidance algorithm dynamically
+examines the ______ to ensure that a circular
+wait condition can never exist.
+(A) Resource allocation state
+(B) Resources
+(C) System storage state
+(D) More than one of the above
+(E) None of the above
+102. The operating system maintains a _______
+table that keeps track of how many frames
+have been allocated, how many are there and
+how many are available.
+(A) Frame
+(B) Mapping
+(C) Page
+(D) More than one of the above
+(E) None of the above
+103. For real time operating systems, interrupt
+latency should be _______.
+(A) Zero
+(B) Minimal
+(C) Maximum
+(D) More than one of the above
+(E) None of the above
+104. What are the characteristics of stack based
+IDS?
+(A) It is programmed to interpret a certain
+series of packets
+(B) It models the normal usage of the
+network as a noise characterization
+(C) They are integrated closely with the
+TCP/IP stack and watch packets
+(D) More than one of the above
+(E) None of the above
+105. On systems where there are multiple
+operating system, the decision to load a
+particular one is done by _______.
+(A) Process control block
+(B) File control block
+(C) Boot loader
+(D) More than one of the above
+(E) None of the Above
+106. What is compaction?
+(A) A technique for overcoming internal
+fragmentation
+(B) A paging technique
+(C) A technique for overcoming external
+fragmentation
+(D) More than one of the above
+(E) None of the above
+107. What is the reason for using the MFU page
+replacement algorithm?
+(A) an actively used page should have a
+large reference count
+(B) a less used page has more chances to
+be used again
+(C) it is extremely efficient and optimal
+(D) More than one of the above
+(E) None of the above
+108. Which type of data can be stored in the
+database?
+(A) Image oriented data
+(B) Text, files containing data
+(C) Data in the form of audio or video
+(D) More than one of the above
+(E) None of the above
+109. Which of the following is not a feature of
+DBMS?
+(A) Support ACID Property
+(B) High Level of Security
+(C) Single-user Access only
+(D) More than one of the above
+(E) None of the above
+110. Which of the following is not a function of the
+database?
+(A) Managing and manipulating stored data
+(B) Analysing Code
+(C) Security for stored data
+(D) More than one of the above
+(E) None of the above
+111. Which command is used to remove a relation
+from an SQL?
+(A) Drop table
+(B) Delete
+(C) Purge
+(D) More than one of the above
+(E) None of the above
+112. Which forms have a relation that contains
+information about a single entity?
+(A) 4NF
+(B) 3NF
+(C) 5NF
+(D) More than one of the above
+(E) None of the above
+113. The top level of the hierarchy consists of
+_______ each of which can contain______.
+(A) Catalogs, Schemas
+(B) Schemas, Catalogs
+(C) Environment, Schemas
+(D) More than one of the above
+(E) None of the above
+114. Which of the following is correct according
+to the technology deployed by DBMS?
+(A) Pointers are used to maintain
+transactional integrity and consistency
+(B) Cursors are used to maintain
+transactional integrity and consistency
+(C) Locks are used to maintain
+transactional integrity and consistency
+(D) More than one of the above
+(E) None of the above
+115. What is an Instance of a Database?
+(A) The state of the database system at any
+given point of time
+(B) The entire set of attributes of the
+Database put together in a single
+relation
+(C) The initial values inserted into the
+Database immediately after its creation
+(D) More than one of the above
+(E) None of the above
+116. What is the term for an endpoint of an interprocess communication flow across a
+computer network?
+(A) Port
+(B) Pipe
+(C) Socket
+(D) More than one of the above
+(E) None of the above
+117. Which layer does the data link layer take
+packets from and encapsulate them into
+frames for transmission?
+(A) transport layer
+(B) application layer
+(C) network layer
+(D) More than one of the above
+(E) None of the above
+118. Which type of network shares the
+communication channel among all the
+machines?
+(A) Broadcast network
+(B) Multicast network
+(C) Unicast network
+(D) More than one of the above
+(E) None of the above
+119. Which topology requires a multipoint
+connection?
+(A) Mesh Topology
+(B) Bus Topology
+(C) Star Topology
+(D) More than one of the above
+(E) None of the above
+120. When discussing IDS/IPS, what is a
+signature?
+(A) Attack Definition File
+(B) It is used to authorize the users on a
+network
+(C) An electronic signature used to
+authenticate the identity of a user on
+the network
+(D) More than one of the above
+(E) None of the above
+121. Which of the following networks extends a
+private network across public networks?
+(A) virtual private network
+(B) local area network
+(C) enterprise private network
+(D) More than one of the above
+(E) None of the above
+122. What type of transmission is involved in
+communication between a computer and a
+keyboard?
+(A) Half-duplex
+(B) Full-duplex
+(C) Simplex
+(D) More than one of the above
+(E) None of the above
+123. Who proposed the spiral model?
+(A) Barry Boehm
+(B) Pressman
+(C) Royce
+(D) More than one of the above
+(E) None of the above
+124. Software patch is defined as _____
+(A) Daily or routine Fix
+(B) Required or Critical Fix
+(C) Emergency Fix
+(D) More than one of the above
+(E) None of the above
+125. 4GT Model is a set of ______
+(A) Programs
+(B) CASE Tools
+(C) Software tools
+(D) More than of the above
+(E) None of the above
+126. Which one of the following is not a software
+process quality?
+(A) Visibility
+(B) Timeliness
+(C) Portability
+(D) More than one of the above
+(E) None of the above
+127. Which among the following doesn’t come
+under OOP concept?
+(A) Data hiding
+(B) Platform independent
+(C) Message Passing
+(D) More than one of the above
+(E) None of the above
+128. In which access should a constructor be
+defined, so that object of the class can be
+created in any function?
+(A) Public
+(B) Private
+(C) Protected
+(D) More than one of the above
+(E) None of the above
+129. What type of protocol is HTTP?
+(A) Stateful
+(B) Stateless
+(C) Transfer protocol
+(D) More than one of the above
+(E) None of the above
+130. What does MIME stand for?
+(A) Multipurpose Internet Messaging
+Extension
+(B) Multipurpose Internet Mail Extension
+(C) Multipurpose Internet Multimedia
+Extension
+(D) More than one of the above
+(E) None of the above
+131. Which of the looping statements is/are
+supported by PHP?
+i) for loop
+ii) while loop
+iii) do-while loop
+iv) foreach loop
+(A) (i) and (ii)
+(B) (i), (ii) and (iii)
+(C) (i), (ii), (iii) and (iv)
+(D) More than one of the above
+(E) None of the above
+132. Which function should we use to sort the array
+in natural order?
+(A) natcasesort ()
+(B) casesort ()
+(C) naturalsort ()
+(D) More than one of the above
+(E) None of the above
+133. What are scripting languages?
+(A) The programming languages that pre
+decide the web page content
+(B) The programming languages that are
+simpler and offer same protection
+(C) The programming languages that trade
+off simplicity for protection
+(D) More than one of the above
+(E) None of the above
+134. Under which of the following operation, NFA
+is not closed?
+(A) Negation
+(B) Kleene
+(C) Concatenation
+(D) More than one of the above
+(E) None of the above
+135. Let T = {p, q, r, s, t}. The number of strings
+in S* of length 4 such that no symbols can be
+repeated.
+(A) 120
+(B) 625
+(C) 360
+(D) More than one of the above
+(E) None of the above
+136. Which of the following strings do not belong
+the given regular expression? (a)*(a+cba)
+(A) acbacba
+(B) aaa
+(C) acba
+(D) More than one of the above
+(E) None of the above
+137. The following denotion belongs to which type
+of language:______G=(V, T, P, S)
+(A) Regular grammar
+(B) Context free grammar
+(C) Context Sensitive grammar
+(D) More than one of the above
+(E) None of the above
+138. Which of the following is not an IoT platform?
+(A) Amazon Web Services
+(B) Microsoft Azure
+(C) Flipkart
+(D) More than one of the above
+(E) None of the above
+139. Which layer is used for wireless connection
+in IoT devices?
+(A) Application layer
+(B) Network layer
+(C) Data link layer
+(D) More than one of the above
+(E) None of the above
+140. Which of the following is not a sensor in IoT?
+(A) BMP280
+(B) DHT11
+(C) Photoresistor
+(D) More than one of the above
+(E) None of the above
+141. IoT gateway must provide ______
+(A) Protocol abstraction
+(B) Data storage / Security with hardware
+(C) Simple and fast installation
+(D) More than one of the above
+(E) None of the above
+142. Which of the following is an application of
+Artificial Intelligence?
+(A) It helps to exploit vulnerabilities to
+secure the firm
+(B) Language understanding and problemsolving (Text analytics and NLP)
+(C) It helps to deploy applications on the
+cloud
+(D) More than one of the above
+(E) None of the above
+143. What does the Bayesian network provide?
+(A) Partial description of the domain
+(B) Complete description of the problem
+(C) Complete description of the domain
+(D) More than one of the above
+(E) None of the above
+144. Which search method takes less memory?
+(A) Depth-First Search
+(B) Breadth-First search
+(C) Linear Search
+(D) More than one of the above
+(E) None of the above
+145. E-commerce has _________ scope than
+E-Business or Digital Business.
+(A) Higher
+(B) Narrower
+(C) Wider
+(D) More than one of the above
+(E) None of the above
+146. This E-Commerce commercial enterprise
+model specifically specialises in selling
+services or products online.
+(A) Indirect Marketing
+(B) Online Direct Marketing
+(C) Brick & Mortar
+(D) More than one of the above
+(E) None of the above
+147. Real time streaming protocol is used____
+(A) to control streaming media servers
+(B) for establishing and controlling media
+sessions between endpoints
+(C) to provide real time control of playback
+of media files from the server
+(D) More than one of the above
+(E) None of the above
+148. The expansion for MIDI is
+(A) Musical Instrument Digital Interface
+(B) Musical Instrument Data Interface
+(C) Musical Instructions Digital Interface
+(D) More than one of the above
+(E) None of the above
+149. The _____ input addresses the different styles
+of different users.
+(A) Multi-sense
+(B) Multimedia
+(C) Multi-sensory
+(D) More than one of the above
+(E) None of the above
+150. Which of the following is not the utility of
+DBMS?
+(A) Backup
+(B) Data Loading
+(C) Process Organization
+(D) More than one of the above
+(E) None of the above

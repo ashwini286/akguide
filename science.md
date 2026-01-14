@@ -387,3 +387,182 @@ D. More than one of the above (उपरोक्त में से एक स
 E. None of the above (इनमें से कोई नहीं)
 
 ✅ Correct Answer: A. Neutrons
+
+## tre3.0 (9 to 10)
+Q39. Viruses are essentially made up of:
+
+वायरस मुख्य रूप से किससे बने होते हैं?
+
+📌 Topic: Biology – Microorganisms
+विषय: जीवविज्ञान – सूक्ष्मजीव
+
+A. Proteins & Nucleic acid
+(प्रोटीन एवं न्यूक्लिक अम्ल)
+B. Proteins & Lipids
+C. Starch, Proteins & Carbohydrates
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. Proteins & Nucleic acid
+
+🔌 Q40. A moving coil galvanometer can be converted into an ammeter by placing:
+
+मूविंग कॉइल गैल्वेनोमीटर को एमीटर में बदलने के लिए क्या जोड़ा जाता है?
+
+📌 Topic: Physics – Current Electricity
+विषय: भौतिकी – धारा विद्युत
+
+A. High resistance in series
+B. High resistance in parallel
+C. Low resistance in parallel
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Low resistance in parallel
+
+✨ Q41. Twinkling of stars is on account of:
+
+तारों का टिमटिमाना किस कारण होता है?
+
+📌 Topic: Physics – Optics (Atmospheric Refraction)
+विषय: भौतिकी – प्रकाशिकी (वायुमंडलीय अपवर्तन)
+
+A. Small size of stars
+B. Large distance of stars & fluctuations in air density
+C. Large distance of stars & air storms
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. Large distance of stars & fluctuations in air density
+
+🧪 Q42. Ammonium compound which can sublime on heating is:
+
+निम्नलिखित में से कौन-सा अमोनियम यौगिक गरम करने पर उर्ध्वपातित (Sublime) होता है?
+
+📌 Topic: Chemistry – Physical Properties of Salts
+विषय: रसायन विज्ञान – लवणों के भौतिक गुण
+
+A. 
+(
+𝑁
+𝐻
+4
+)
+2
+𝑆
+𝑂
+4
+(NH
+4
+	​
+
+)
+2
+	​
+
+SO
+4
+	​
+
+
+B. 
+𝑁
+𝐻
+4
+𝐶
+𝑙
+NH
+4
+	​
+
+Cl
+C. 
+𝑁
+𝐻
+4
+𝑁
+𝑂
+3
+NH
+4
+	​
+
+NO
+3
+	​
+
+
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. 
+𝑁
+𝐻
+4
+𝐶
+𝑙
+NH
+4
+	​
+
+Cl
+
+🔊 Q43. Which of the following mediums will exhibit maximum velocity of sound?
+
+निम्नलिखित में से किस माध्यम में ध्वनि का वेग सबसे अधिक होगा?
+
+📌 Topic: Physics – Sound
+विषय: भौतिकी – ध्वनि
+
+A. Water (जल)
+B. Air (वायु)
+C. Steel (इस्पात)
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Steel
+
+🔥 Q44. Which of the following fuels shows the highest calorific value?
+
+निम्नलिखित में से किस ईंधन का ऊष्मीय मान (Calorific Value) सबसे अधिक है?
+
+📌 Topic: Physics/Chemistry – Fuels
+विषय: ईंधन
+
+A. Diesel
+B. Kerosene
+C. Petrol
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Petrol
+
+☢️ Q45. The penetrating power of X-rays increases with:
+
+एक्स-रे की भेदन क्षमता (Penetrating Power) किसके बढ़ने से बढ़ती है?
+
+📌 Topic: Physics – Modern Physics (X-rays)
+विषय: आधुनिक भौतिकी – एक्स-रे
+
+A. Increase in intensity
+B. Increase in frequency of X-rays
+C. Increase of pressure in X-ray tube
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. Increase in frequency of X-rays
+
+🌈 Q46. When sun rays enter a glass prism they are:
+
+जब सूर्य किरणें काँच के प्रिज़्म में प्रवेश करती हैं, तो वे—
+
+📌 Topic: Physics – Optics (Prism)
+विषय: भौतिकी – प्रकाशिकी (प्रिज़्म)
+
+A. Deviated but not dispersed
+B. Dispersed but not deviated
+C. Both deviated and dispersed
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. Both deviated and dispersed
