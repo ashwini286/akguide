@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🔐 AK Learning Guide</title>
     <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -423,6 +424,195 @@
             padding: 2px 4px;
             border-radius: 2px;
         }
+
+        /* PDF Viewer Styles */
+        .pdf-content {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            background: white;
+        }
+
+        .pdf-toolbar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #dee2e6;
+            flex-wrap: wrap;
+        }
+
+        .pdf-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background 0.3s;
+        }
+
+        .pdf-btn:hover {
+            background: #5a67d8;
+        }
+
+        .pdf-btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        .pdf-page-input {
+            width: 60px;
+            padding: 6px 8px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        #pdf-canvas {
+            flex: 1;
+            border: 1px solid #dee2e6;
+            background: #f8f9fa;
+        }
+
+        /* Upload Section Styles */
+        .upload-section {
+            margin-top: 20px;
+            padding: 20px;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .upload-header {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        .upload-title {
+            font-weight: 500;
+            font-size: 1.1em;
+        }
+
+        .upload-area {
+            border: 2px dashed rgba(255,255,255,0.3);
+            border-radius: 8px;
+            padding: 30px 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: rgba(255,255,255,0.05);
+        }
+
+        .upload-area:hover {
+            border-color: rgba(255,255,255,0.6);
+            background: rgba(255,255,255,0.1);
+        }
+
+        .upload-area.dragover {
+            border-color: #667eea;
+            background: rgba(102, 126, 234, 0.1);
+        }
+
+        .upload-icon {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .upload-text {
+            color: rgba(255,255,255,0.8);
+            font-size: 0.9em;
+        }
+
+        .upload-status {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 6px;
+            font-size: 0.9em;
+            text-align: center;
+        }
+
+        .upload-status.success {
+            background: rgba(40, 167, 69, 0.2);
+            color: #28a745;
+            border: 1px solid rgba(40, 167, 69, 0.3);
+        }
+
+        .upload-status.error {
+            background: rgba(220, 53, 69, 0.2);
+            color: #dc3545;
+            border: 1px solid rgba(220, 53, 69, 0.3);
+        }
+
+        /* TRE Section Styles */
+        .tre-section {
+            margin-top: 20px;
+            padding: 20px;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .tre-header {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        .tre-title {
+            font-weight: 500;
+            font-size: 1.1em;
+        }
+
+        .tre-list .file-item {
+            position: relative;
+        }
+
+        .upload-status {
+            position: absolute;
+            top: 8px;
+            right: 15px;
+            font-size: 0.8em;
+            opacity: 0.7;
+            background: rgba(255,255,255,0.2);
+            padding: 2px 6px;
+            border-radius: 10px;
+        }
+
+        .pdf-item.uploaded .upload-status {
+            background: rgba(40, 167, 69, 0.2);
+            color: #28a745;
+        }
+
+        .pdf-item.uploaded .upload-status::before {
+            content: "✓ ";
+        }
+
+        .pdf-item.deployed .upload-status {
+            background: rgba(25, 135, 84, 0.2);
+            color: #198754;
+        }
+
+        .pdf-item.deployed .upload-status::before {
+            content: "🌐 ";
+        }
+
+        /* Upload Prompt Styles */
+        .upload-prompt {
+            text-align: center;
+            padding: 50px 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .upload-prompt h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+
+        .upload-prompt p {
+            color: #666;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
     </style>
 </head>
 <body>
@@ -466,6 +656,60 @@
                     <span class="description">Computer science and programming</span>
                 </li>
             </ul>
+
+            <!-- TRE PDFs Section -->
+            <div class="tre-section">
+                <div class="tre-header">
+                    <span class="emoji">📚</span>
+                    <span class="tre-title">TRE Study Materials</span>
+                </div>
+                <ul class="file-list tre-list">
+                    <li class="file-item pdf-item" data-file="tre1" data-type="pdf">
+                        <span class="emoji">📖</span>
+                        <span class="title">TRE 1</span>
+                        <span class="description">TRE 1 Study Material</span>
+                        <span class="upload-status" id="tre1-status">📎 Upload PDF</span>
+                    </li>
+                    <li class="file-item pdf-item" data-file="tre2_9_10" data-type="pdf">
+                        <span class="emoji">📖</span>
+                        <span class="title">TRE 2.0 (9-10)</span>
+                        <span class="description">TRE 2.0 Classes 9-10</span>
+                        <span class="upload-status" id="tre2_9_10-status">📎 Upload PDF</span>
+                    </li>
+                    <li class="file-item pdf-item" data-file="tre2_0_11_12" data-type="pdf">
+                        <span class="emoji">📖</span>
+                        <span class="title">TRE 2.0 (11-12)</span>
+                        <span class="description">TRE 2.0 Classes 11-12</span>
+                        <span class="upload-status" id="tre2_0_11_12-status">📎 Upload PDF</span>
+                    </li>
+                    <li class="file-item pdf-item" data-file="tre3_0_9_10" data-type="pdf">
+                        <span class="emoji">📖</span>
+                        <span class="title">TRE 3.0 (6-10)</span>
+                        <span class="description">TRE 3.0 Classes 6-10</span>
+                        <span class="upload-status" id="tre3_0_9_10-status">📎 Upload PDF</span>
+                    </li>
+                    <li class="file-item pdf-item" data-file="tre3_0_11_12" data-type="pdf">
+                        <span class="emoji">📖</span>
+                        <span class="title">TRE 3.0 (11-12)</span>
+                        <span class="description">TRE 3.0 Classes 11-12</span>
+                        <span class="upload-status" id="tre3_0_11_12-status">📎 Upload PDF</span>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- PDF Upload Section -->
+            <div class="upload-section">
+                <div class="upload-header">
+                    <span class="emoji">📄</span>
+                    <span class="upload-title">Upload PDF</span>
+                </div>
+                <div class="upload-area" id="upload-area">
+                    <div class="upload-icon">📎</div>
+                    <div class="upload-text">Drop PDF here or click to browse</div>
+                    <input type="file" id="pdf-upload" accept=".pdf" style="display: none;">
+                </div>
+                <div id="upload-status" class="upload-status" style="display: none;"></div>
+            </div>
         </div>
 
         <!-- Main Content -->
@@ -481,6 +725,18 @@
                 <div id="markdown-content" class="markdown-content">
                     <div class="loading">Loading documentation...</div>
                 </div>
+                <div id="pdf-content" class="pdf-content" style="display: none;">
+                    <div class="pdf-toolbar">
+                        <button id="pdf-prev" class="pdf-btn">⬅️ Previous</button>
+                        <span id="pdf-page-info">Page: <span id="pdf-page-num">1</span> / <span id="pdf-page-count">1</span></span>
+                        <button id="pdf-next" class="pdf-btn">Next ➡️</button>
+                        <input type="number" id="pdf-page-input" class="pdf-page-input" min="1" value="1">
+                        <button id="pdf-go" class="pdf-btn">Go</button>
+                        <button id="pdf-zoom-in" class="pdf-btn">🔍+</button>
+                        <button id="pdf-zoom-out" class="pdf-btn">🔍-</button>
+                    </div>
+                    <canvas id="pdf-canvas"></canvas>
+                </div>
             </div>
         </div>
     </div>
@@ -488,6 +744,9 @@
     <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" style="display: none;">↑</button>
 
     <script>
+        // Configure PDF.js
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
         const DOCS_CONFIG = {
             'github_setup': {
                 title: 'GitHub Multiple Accounts Setup',
@@ -518,6 +777,36 @@
                 title: 'Computer',
                 subtitle: 'Computer science and programming',
                 file: 'computer.md'
+            },
+            'tre1': {
+                title: 'TRE 1',
+                subtitle: 'TRE 1 Study Material',
+                file: 'pdfs/tre1.pdf',
+                type: 'pdf'
+            },
+            'tre2_9_10': {
+                title: 'TRE 2.0 (9-10)',
+                subtitle: 'TRE 2.0 Classes 9-10',
+                file: 'pdfs/tre2_0_9_10.pdf',
+                type: 'pdf'
+            },
+            'tre2_0_11_12': {
+                title: 'TRE 2.0 (11-12)',
+                subtitle: 'TRE 2.0 Classes 11-12',
+                file: 'pdfs/tre2_0_11_12.pdf',
+                type: 'pdf'
+            },
+            'tre3_0_9_10': {
+                title: 'TRE 3.0 (6-10)',
+                subtitle: 'TRE 3.0 Classes 6-10',
+                file: 'pdfs/tre3_0_6_10.pdf',
+                type: 'pdf'
+            },
+            'tre3_0_11_12': {
+                title: 'TRE 3.0 (11-12)',
+                subtitle: 'TRE 3.0 Classes 11-12',
+                file: 'pdfs/tre3_0_11_12.pdf',
+                type: 'pdf'
             }
         };
 
@@ -566,9 +855,39 @@
         let currentFile = 'github_setup';
         let currentMarkdown = '';
 
+        // PDF variables
+        let pdfDoc = null;
+        let pageNum = 1;
+        let pageRendering = false;
+        let pageNumPending = null;
+        let scale = 1.5;
+        const canvas = document.getElementById('pdf-canvas');
+        const ctx = canvas.getContext('2d');
+
+        // Storage for uploaded PDFs
+        let uploadedPdfs = {};
+
+        // Check for deployed PDFs on initialization
+        async function checkDeployedPdfs() {
+            const treFiles = ['tre1', 'tre2_9_10', 'tre2_0_11_12', 'tre3_0_9_10', 'tre3_0_11_12'];
+
+            for (const fileName of treFiles) {
+                const config = DOCS_CONFIG[fileName];
+                try {
+                    const response = await fetch(config.file);
+                    if (response.ok) {
+                        updatePdfStatus(fileName, true, true);
+                    }
+                } catch (error) {
+                    // PDF not deployed, status will show as not uploaded
+                }
+            }
+        }
+
         // Initialize the app
         document.addEventListener('DOMContentLoaded', async function() {
-            await loadMarkdownFile(currentFile);
+            await checkDeployedPdfs(); // Check which PDFs are deployed
+            await loadContent(currentFile);
             setupEventListeners();
         });
 
@@ -578,8 +897,61 @@
             document.querySelectorAll('.file-item').forEach(item => {
                 item.addEventListener('click', async function() {
                     const fileName = this.dataset.file;
-                    await loadMarkdownFile(fileName);
+                    const itemType = this.dataset.type;
+
+                    // Handle both markdown and PDF items through loadContent
+                    await loadContent(fileName);
                 });
+            });
+
+            // PDF controls
+            document.getElementById('pdf-prev').addEventListener('click', onPrevPage);
+            document.getElementById('pdf-next').addEventListener('click', onNextPage);
+            document.getElementById('pdf-go').addEventListener('click', goToPage);
+            document.getElementById('pdf-zoom-in').addEventListener('click', zoomIn);
+            document.getElementById('pdf-zoom-out').addEventListener('click', zoomOut);
+            document.getElementById('pdf-page-input').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    goToPage();
+                }
+            });
+
+            // PDF upload
+            const uploadArea = document.getElementById('upload-area');
+            const fileInput = document.getElementById('pdf-upload');
+
+            uploadArea.addEventListener('click', () => fileInput.click());
+
+            uploadArea.addEventListener('dragover', (e) => {
+                e.preventDefault();
+                uploadArea.classList.add('dragover');
+            });
+
+            uploadArea.addEventListener('dragleave', () => {
+                uploadArea.classList.remove('dragover');
+            });
+
+            uploadArea.addEventListener('drop', (e) => {
+                e.preventDefault();
+                uploadArea.classList.remove('dragover');
+
+                const files = e.dataTransfer.files;
+                if (files.length > 0 && files[0].type === 'application/pdf') {
+                    loadPdfDocument(files[0]);
+                    showUploadStatus('PDF loaded successfully!', 'success');
+                } else {
+                    showUploadStatus('Please upload a valid PDF file.', 'error');
+                }
+            });
+
+            fileInput.addEventListener('change', (e) => {
+                const file = e.target.files[0];
+                if (file && file.type === 'application/pdf') {
+                    loadPdfDocument(file);
+                    showUploadStatus('PDF loaded successfully!', 'success');
+                } else {
+                    showUploadStatus('Please select a valid PDF file.', 'error');
+                }
             });
 
             // Scroll to top visibility
@@ -593,8 +965,275 @@
             });
         }
 
-        // Load markdown file dynamically
-        async function loadMarkdownFile(fileName) {
+        // PDF Functions
+        function renderPage(num) {
+            pageRendering = true;
+
+            pdfDoc.getPage(num).then(function(page) {
+                const viewport = page.getViewport({scale: scale});
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                const renderContext = {
+                    canvasContext: ctx,
+                    viewport: viewport
+                };
+
+                const renderTask = page.render(renderContext);
+
+                renderTask.promise.then(function() {
+                    pageRendering = false;
+                    if (pageNumPending !== null) {
+                        renderPage(pageNumPending);
+                        pageNumPending = null;
+                    }
+                });
+            });
+
+            document.getElementById('pdf-page-num').textContent = num;
+        }
+
+        function queueRenderPage(num) {
+            if (pageRendering) {
+                pageNumPending = num;
+            } else {
+                renderPage(num);
+            }
+        }
+
+        function onPrevPage() {
+            if (pageNum <= 1) {
+                return;
+            }
+            pageNum--;
+            queueRenderPage(pageNum);
+            document.getElementById('pdf-page-input').value = pageNum;
+        }
+
+        function onNextPage() {
+            if (pageNum >= pdfDoc.numPages) {
+                return;
+            }
+            pageNum++;
+            queueRenderPage(pageNum);
+            document.getElementById('pdf-page-input').value = pageNum;
+        }
+
+        function goToPage() {
+            const pageInput = document.getElementById('pdf-page-input');
+            const num = parseInt(pageInput.value);
+            if (num >= 1 && num <= pdfDoc.numPages) {
+                pageNum = num;
+                queueRenderPage(pageNum);
+            } else {
+                pageInput.value = pageNum;
+            }
+        }
+
+        function zoomIn() {
+            scale += 0.25;
+            renderPage(pageNum);
+        }
+
+        function zoomOut() {
+            if (scale > 0.5) {
+                scale -= 0.25;
+                renderPage(pageNum);
+            }
+        }
+
+        function loadPdfDocument(file, fileName, slotId) {
+            const fileReader = new FileReader();
+
+            fileReader.onload = function() {
+                const typedArray = new Uint8Array(this.result);
+
+                pdfjsLib.getDocument(typedArray).promise.then(function(pdf) {
+                    pdfDoc = pdf;
+                    document.getElementById('pdf-page-count').textContent = pdf.numPages;
+                    document.getElementById('pdf-page-input').max = pdf.numPages;
+
+                    // Store the PDF data if it's for a predefined slot
+                    if (slotId) {
+                        uploadedPdfs[slotId] = {
+                            data: typedArray,
+                            name: fileName || file.name,
+                            pdf: pdf
+                        };
+                        updatePdfStatus(slotId, true);
+                    }
+
+                    renderPage(pageNum);
+
+                    // Show PDF content, hide markdown content
+                    document.getElementById('markdown-content').style.display = 'none';
+                    document.getElementById('pdf-content').style.display = 'flex';
+
+                    // Update header
+                    const config = DOCS_CONFIG[fileName] || {};
+                    document.getElementById('doc-title').textContent = config.title || fileName;
+                    document.getElementById('doc-subtitle').textContent = config.subtitle || 'PDF Document';
+
+                    // Update navigation
+                    document.querySelectorAll('.file-item').forEach(item => {
+                        item.classList.remove('active');
+                    });
+                    if (fileName) {
+                        document.querySelector(`[data-file="${fileName}"]`).classList.add('active');
+                    }
+
+                }).catch(function(error) {
+                    console.error('Error loading PDF:', error);
+                    showUploadStatus('Error loading PDF: ' + error.message, 'error');
+                });
+            };
+
+            fileReader.readAsArrayBuffer(file);
+        }
+
+        function loadStoredPdf(slotId) {
+            const pdfData = uploadedPdfs[slotId];
+            if (pdfData) {
+                pdfDoc = pdfData.pdf;
+                document.getElementById('pdf-page-count').textContent = pdfDoc.numPages;
+                document.getElementById('pdf-page-input').max = pdfDoc.numPages;
+
+                renderPage(pageNum);
+
+                // Show PDF content, hide markdown content
+                document.getElementById('markdown-content').style.display = 'none';
+                document.getElementById('pdf-content').style.display = 'flex';
+
+                // Update header
+                const config = DOCS_CONFIG[slotId];
+                document.getElementById('doc-title').textContent = config.title;
+                document.getElementById('doc-subtitle').textContent = config.subtitle;
+
+                // Update navigation
+                document.querySelectorAll('.file-item').forEach(item => {
+                    item.classList.remove('active');
+                });
+                document.querySelector(`[data-file="${slotId}"]`).classList.add('active');
+
+                return true;
+            }
+            return false;
+        }
+
+        function fallbackToUpload(fileName, config) {
+            // No PDF uploaded yet, show upload prompt
+            document.getElementById('markdown-content').innerHTML =
+                `<div class="upload-prompt">
+                    <h3>📄 PDF Not Available</h3>
+                    <p>The PDF for ${config.title} is not deployed yet.</p>
+                    <p>You can upload it temporarily or ask the administrator to add it to the deployment.</p>
+                    <p><strong>For permanent access:</strong> Place the PDF file as <code>${config.file}</code></p>
+                </div>`;
+            document.getElementById('markdown-content').style.display = 'block';
+            document.getElementById('pdf-content').style.display = 'none';
+
+            // Update header
+            document.getElementById('doc-title').textContent = config.title;
+            document.getElementById('doc-subtitle').textContent = config.subtitle + ' (PDF not available)';
+
+            // Update navigation
+            document.querySelectorAll('.file-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            document.querySelector(`[data-file="${fileName}"]`).classList.add('active');
+
+            updatePdfStatus(fileName, false, false);
+        }
+
+        function updatePdfStatus(slotId, uploaded, deployed = false) {
+            const statusElement = document.getElementById(`${slotId}-status`);
+            const itemElement = document.querySelector(`[data-file="${slotId}"]`);
+
+            if (statusElement) {
+                if (deployed) {
+                    statusElement.textContent = 'Available';
+                    itemElement.classList.add('deployed');
+                    itemElement.classList.add('uploaded');
+                } else if (uploaded) {
+                    statusElement.textContent = 'Uploaded';
+                    itemElement.classList.add('uploaded');
+                    itemElement.classList.remove('deployed');
+                } else {
+                    statusElement.textContent = '📎 Upload PDF';
+                    itemElement.classList.remove('uploaded');
+                    itemElement.classList.remove('deployed');
+                }
+            }
+        }
+
+        function showUploadStatus(message, type) {
+            const status = document.getElementById('upload-status');
+            status.textContent = message;
+            status.className = 'upload-status ' + type;
+            status.style.display = 'block';
+
+            setTimeout(() => {
+                status.style.display = 'none';
+            }, 3000);
+        }
+
+        // Load content (markdown or PDF) dynamically
+        async function loadContent(fileName) {
+            const config = DOCS_CONFIG[fileName];
+
+            // Check if it's a PDF type
+            if (config.type === 'pdf') {
+                // First, try to load pre-deployed PDF from file system
+                try {
+                    const response = await fetch(config.file);
+                    if (response.ok) {
+                        const arrayBuffer = await response.arrayBuffer();
+                        const uint8Array = new Uint8Array(arrayBuffer);
+
+                        pdfjsLib.getDocument(uint8Array).promise.then(function(pdf) {
+                            pdfDoc = pdf;
+                            document.getElementById('pdf-page-count').textContent = pdf.numPages;
+                            document.getElementById('pdf-page-input').max = pdf.numPages;
+
+                            renderPage(pageNum);
+
+                            // Show PDF content, hide markdown content
+                            document.getElementById('markdown-content').style.display = 'none';
+                            document.getElementById('pdf-content').style.display = 'flex';
+
+                            // Update header
+                            document.getElementById('doc-title').textContent = config.title;
+                            document.getElementById('doc-subtitle').textContent = config.subtitle;
+
+                            // Update navigation
+                            document.querySelectorAll('.file-item').forEach(item => {
+                                item.classList.remove('active');
+                            });
+                            document.querySelector(`[data-file="${fileName}"]`).classList.add('active');
+
+                            // Mark as available (deployed)
+                            updatePdfStatus(fileName, true, true);
+
+                        }).catch(function(error) {
+                            console.error('Error loading deployed PDF:', error);
+                            fallbackToUpload(fileName, config);
+                        });
+
+                        return;
+                    }
+                } catch (error) {
+                    console.log('No deployed PDF found, checking for uploaded PDF');
+                }
+
+                // Second, try to load stored/uploaded PDF
+                if (!loadStoredPdf(fileName)) {
+                    // No PDF available, show upload prompt
+                    fallbackToUpload(fileName, config);
+                }
+                return;
+            }
+
+            // Load markdown file
             try {
                 // Update UI
                 document.querySelectorAll('.file-item').forEach(item => {
@@ -603,7 +1242,6 @@
                 document.querySelector(`[data-file="${fileName}"]`).classList.add('active');
 
                 // Update header
-                const config = DOCS_CONFIG[fileName];
                 document.getElementById('doc-title').textContent = config.title;
                 document.getElementById('doc-subtitle').textContent = config.subtitle;
 
@@ -628,6 +1266,10 @@
                 // Render markdown
                 const html = marked.parse(markdown);
                 contentDiv.innerHTML = html;
+
+                // Show markdown content, hide PDF content
+                document.getElementById('markdown-content').style.display = 'block';
+                document.getElementById('pdf-content').style.display = 'none';
 
                 // Update page title
                 document.title = `📚 ${config.title} - Documentation`;
@@ -692,8 +1334,8 @@
         }
 
         // Add table responsiveness after content loads
-        const originalLoadFunction = loadMarkdownFile;
-        loadMarkdownFile = async function(fileName) {
+        const originalLoadFunction = loadContent;
+        loadContent = async function(fileName) {
             await originalLoadFunction(fileName);
             setTimeout(makeTablesResponsive, 100);
         };
