@@ -1,0 +1,430 @@
+# 🔢 Mathematics Study Guide
+
+## 📐 Basic Mathematics Questions
+
+### **Question 1**
+**How many three-digit numbers are divisible by 5?**  
+*तीन अंकों की कितनी संख्याएँ 5 से विभाज्य हैं?*
+
+**Options:**  
+- **A.** 180  
+- **B.** 200  
+- **C.** 120  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **B. 200**
+
+---
+
+### **Question 2**
+**The value of the following expression is:**  
+*निम्नलिखित व्यंजक का मान है:*
+
+```
+1/(1×2) + 1/(2×3) + 1/(3×4) + ⋯ + 1/(119×120)
+```
+
+**Options:**  
+- **A.** 60.5  
+- **B.** 119/120  
+- **C.** 40.5  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **B. 119/120** *(or 0.9917)*
+
+---
+
+### **Question 3**
+**The distance between Delhi and Agra is 200 km.**  
+*Delhi और Agra के बीच की दूरी 200 किमी है।*
+
+**Suppose you travel 120 km at 90 km/hr and the remaining distance at 40 km/hr.**  
+*यदि आप 120 किमी 90 किमी/घंटा की गति से और शेष दूरी 40 किमी/घंटा की गति से तय करते हैं, तो कुल समय कितना लगेगा?*
+
+**Options:**  
+- **A.** 3 hr 20 min *(3 घंटे 20 मिनट)*  
+- **B.** 3 hr 30 min *(3 घंटे 30 मिनट)*  
+- **C.** 4 hr 45 min *(4 घंटे 45 मिनट)*  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **A. 3 hr 20 min**
+
+---
+
+### **Question 4**
+**10% loss on selling price is what percent loss on cost price?**  
+*विक्रय मूल्य पर 10% की हानि, क्रय मूल्य पर कितने प्रतिशत की हानि है?*
+
+**Options:**  
+- **A.** 9 1/11%  
+- **B.** 9 2/11%  
+- **C.** 10%  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **A. 9 1/11%**
+
+---
+
+### **Question 5**
+**A pizza boy delivered:**  
+*एक पिज़्ज़ा डिलीवरी बॉय ने:*
+
+- Day 1: two-fifths (2/5)
+- Day 2: three-fourths (3/4)
+- Day 3: nine-sixteenths (9/16)
+
+**If he had the same number of pizzas at the beginning of each day,**  
+*तो किस दिन उसने सबसे अधिक पिज़्ज़ा डिलीवर किया?*
+
+**Options:**  
+- **A.** Day 1  
+- **B.** Day 2  
+- **C.** Day 3  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **B. Day 2**
+
+Q6. The cost of carpeting a room 18 m long with a carpet 75 cm wide
+
+at ₹4.50 per metre is ₹810.
+18 मीटर लंबे कमरे में 75 सेमी चौड़ी कालीन बिछाने की लागत ₹810 है।
+कालीन की दर ₹4.50 प्रति मीटर है।
+कमरे की चौड़ाई (Breadth) क्या है?
+
+A. 7 m
+B. 7.5 m
+C. 8 m
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. 7.5 m
+
+Q7. Two persons A and B complete a task in 15 days when working together.
+
+दो व्यक्ति A और B मिलकर किसी कार्य को 15 दिनों में पूरा करते हैं।
+
+Person A alone can complete the task in 20 days.
+व्यक्ति A अकेले उस कार्य को 20 दिनों में पूरा कर सकता है।
+
+How many days will person B take to complete the task alone?
+व्यक्ति B अकेले उस कार्य को कितने दिनों में पूरा करेगा?
+
+A. 35 days (35 दिन)
+B. 25 days (25 दिन)
+C. 60 days (60 दिन)
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. 60 days
+
+Q8. The sum of the numerator and denominator of a fraction is 11.
+
+किसी भिन्न के अंश (Numerator) और हर (Denominator) का योग 11 है।
+
+If 1 is added to the numerator and 2 is subtracted from the denominator,
+यदि अंश में 1 जोड़ दिया जाए और हर में से 2 घटा दिया जाए,
+the fraction becomes 3/2.
+तो वह भिन्न 3/2 बन जाती है।
+
+The original fraction is:
+मूल भिन्न क्या है?
+
+A. 5/6
+B. 6/5
+C. 3/8
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. 5/6
+
+➗ Q31. The cost of 5 bats and 18 balls is ₹6,500 and the cost of 2 bats and 20 balls is ₹4,200.
+
+5 बल्लों और 18 गेंदों की कीमत ₹6,500 है तथा 2 बल्लों और 20 गेंदों की कीमत ₹4,200 है।
+एक बल्ले और एक गेंद की कीमत क्रमशः क्या है?
+
+📌 Topic: Algebra – Linear Equations
+विषय: बीजगणित – रैखिक समीकरण
+
+A. ₹850, ₹125
+B. ₹630, ₹115
+C. ₹780, ₹150
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. ₹850, ₹125
+
+💰 Q32. A shopkeeper purchases an item at ₹615 and sells it at ₹820.
+
+एक दुकानदार किसी वस्तु को ₹615 में खरीदता है और ₹820 में बेचता है।
+उसका लाभ प्रतिशत कितना है?
+
+📌 Topic: Profit & Loss
+विषय: लाभ एवं हानि
+
+A. 25%
+B. 33.33%
+C. 35.50%
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. 33.33%
+
+🔢 Q33. A hacker finds that the ATM PIN of a person has:
+
+first two digits ranging from 3 to 8
+
+fourth digit is either 0 or 9
+
+एक हैकर को पता चलता है कि ATM पिन में:
+
+पहले दो अंक 3 से 8 के बीच हैं
+
+चौथा अंक 0 या 9 है
+
+पिन को डिकोड करने के लिए उसे कितने प्रयास करने होंगे?
+
+📌 Topic: Permutation & Combination
+विषय: क्रमचय एवं संचय
+
+A. 48
+B. 24
+C. 720
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. 48
+
+📐 Q34. The lengths of two sides of a triangle are 8 cm and 9 cm and its area is 12√5/5 cm².
+
+त्रिभुज की दो भुजाएँ 8 सेमी और 9 सेमी हैं तथा उसका क्षेत्रफल 12√5/5 सेमी² है।
+तीसरी भुजा की लंबाई क्या है?
+
+📌 Topic: Mensuration – Triangle
+विषय: क्षेत्रमिति – त्रिभुज
+
+A. 5 cm
+B. 9 cm
+C. 7 cm
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. 7 cm
+
+📊 Q35. There are 50 numbers. Each number is subtracted from 53 and the mean of the numbers so obtained is −3/5.
+
+50 संख्याएँ हैं। प्रत्येक संख्या को 53 से घटाया जाता है और प्राप्त संख्याओं का औसत −3/5 है।
+मूल संख्याओं का औसत क्या है?
+
+📌 Topic: Statistics – Average
+विषय: सांख्यिकी – औसत
+
+A. 56.5
+B. 53.5
+C. 49.5
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. 56.5 
+ 
+ 👦👦 Q36. The ratio of the ages of two brothers is 4 : 3.
+
+दो भाइयों की आयु का अनुपात 4 : 3 है।
+यदि बड़ा भाई छोटे भाई से 6 वर्ष बड़ा है, तो उनकी आयु (वर्षों में) क्या है?
+
+📌 Topic: Ratio & Proportion
+विषय: अनुपात एवं समानुपात
+
+A. 24, 18
+B. 36, 30
+C. 15, 9
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. 24, 18
+
+➗ Q37. The value of 1/(1×2) − 1/(2×3) − 1/(3×4) − ⋯ − 1/(n(n+1)) is:
+
+निम्नलिखित व्यंजक का मान है:
+
+📌 Topic: Algebra – Series
+विषय: बीजगणित – श्रेणी
+
+A. (n-1)/n
+B. 1/n
+C. 1/(n+1)
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. 1/n
+
+
+📐 Q38. The quadratic equation with roots −1 and 4 is:
+
+−1 और 4 मूलों वाला द्विघात समीकरण कौन-सा है?
+
+📌 Topic: Quadratic Equations
+विषय: द्विघात समीकरण
+
+A. x² − 3x − 4 = 0
+B. x² + 3x + 3 = 0
+C. x² − 4x + 1 = 0
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. x² − 3x − 4 = 0
+
+Q9. The floor of a rectangular hall has a perimeter of 250 metres.
+
+एक आयताकार हॉल के फर्श की परिमाप 250 मीटर है।
+
+If the cost of painting the four walls at the rate of ₹10 per m² is ₹15,000,
+यदि चारों दीवारों को ₹10 प्रति वर्ग मीटर की दर से रंगने की लागत ₹15,000 है,
+then the height of the hall is:
+तो हॉल की ऊँचाई क्या है?
+
+📌 Topic: Mensuration – Area of Four Walls
+विषय: क्षेत्रमिति – चार दीवारों का क्षेत्रफल
+
+A. 7 metres
+B. 16 metres
+C. 6 metres
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. 6 metres
+
+🔢 Q32. Which of the following statements is not true?
+
+निम्नलिखित में से कौन-सा कथन सही नहीं है?
+
+📌 Topic: Number System
+विषय: संख्या पद्धति
+
+A. Every natural number is a whole number.
+(प्रत्येक प्राकृतिक संख्या पूर्ण संख्या है)
+B. Every integer is a whole number.
+(प्रत्येक पूर्णांक पूर्ण संख्या है)
+C. Every natural number is an integer number.
+(प्रत्येक प्राकृतिक संख्या पूर्णांक है)
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. Every integer is a whole number
+
+📊 Q33. The average of 7 consecutive numbers is 20.
+
+7 क्रमागत संख्याओं का औसत 20 है।
+The largest of these numbers is:
+इनमें से सबसे बड़ी संख्या कौन-सी है?
+
+📌 Topic: Average
+विषय: औसत
+
+A. 20
+B. 21
+C. 23
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: C. 23
+
+📐 Q34. The equation ax² + bx + c = 0 has two distinct real roots if:
+
+समीकरण ax² + bx + c = 0 के दो भिन्न वास्तविक मूल कब होते हैं?
+
+📌 Topic: Algebra – Quadratic Equation
+विषय: बीजगणित – द्विघात समीकरण
+
+A. b² − 4ac < 0
+B. b² − 4ac > 0
+C. b² − 4ac = 0
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. b² − 4ac > 0
+
+⏱️ Q35. Mohan can do a piece of work in 25 days and Sohan can do it in 20 days.
+
+मोहन किसी कार्य को 25 दिनों में और सोहन 20 दिनों में कर सकता है।
+
+Both work together for 5 days, after which Mohan leaves.
+दोनों 5 दिन साथ काम करते हैं, उसके बाद मोहन चला जाता है।
+
+How long will Sohan take to complete the remaining work?
+शेष कार्य को पूरा करने में सोहन को कितना समय लगेगा?
+
+📌 Topic: Time & Work
+विषय: समय और कार्य
+
+A. 20 days
+B. 11 days
+C. 14 days
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. 11 days 
+
+Q36. If X = (a−b)², Y = 30 and a+b = 15, then:
+
+यदि X = (a−b)², Y = 30 तथा a+b = 15 हो, तो—
+
+📌 Topic: Algebra – Identities & Comparison
+विषय: बीजगणित – सर्वसमिकाएँ एवं तुलना
+
+A. X is less than Y if a = b
+B. X is greater than Y if 
+𝑎
+≠
+𝑏
+a
+
+=b
+C. Y is greater than X if a = b
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: D. More than one of the above
+
+📊 Q37. The probability that a non-leap year selected at random will contain 53 Sundays is:
+
+किसी यादृच्छिक रूप से चुने गए सामान्य (Non-leap) वर्ष में 53 रविवार होने की प्रायिकता क्या है?
+
+📌 Topic: Probability
+विषय: प्रायिकता
+
+A. 1/7
+
+B. 2/53
+
+C. 1/53
+
+
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: A. 
+1
+7
+7
+1
+	​
+
+
+🔢 Q38. If 7x² + 49 = 12x² + 6x + 3, then the value of x is:
+यदि उपरोक्त समीकरण सत्य है, तो x का मान क्या है?
+
+📌 Topic: Algebra – Quadratic Equation
+विषय: बीजगणित – द्विघात समीकरण
+
+A. 3
+B. 4
+C. 7
+D. More than one of the above (उपरोक्त में से एक से अधिक)
+E. None of the above (इनमें से कोई नहीं)
+
+✅ Correct Answer: B. 4
