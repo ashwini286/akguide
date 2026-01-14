@@ -1,5 +1,12 @@
 # 🔬 Science Study Guide
 
+## 📚 Table of Contents
+- [Physics Questions (Questions 9-10, 19-43)](#physics-questions)
+- [Chemistry Questions (Questions 11-12, 24, 27, 35)](#chemistry-questions)
+- [Biology Questions (Questions 13-18, 20-23, 25-26, 28-34, 44-48)](#biology-questions)
+
+---
+
 ## 🔭 Physics Questions
 
 ### **Question 9**
@@ -238,448 +245,489 @@
 
 ✅ **Correct Answer:** **A. Frequency**
 
-⚛️ Q44. The speed of an electron in the orbit of the hydrogen atom in the ground state is:
+---
 
-हाइड्रोजन परमाणु की आधार अवस्था (Ground State) में इलेक्ट्रॉन का वेग कितना होता है?
+### **Question 22**
+**The speed of an electron in the orbit of the hydrogen atom in the ground state is:**  
+*हाइड्रोजन परमाणु की आधार अवस्था (Ground State) में इलेक्ट्रॉन का वेग कितना होता है?*
 
-📌 Topic: Atomic Physics – Bohr Model
-विषय: परमाणु भौतिकी – बोहर मॉडल
+📋 **Topic:** Atomic Physics – Bohr Model  
+📋 **विषय:** परमाणु भौतिकी – बोहर मॉडल
 
-A. c
-B. c / 2
-C. c / 137
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** c  
+- **B.** c / 2  
+- **C.** c / 137  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. c / 137
+✅ **Correct Answer:** **C. c / 137**
 
-Q21. A blackbody radiates energy at the rate of E watt/m² at temperature T K.
+---
 
-When the temperature is reduced to T/3 K, the radiant energy (in watt/m²) will be:
-एक ब्लैक बॉडी T K तापमान पर E वाट/मी² ऊर्जा उत्सर्जित करती है।
-यदि तापमान T/3 K कर दिया जाए, तो उत्सर्जित ऊर्जा कितनी होगी?
+### **Question 23**
+**A blackbody radiates energy at the rate of E watt/m² at temperature T K. When the temperature is reduced to T/3 K, the radiant energy (in watt/m²) will be:**  
+*एक ब्लैक बॉडी T K तापमान पर E वाट/मी² ऊर्जा उत्सर्जित करती है। यदि तापमान T/3 K कर दिया जाए, तो उत्सर्जित ऊर्जा कितनी होगी?*
 
-📌 Topic: Thermal Physics – Stefan’s Law
-विषय: ऊष्मा भौतिकी – स्टीफन का नियम
+📋 **Topic:** Thermal Physics – Stefan's Law  
+📋 **विषय:** ऊष्मा भौतिकी – स्टीफन का नियम
 
-A. E / 16
-B. E / 27
-C. E / 81
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** E / 16  
+- **B.** E / 27  
+- **C.** E / 81  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. E / 81
+✅ **Correct Answer:** **C. E / 81**
 
-Q22. The acid which can destroy the colour of acidic KMnO₄ is:
+---
 
-कौन-सा अम्ल अम्लीय KMnO₄ के रंग को नष्ट कर सकता है?
+### **Question 24**
+**The acid which can destroy the colour of acidic KMnO₄ is:**  
+*कौन-सा अम्ल अम्लीय KMnO₄ के रंग को नष्ट कर सकता है?*
 
-📌 Topic: Chemistry – Redox Reactions
-विषय: रसायन विज्ञान – ऑक्सीकरण-अपचयन अभिक्रिया
+📋 **Topic:** Chemistry – Redox Reactions  
+📋 **विषय:** रसायन विज्ञान – ऑक्सीकरण-अपचयन अभिक्रिया
 
-A. CH₃COOH (Acetic acid / एसीटिक अम्ल)
-B. C₆H₈O₇ (Citric acid / साइट्रिक अम्ल)
-C. CH₃CH₂COOH (Propionic acid / प्रोपियोनिक अम्ल)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** CH₃COOH *(Acetic acid / एसीटिक अम्ल)*  
+- **B.** C₆H₈O₇ *(Citric acid / साइट्रिक अम्ल)*  
+- **C.** CH₃CH₂COOH *(Propionic acid / प्रोपियोनिक अम्ल)*  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: B. C₆H₈O₇ *(Citric acid)*
-Q23. Myopia is a disease in which a person cannot see:
+✅ **Correct Answer:** **B. C₆H₈O₇ *(Citric acid)*
 
-मायोपिया (निकट दृष्टि दोष) रोग में व्यक्ति क्या नहीं देख पाता?
+---
 
-📌 Topic: Physics – Human Eye
-विषय: भौतिकी – मानव नेत्र
+### **Question 25**
+**Myopia is a disease in which a person cannot see:**  
+*मायोपिया (निकट दृष्टि दोष) रोग में व्यक्ति क्या नहीं देख पाता?*
 
-A. Distant objects clearly (दूर की वस्तुएँ स्पष्ट)
-B. Nearby objects clearly (पास की वस्तुएँ स्पष्ट)
-C. Both nearby and distant objects clearly
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+📋 **Topic:** Physics – Human Eye  
+📋 **विषय:** भौतिकी – मानव नेत्र
 
-✅ Correct Answer: A. Distant objects clearly
+**Options:**  
+- **A.** Distant objects clearly *(दूर की वस्तुएँ स्पष्ट)*  
+- **B.** Nearby objects clearly *(पास की वस्तुएँ स्पष्ट)*  
+- **C.** Both nearby and distant objects clearly  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-Q24. The term 'heredity' chiefly refers to:
+✅ **Correct Answer:** **A. Distant objects clearly**
 
-‘आनुवंशिकता (Heredity)’ शब्द मुख्य रूप से किससे संबंधित है?
+---
 
-📌 Topic: Biology – Genetics
-विषय: जीवविज्ञान – आनुवंशिकी
+### **Question 26**
+**The term 'heredity' chiefly refers to:**  
+*'आनुवंशिकता (Heredity)' शब्द मुख्य रूप से किससे संबंधित है?*
 
-A. Anatomy (शरीर रचना)
-B. Meiosis (अर्धसूत्री विभाजन)
-C. Genetics (आनुवंशिकी)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+📋 **Topic:** Biology – Genetics  
+📋 **विषय:** जीवविज्ञान – आनुवंशिकी
 
-✅ Correct Answer: C. Genetics
+**Options:**  
+- **A.** Anatomy *(शरीर रचना)*  
+- **B.** Meiosis *(अर्धसूत्री विभाजन)*  
+- **C.** Genetics *(आनुवंशिकी)*  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-Q25. The cans in which food is packed are coated with tin and not zinc because:
+✅ **Correct Answer:** **C. Genetics**
 
-खाद्य पदार्थों के डिब्बों पर जस्ता (Zinc) की बजाय टिन (Tin) की परत चढ़ाई जाती है, क्योंकि—
+---
 
-📌 Topic: Chemistry – Reactivity of Metals
-विषय: रसायन विज्ञान – धातुओं की अभिक्रियाशीलता
+### **Question 27**
+**The cans in which food is packed are coated with tin and not zinc because:**  
+*खाद्य पदार्थों के डिब्बों पर जस्ता (Zinc) की बजाय टिन (Tin) की परत चढ़ाई जाती है, क्योंकि—*
 
-A. Tin is more reactive than zinc
-B. Zinc is more reactive than tin
-C. Zinc is costlier than tin
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+📋 **Topic:** Chemistry – Reactivity of Metals  
+📋 **विषय:** रसायन विज्ञान – धातुओं की अभिक्रियाशीलता
 
-✅ Correct Answer: B. Zinc is more reactive than tin
+**Options:**  
+- **A.** Tin is more reactive than zinc  
+- **B.** Zinc is more reactive than tin  
+- **C.** Zinc is costlier than tin  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-Q26. The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is:
+✅ **Correct Answer:** **B. Zinc is more reactive than tin**
 
-प्रकाश संश्लेषण के दौरान वायुमंडलीय कार्बन डाइऑक्साइड को कार्बोहाइड्रेट में परिवर्तित करने की प्रक्रिया क्या कहलाती है?
+---
 
-📌 Topic: Biology – Photosynthesis
-विषय: जीवविज्ञान – प्रकाश संश्लेषण
+### **Question 28**
+**The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is:**  
+*प्रकाश संश्लेषण के दौरान वायुमंडलीय कार्बन डाइऑक्साइड को कार्बोहाइड्रेट में परिवर्तित करने की प्रक्रिया क्या कहलाती है?*
 
-A. Oxidation (ऑक्सीकरण)
-B. Reduction (अपचयन)
-C. Hydrolysis (जल अपघटन)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+📋 **Topic:** Biology – Photosynthesis  
+📋 **विषय:** जीवविज्ञान – प्रकाश संश्लेषण
 
-✅ Correct Answer: B.  Q44. Trachoma disease is related to:
+**Options:**  
+- **A.** Oxidation *(ऑक्सीकरण)*  
+- **B.** Reduction *(अपचयन)*  
+- **C.** Hydrolysis *(जल अपघटन)*  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-ट्रेकोमा रोग किस अंग से संबंधित है?
+✅ **Correct Answer:** **B. Reduction**
 
-📌 Topic: Biology – Human Diseases
-विषय: जीवविज्ञान – मानव रोग
+---
 
-A. Lungs (फेफड़े)
-B. Ears (कान)
-C. Eyes (आँखें)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+### **Question 29**
+**Trachoma disease is related to:**  
+*ट्रेकोमा रोग किस अंग से संबंधित है?*
 
-✅ Correct Answer: C. Eyes
+📋 **Topic:** Biology – Human Diseases  
+📋 **विषय:** जीवविज्ञान – मानव रोग
 
-🚀🏹 Q45. Which of the following makes use of Newton’s third law of motion?
+**Options:**  
+- **A.** Lungs *(फेफड़े)*  
+- **B.** Ears *(कान)*  
+- **C.** Eyes *(आँखें)*  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-न्यूटन के तृतीय गति नियम का उपयोग निम्नलिखित में से कौन करता है?
+✅ **Correct Answer:** **C. Eyes**
 
-📌 Topic: Physics – Laws of Motion
-विषय: भौतिकी – गति के नियम
+---
 
-A. Archery (तीरंदाजी)
-B. Space rocket (अंतरिक्ष रॉकेट)
-C. Venturimeter
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+### **Question 30**
+**Which of the following makes use of Newton's third law of motion?**  
+*न्यूटन के तृतीय गति नियम का उपयोग निम्नलिखित में से कौन करता है?*
 
-✅ Correct Answer: D. More than one of the above  
+📋 **Topic:** Physics – Laws of Motion  
+📋 **विषय:** भौतिकी – गति के नियम
+
+**Options:**  
+- **A.** Archery *(तीरंदाजी)*  
+- **B.** Space rocket *(अंतरिक्ष रॉकेट)*  
+- **C.** Venturimeter  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **D. More than one of the above**  
 *(Archery and Space Rocket both work on action-reaction)*
 
-Q27. Particles which can be added to the nucleus of an atom without changing its chemical properties are:
+---
 
-ऐसे कण जिन्हें परमाणु के नाभिक में जोड़ने पर उसके रासायनिक गुण नहीं बदलते, वे कौन-से हैं?
+### **Question 31**
+**Particles which can be added to the nucleus of an atom without changing its chemical properties are:**  
+*ऐसे कण जिन्हें परमाणु के नाभिक में जोड़ने पर उसके रासायनिक गुण नहीं बदलते, वे कौन-से हैं?*
 
-📌 Topic: Chemistry – Atomic Structure
-विषय: रसायन विज्ञान – परमाणु संरचना
+📋 **Topic:** Chemistry – Atomic Structure  
+📋 **विषय:** रसायन विज्ञान – परमाणु संरचना
 
-A. Neutrons (न्यूट्रॉन)
-B. Electrons (इलेक्ट्रॉन)
-C. Protons (प्रोटॉन)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** Neutrons *(न्यूट्रॉन)*  
+- **B.** Electrons *(इलेक्ट्रॉन)*  
+- **C.** Protons *(प्रोटॉन)*  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: A. Neutrons
+✅ **Correct Answer:** **A. Neutrons**
 
-## tre3.0 (9 to 10)
-Q39. Viruses are essentially made up of:
+---
 
-वायरस मुख्य रूप से किससे बने होते हैं?
+### **Question 32**
+**Viruses are essentially made up of:**  
+*वायरस मुख्य रूप से किससे बने होते हैं?*
 
-📌 Topic: Biology – Microorganisms
-विषय: जीवविज्ञान – सूक्ष्मजीव
+📋 **Topic:** Biology – Microorganisms  
+📋 **विषय:** जीवविज्ञान – सूक्ष्मजीव
 
-A. Proteins & Nucleic acid
-(प्रोटीन एवं न्यूक्लिक अम्ल)
-B. Proteins & Lipids
-C. Starch, Proteins & Carbohydrates
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** Proteins & Nucleic acid *(प्रोटीन एवं न्यूक्लिक अम्ल)*  
+- **B.** Proteins & Lipids  
+- **C.** Starch, Proteins & Carbohydrates  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: A. Proteins & Nucleic acid
+✅ **Correct Answer:** **A. Proteins & Nucleic acid**
 
-🔌 Q40. A moving coil galvanometer can be converted into an ammeter by placing:
+---
 
-मूविंग कॉइल गैल्वेनोमीटर को एमीटर में बदलने के लिए क्या जोड़ा जाता है?
+### **Question 33**
+**A moving coil galvanometer can be converted into an ammeter by placing:**  
+*मूविंग कॉइल गैल्वेनोमीटर को एमीटर में बदलने के लिए क्या जोड़ा जाता है?*
 
-📌 Topic: Physics – Current Electricity
-विषय: भौतिकी – धारा विद्युत
+📋 **Topic:** Physics – Current Electricity  
+📋 **विषय:** भौतिकी – धारा विद्युत
 
-A. High resistance in series
-B. High resistance in parallel
-C. Low resistance in parallel
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** High resistance in series  
+- **B.** High resistance in parallel  
+- **C.** Low resistance in parallel  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. Low resistance in parallel
+✅ **Correct Answer:** **C. Low resistance in parallel**
 
-✨ Q41. Twinkling of stars is on account of:
+---
 
-तारों का टिमटिमाना किस कारण होता है?
+### **Question 34**
+**Twinkling of stars is on account of:**  
+*तारों का टिमटिमाना किस कारण होता है?*
 
-📌 Topic: Physics – Optics (Atmospheric Refraction)
-विषय: भौतिकी – प्रकाशिकी (वायुमंडलीय अपवर्तन)
+📋 **Topic:** Physics – Optics (Atmospheric Refraction)  
+📋 **विषय:** भौतिकी – प्रकाशिकी (वायुमंडलीय अपवर्तन)
 
-A. Small size of stars
-B. Large distance of stars & fluctuations in air density
-C. Large distance of stars & air storms
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** Small size of stars  
+- **B.** Large distance of stars & fluctuations in air density  
+- **C.** Large distance of stars & air storms  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: B. Large distance of stars & fluctuations in air density
+✅ **Correct Answer:** **B. Large distance of stars & fluctuations in air density**
 
-🧪 Q42. Ammonium compound which can sublime on heating is:
+---
 
-निम्नलिखित में से कौन-सा अमोनियम यौगिक गरम करने पर उर्ध्वपातित (Sublime) होता है?
+### **Question 35**
+**Ammonium compound which can sublime on heating is:**  
+*निम्नलिखित में से कौन-सा अमोनियम यौगिक गरम करने पर उर्ध्वपातित (Sublime) होता है?*
 
-📌 Topic: Chemistry – Physical Properties of Salts
-विषय: रसायन विज्ञान – लवणों के भौतिक गुण
+📋 **Topic:** Chemistry – Physical Properties of Salts  
+📋 **विषय:** रसायन विज्ञान – लवणों के भौतिक गुण
 
-A. 
-(
-𝑁
-𝐻
-4
-**Options:**
-- **A.** $(NH_4)_2SO_4$
-- **B.** $NH_4Cl$
-- **C.** $NH_4NO_3$
-- **D.** More than one of the above (उपरोक्त में से एक से अधिक)
-- **E.** None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** $(NH_4)_2SO_4$  
+- **B.** $NH_4Cl$  
+- **C.** $NH_4NO_3$  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ **Correct Answer:** **B.** $NH_4Cl$
+✅ **Correct Answer:** **B. $NH_4Cl$**
 
-🔊 Q43. Which of the following mediums will exhibit maximum velocity of sound?
+---
 
-निम्नलिखित में से किस माध्यम में ध्वनि का वेग सबसे अधिक होगा?
+### **Question 36**
+**Which of the following mediums will exhibit maximum velocity of sound?**  
+*निम्नलिखित में से किस माध्यम में ध्वनि का वेग सबसे अधिक होगा?*
 
-📌 Topic: Physics – Sound
-विषय: भौतिकी – ध्वनि
+📋 **Topic:** Physics – Sound  
+📋 **विषय:** भौतिकी – ध्वनि
 
-A. Water (जल)
-B. Air (वायु)
-C. Steel (इस्पात)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** Water *(जल)*  
+- **B.** Air *(वायु)*  
+- **C.** Steel *(इस्पात)*  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. Steel
+✅ **Correct Answer:** **C. Steel**
 
-🔥 Q44. Which of the following fuels shows the highest calorific value?
+---
 
-निम्नलिखित में से किस ईंधन का ऊष्मीय मान (Calorific Value) सबसे अधिक है?
-
-📌 Topic: Physics/Chemistry – Fuels
-विषय: ईंधन
-
-A. Diesel
-B. Kerosene
-C. Petrol
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+### **Question 37**
+**Which of the following fuels shows the highest calorific value?**  
+*निम्नलिखित में से किस ईंधन का ऊष्मीय मान (Calorific Value) सबसे अधिक है?*
 
-✅ Correct Answer: C. Petrol
+📋 **Topic:** Physics/Chemistry – Fuels  
+📋 **विषय:** ईंधन
 
-☢️ Q45. The penetrating power of X-rays increases with:
+**Options:**  
+- **A.** Diesel  
+- **B.** Kerosene  
+- **C.** Petrol  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-एक्स-रे की भेदन क्षमता (Penetrating Power) किसके बढ़ने से बढ़ती है?
+✅ **Correct Answer:** **C. Petrol**
 
-📌 Topic: Physics – Modern Physics (X-rays)
-विषय: आधुनिक भौतिकी – एक्स-रे
+---
 
-A. Increase in intensity
-B. Increase in frequency of X-rays
-C. Increase of pressure in X-ray tube
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+### **Question 38**
+**The penetrating power of X-rays increases with:**  
+*एक्स-रे की भेदन क्षमता (Penetrating Power) किसके बढ़ने से बढ़ती है?*
 
-✅ Correct Answer: B. Increase in frequency of X-rays
+📋 **Topic:** Physics – Modern Physics (X-rays)  
+📋 **विषय:** आधुनिक भौतिकी – एक्स-रे
 
-🌈 Q46. When sun rays enter a glass prism they are:
+**Options:**  
+- **A.** Increase in intensity  
+- **B.** Increase in frequency of X-rays  
+- **C.** Increase of pressure in X-ray tube  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-जब सूर्य किरणें काँच के प्रिज़्म में प्रवेश करती हैं, तो वे—
+✅ **Correct Answer:** **B. Increase in frequency of X-rays**
 
-📌 Topic: Physics – Optics (Prism)
-विषय: भौतिकी – प्रकाशिकी (प्रिज़्म)
+---
 
-A. Deviated but not dispersed
-B. Dispersed but not deviated
-C. Both deviated and dispersed
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+### **Question 39**
+**When sun rays enter a glass prism they are:**  
+*जब सूर्य किरणें काँच के प्रिज़्म में प्रवेश करती हैं, तो वे—*
 
-✅ Correct Answer: C. Both deviated and dispersed
+📋 **Topic:** Physics – Optics (Prism)  
+📋 **विषय:** भौतिकी – प्रकाशिकी (प्रिज़्म)
 
-Q39. A wire of resistance R is cut into 5 equal parts and connected in parallel.
+**Options:**  
+- **A.** Deviated but not dispersed  
+- **B.** Dispersed but not deviated  
+- **C.** Both deviated and dispersed  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-If the equivalent resistance is R′, find the ratio 
-𝑅
-/
-𝑅
-′
-R/R′.
+✅ **Correct Answer:** **C. Both deviated and dispersed**
 
-R प्रतिरोध की एक तार को 5 समान भागों में काटकर समांतर संयोजन में जोड़ा गया।
-यदि समतुल्य प्रतिरोध R′ है, तो 
-𝑅
-/
-𝑅
-′
-R/R′ ज्ञात करें।
+---
 
-📌 Topic: Physics – Electricity
-विषय: भौतिकी – विद्युत
+### **Question 40**
+**A wire of resistance R is cut into 5 equal parts and connected in parallel. If the equivalent resistance is R', find the ratio R/R'.**  
+*R प्रतिरोध की एक तार को 5 समान भागों में काटकर समांतर संयोजन में जोड़ा गया। यदि समतुल्य प्रतिरोध R' है, तो R/R' ज्ञात करें।*
 
-A. 1/25
-B. 1/5
-C. 25
-D. More than one of the above
-E. None of the above
+📋 **Topic:** Physics – Electricity  
+📋 **विषय:** भौतिकी – विद्युत
 
-✅ Correct Answer: C. 25
- ## tre3.0 (11 to 12)
+**Options:**  
+- **A.** 1/25  
+- **B.** 1/5  
+- **C.** 25  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-🔥 Q40. An electric heater of resistance 8 Ω draws a current of 15 A for 2 hours.
+✅ **Correct Answer:** **C. 25**
+---
 
-What is the rate at which heat is developed?
+### **Question 41**
+**An electric heater of resistance 8 Ω draws a current of 15 A for 2 hours. What is the rate at which heat is developed?**  
+*8 Ω प्रतिरोध का एक विद्युत हीटर 15 A धारा खींचता है। ऊष्मा उत्पन्न होने की दर क्या है?*
 
-8 Ω प्रतिरोध का एक विद्युत हीटर 15 A धारा खींचता है।
-ऊष्मा उत्पन्न होने की दर क्या है?
+📋 **Topic:** Physics – Electric Power  
+📋 **विषय:** भौतिकी – विद्युत शक्ति
 
-📌 Topic: Physics – Electric Power
-विषय: भौतिकी – विद्युत शक्ति
+**Options:**  
+- **A.** 220 watt  
+- **B.** 120 watt  
+- **C.** 210 watt  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. 220 watt
-B. 120 watt
-C. 210 watt
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **E. None of the above**  
+*(Correct power = I²R = 15² × 8 = 1800 watt)*
 
-✅ Correct Answer: E. None of the above
-(Correct power = 
-𝐼
-2
-𝑅
-=
-15
-2
-×
-8
-=
-1800
-I
-2
-R=15
-2
-×8=1800 watt)
+---
 
-Q41. Which of the following lenses would you prefer to use while reading small letters found in a dictionary?
+### **Question 42**
+**Which of the following lenses would you prefer to use while reading small letters found in a dictionary?**  
+*डिक्शनरी में लिखे छोटे अक्षरों को पढ़ने के लिए आप किस लेंस का उपयोग करेंगे?*
 
-डिक्शनरी में लिखे छोटे अक्षरों को पढ़ने के लिए आप किस लेंस का उपयोग करेंगे?
+📋 **Topic:** Physics – Optics (Lenses)  
+📋 **विषय:** भौतिकी – प्रकाशिकी (लेंस)
 
-📌 Topic: Physics – Optics (Lenses)
-विषय: भौतिकी – प्रकाशिकी (लेंस)
+**Options:**  
+- **A.** A convex lens of 50 cm  
+- **B.** A concave lens of 50 cm  
+- **C.** A concave lens of 5 cm  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. A convex lens of 50 cm
-B. A concave lens of 50 cm
-C. A concave lens of 5 cm
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **A. A convex lens of 50 cm**
 
-✅ Correct Answer: A. A convex lens of 50 cm
+---
 
-👁️ Q42. The human eye forms the image of an object at its ________
+### **Question 43**
+**The human eye forms the image of an object at its:**  
+*मानव आँख किसी वस्तु की छवि कहाँ बनाती है?*
 
-मानव आँख किसी वस्तु की छवि कहाँ बनाती है?
+📋 **Topic:** Physics – Human Eye  
+📋 **विषय:** भौतिकी – मानव नेत्र
 
-📌 Topic: Physics – Human Eye
-विषय: भौतिकी – मानव नेत्र
+**Options:**  
+- **A.** Cornea  
+- **B.** Iris  
+- **C.** Retina  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Cornea
-B. Iris
-C. Retina
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **C. Retina**
 
-✅ Correct Answer: C. Retina
+---
 
-♀️ Q43. Which of the following is not a part of the female reproductive system in human beings?
+### **Question 44**
+**Which of the following is not a part of the female reproductive system in human beings?**  
+*निम्नलिखित में से कौन मानव स्त्री प्रजनन तंत्र का भाग नहीं है?*
 
-निम्नलिखित में से कौन मानव स्त्री प्रजनन तंत्र का भाग नहीं है?
+📋 **Topic:** Biology – Reproduction  
+📋 **विषय:** जीवविज्ञान – प्रजनन
 
-📌 Topic: Biology – Reproduction
-विषय: जीवविज्ञान – प्रजनन
+**Options:**  
+- **A.** Ovary  
+- **B.** Uterus  
+- **C.** Vas deferens  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Ovary
-B. Uterus
-C. Vas deferens
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **C. Vas deferens**
 
-✅ Correct Answer: C. Vas deferens
+---
 
-🌼 Q44. The anther contains ________
+### **Question 45**
+**The anther contains:**  
+*परागकोष (Anther) में क्या पाया जाता है?*
 
-परागकोष (Anther) में क्या पाया जाता है?
+📋 **Topic:** Biology – Plant Reproduction  
+📋 **विषय:** जीवविज्ञान – पादप प्रजनन
 
-📌 Topic: Biology – Plant Reproduction
-विषय: जीवविज्ञान – पादप प्रजनन
+**Options:**  
+- **A.** Sepals  
+- **B.** Ovules  
+- **C.** Pollen grains  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Sepals
-B. Ovules
-C. Pollen grains
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **C. Pollen grains**
 
-✅ Correct Answer: C. Pollen grains
+---
 
-🧫 Q45. Asexual reproduction takes place through budding in ______
+### **Question 46**
+**Asexual reproduction takes place through budding in:**  
+*निम्नलिखित में से किसमें कलीकरण (Budding) द्वारा अलैंगिक प्रजनन होता है?*
 
-निम्नलिखित में से किसमें कलीकरण (Budding) द्वारा अलैंगिक प्रजनन होता है?
+📋 **Topic:** Biology – Asexual Reproduction  
+📋 **विषय:** जीवविज्ञान – अलैंगिक प्रजनन
 
-📌 Topic: Biology – Asexual Reproduction
-विषय: जीवविज्ञान – अलैंगिक प्रजनन
+**Options:**  
+- **A.** Amoeba  
+- **B.** Yeast  
+- **C.** Plasmodium  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Amoeba
-B. Yeast
-C. Plasmodium
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **B. Yeast**
 
-✅ Correct Answer: B. Yeast
+---
 
-💊 Q46. Which one of the following types of medicines is used for treating indigestion?
+### **Question 47**
+**Which one of the following types of medicines is used for treating indigestion?**  
+*अपच (Indigestion) के उपचार में कौन-सी दवा उपयोग की जाती है?*
 
-अपच (Indigestion) के उपचार में कौन-सी दवा उपयोग की जाती है?
+📋 **Topic:** Biology – Medicines  
+📋 **विषय:** जीवविज्ञान – औषधियाँ
 
-📌 Topic: Biology – Medicines
-विषय: जीवविज्ञान – औषधियाँ
+**Options:**  
+- **A.** Antibiotic  
+- **B.** Antacid  
+- **C.** Analgesic  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Antibiotic
-B. Antacid
-C. Analgesic
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **B. Antacid**
 
-✅ Correct Answer: B. Antacid
+---
 
-🏛️ Q47. The task of processing citizenship applications under the CAA will be undertaken by:
+### **Question 48**
+**The task of processing citizenship applications under the CAA will be undertaken by:**  
+*CAA के अंतर्गत नागरिकता आवेदनों की प्रक्रिया किस विभाग द्वारा की जाएगी?*
 
-CAA के अंतर्गत नागरिकता आवेदनों की प्रक्रिया किस विभाग द्वारा की जाएगी?
+📋 **Topic:** Current Affairs – Indian Polity  
+📋 **विषय:** समसामयिक घटनाएँ – भारतीय राजनीति
 
-📌 Topic: Current Affairs – Indian Polity
-विषय: समसामयिक घटनाएँ – भारतीय राजनीति
+**Options:**  
+- **A.** Postal Department  
+- **B.** Census Department  
+- **C.** Central Security / IB  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Postal Department
-B. Census Department
-C. Central Security / IB
-D. More than one of the above
-E. None of the above
-
-✅ Correct Answer: A. Postal Department
+✅ **Correct Answer:** **A. Postal Department**

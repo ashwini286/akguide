@@ -6,10 +6,7 @@
 - [Modern Indian History (Questions 21-40)](#modern-indian-history)
 - [Indian Geography (Questions 41-60)](#indian-geography)
 - [Indian Polity (Questions 61-80)](#indian-polity)
-- [Indian Economy (Questions 81-100)](#indian-economy)
-- [Science & Technology (Questions 101-120)](#science--technology)
-- [Current Affairs (Questions 121-150)](#current-affairs)
-- [Bihar Specific Questions (Questions 151-200)](#bihar-specific-questions)
+- [Indian Economy (Questions 81-97)](#indian-economy)
 
 ---
 
@@ -936,171 +933,164 @@
 ---
 
 ### **Question 52**
-**Who was the founder of the Indian National Army (INA)?**  
-*भारतीय राष्ट्रीय सेना (INA) के संस्थापक कौन थे?*
+**Who first described the Revolt of 1857 as the 'First Indian War of Independence'?**  
+*1857 के विद्रोह को सबसे पहले 'भारत का प्रथम स्वतंत्रता संग्राम' किसने कहा?*
 
-भारतीय राष्ट्रीय सेना (INA) के संस्थापक कौन थे?
+**📌 Topic:** Modern Indian History – Revolt of 1857  
+**📌 विषय:** आधुनिक भारतीय इतिहास – 1857 का विद्रोह
 
-📌 Topic: Modern Indian History – Freedom Movement
-विषय: आधुनिक भारतीय इतिहास – स्वतंत्रता आंदोलन
+**Options:**
+- **A.** V. D. Savarkar
+- **B.** Bal Gangadhar Tilak
+- **C.** R. C. Majumdar
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Subhash Chandra Bose
-B. Mohan Singh
-C. Lala Lajpat Rai
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. V. D. Savarkar**
 
-✅ Correct Answer: B. Mohan Singh
+---
 
-🏹 Q53. The Tana Bhagat Movement was related to:
+### **Question 53**
+**Which of the following events happened first?**  
+*निम्नलिखित में से कौन-सी घटना सबसे पहले हुई?*
 
-ताना भगत आंदोलन किससे संबंधित था?
+**📌 Topic:** Tribal & Peasant Movements  
+**📌 विषय:** जनजातीय एवं किसान आंदोलन
 
-📌 Topic: Tribal Movements in India
-विषय: भारत में जनजातीय आंदोलन
+**Options:**
+- **A.** Santhal Rebellion
+- **B.** Rebellion of Birsa Munda
+- **C.** Tana Bhagat Movement
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Dalit Movement (दलित आंदोलन)
-B. Tribal Movement (जनजातीय आंदोलन)
-C. Peasant Movement (किसान आंदोलन)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Santhal Rebellion**
 
-✅ Correct Answer: B. Tribal Movement
+---
 
-🌳 Q54. In which State is Raksha Bandhan celebrated as Tree Safety Day?
+### **Question 54**
+**Which revolt is mentioned in Bankim Chandra Chatterjee's novel Anandamath?**  
+*बंकिम चंद्र चट्टोपाध्याय के उपन्यास आनंदमठ में किस विद्रोह का उल्लेख है?*
 
-किस राज्य में रक्षा बंधन को वृक्ष सुरक्षा दिवस के रूप में मनाया जाता है?
+**📌 Topic:** Modern Indian History – Revolts & Literature  
+**📌 विषय:** आधुनिक भारतीय इतिहास – विद्रोह एवं साहित्य
 
-📌 Topic: Indian Culture – Environmental Awareness
-विषय: भारतीय संस्कृति – पर्यावरण संरक्षण
+**Options:**
+- **A.** Sannyasi
+- **B.** Pagalpanthi
+- **C.** Indigo
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Madhya Pradesh
-B. Uttar Pradesh
-C. Bihar
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Sannyasi**
 
-✅ Correct Answer: A. Madhya Pradesh
+---
 
-🌍 Q55. In which of the following States is black soil found?
+### **Question 55**
+**When were Swadeshi and Boycott first adopted as forms of struggle in India?**  
+*भारत में स्वदेशी और बहिष्कार को संघर्ष के रूप में पहली बार कब अपनाया गया?*
 
-निम्नलिखित में से किन राज्यों में काली मिट्टी (Black Soil) पाई जाती है?
+**📌 Topic:** Indian National Movement  
+**📌 विषय:** भारतीय राष्ट्रीय आंदोलन
 
-📌 Topic: Indian Geography – Soils
-विषय: भारतीय भूगोल – मिट्टियाँ
+**Options:**
+- **A.** Partition of Bengal
+- **B.** Home Rule Movement
+- **C.** Non-Cooperation Movement
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Karnataka
-B. Gujarat
-C. Uttarakhand
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Partition of Bengal**
 
-✅ Correct Answer: D. More than one of the above
+---
 
-🐅🌿 Q56. How many types of species of flora and fauna are there in India?
+### **Question 56**
+**Who was the President of the Indian National Congress at the Gaya Session (1922)?**  
+*1922 के गया अधिवेशन में भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष कौन थे?*
 
-भारत में वनस्पति (Flora) एवं जीव-जंतु (Fauna) की कितनी प्रजातियाँ पाई जाती हैं?
+**📌 Topic:** Indian National Congress Sessions  
+**📌 विषय:** भारतीय राष्ट्रीय कांग्रेस – अधिवेशन
 
-📌 Topic: Environment – Biodiversity of India
-विषय: पर्यावरण – भारत की जैव विविधता
+**Options:**
+- **A.** Chittaranjan Das
+- **B.** Hakim Ajmal Khan
+- **C.** Mahatma Gandhi
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. 81,000 species of fauna and 47,000 species of flora
-B. 70,000 species of fauna and 50,000 species of flora
-C. 50,000 species of fauna and 40,000 species of flora
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Chittaranjan Das**
 
-✅ Correct Answer: A. 81,000 species of fauna and 47,000 species of flora 
+---
 
-Q57. Minerals are deposited and accumulated in the strata of which of the following rocks?
+### **Question 57**
+**Who led the peasants of Bihar during the Non-Cooperation Movement?**  
+*असहयोग आंदोलन के दौरान बिहार के किसानों का नेतृत्व किसने किया?*
 
-खनिजों का निक्षेपण एवं संचय निम्नलिखित में से किस प्रकार की चट्टानों की परतों में होता है?
+**📌 Topic:** Freedom Movement in Bihar  
+**📌 विषय:** बिहार में स्वतंत्रता आंदोलन
 
-📌 Topic: Physical Geography – Rocks
-विषय: भौतिक भूगोल – चट्टानें
+**Options:**
+- **A.** Raj Kumar Shukla
+- **B.** Swami Vidyanand
+- **C.** Rajendra Prasad
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Sedimentary rocks (अवसादी चट्टानें)
-B. Metamorphic rocks (रूपांतरित चट्टानें)
-C. Igneous rocks (आग्नेय चट्टानें)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Raj Kumar Shukla**
 
-✅ Correct Answer: A. Sedimentary rocks
+---
 
-🌾 Q58. Which one of the following is a leguminous crop?
+### **Question 58**
+**Who founded Hindu College at Calcutta in 1817?**  
+*1817 में कोलकाता में हिंदू कॉलेज की स्थापना किसने की?*
 
-निम्नलिखित में से कौन-सी दलहनी फसल है?
+**📌 Topic:** Modern Indian Education  
+**📌 विषय:** आधुनिक भारतीय शिक्षा
 
-📌 Topic: Agriculture – Crops
-विषय: कृषि – फसलें
+**Options:**
+- **A.** Henry Vivian Derozio
+- **B.** David Hare
+- **C.** Jonathan Duncan
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Pulse (दलहन)
-B. Jowar (ज्वार)
-C. Millet (बाजरा)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **B. David Hare**
 
-✅ Correct Answer: A. Pulse
+---
 
-🛣️ Q59. Which two of the following extreme locations are connected by the East–West Corridor?
+### **Question 59**
+**Who among the following said that: "Congress is tottering to its fall and one of my great ambitions while in India is to assist it to a peaceful demise"?**  
+*निम्नलिखित में से यह कथन किसने दिया था?*
 
-पूर्व–पश्चिम कॉरिडोर निम्नलिखित में से किन दो चरम स्थानों को जोड़ता है?
+**📌 Topic:** British Policy towards INC  
+**📌 विषय:** कांग्रेस के प्रति ब्रिटिश नीति
 
-📌 Topic: Indian Geography – Transport
-विषय: भारतीय भूगोल – परिवहन
+**Options:**
+- **A.** Dufferin
+- **B.** Minto
+- **C.** Curzon
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Mumbai and Nagpur
-B. Mumbai and Kolkata
-C. Silchar and Porbandar
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Dufferin**
 
-✅ Correct Answer: C. Silchar and Porbandar
+---
 
-🕳️ Q60. Stalactite and stalagmite structures are formed by:
+### **Question 60**
+**Who described the Government of India Act, 1935 as a 'Charter of Slavery'?**  
+*भारत सरकार अधिनियम, 1935 को 'दासता का घोषणा पत्र' किसने कहा?*
 
-स्टैलेक्टाइट एवं स्टैलेग्माइट संरचनाएँ किसके द्वारा बनती हैं?
+**📌 Topic:** Constitutional Development in India  
+**📌 विषय:** भारत में संवैधानिक विकास
 
-📌 Topic: Geomorphology – Karst Topography
-विषय: भू-आकृतिक विज्ञान – कार्स्ट स्थलाकृति
+**Options:**
+- **A.** Mahatma Gandhi
+- **B.** Netaji Subhas Chandra Bose
+- **C.** Maulana Hasrat Mohani
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Wind action (पवन क्रिया)
-B. Underground water (भूमिगत जल)
-C. Snow action (हिम क्रिया)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: B. Underground water
-
-🌍 Q61. April 22 is celebrated as:
-
-22 अप्रैल को किस रूप में मनाया जाता है?
-
-📌 Topic: International Days
-विषय: अंतरराष्ट्रीय दिवस
-
-A. World Earth Day (विश्व पृथ्वी दिवस)
-B. World Health Day (विश्व स्वास्थ्य दिवस)
-C. World Ozone Day (विश्व ओज़ोन दिवस)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. World Earth Day
-
-🗺️ Q62. Topographical map of India is prepared by which organization?
-
-भारत का स्थलाकृतिक (Topographical) मानचित्र किस संस्था द्वारा तैयार किया जाता है?
-
-📌 Topic: Indian Geography – Mapping Agencies
-विषय: भारतीय भूगोल – मानचित्रण संस्थाएँ
-
-A. The Geological Survey of India
-B. The Survey of India
-C. The Zoological Survey of India
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: B. The Survey of India 
+✅ **Correct Answer:** **E. None of the above** *(This phrase was used by Jawaharlal Nehru, who is not in the options)* 
 
 Q63. Who first described the Revolt of 1857 as the ‘First Indian War of Independence’?
 
@@ -1517,25 +1507,7 @@ E. None of the above (इनमें से कोई नहीं)
 
 ---
 
-### **Question 70**
-**Who described the Government of India Act, 1935 as a 'Charter of Slavery'?**  
-*भारत सरकार अधिनियम, 1935 को 'दासता का घोषणा पत्र' किसने कहा?*
-
-**📌 Topic:** Constitutional Development in India  
-**📌 विषय:** भारत में संवैधानिक विकास
-
-**Options:**
-- **A.** Mahatma Gandhi
-- **B.** Netaji Subhas Chandra Bose
-- **C.** Maulana Hasrat Mohani
-- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*
-- **E.** None of the above *(इनमें से कोई नहीं)*
-
-✅ **Correct Answer:** **E. None of the above** *(This phrase was used by Jawaharlal Nehru, who is not in the options)*
-
----
-
-### **Question 47**
+### **Question 61**
 **In which country was the ASEAN–India Grassroots Innovation Forum (AIGIF) launched in November 2023?**  
 *ASEAN–India Grassroots Innovation Forum (AIGIF) नवंबर 2023 में किस देश में शुरू किया गया?*
 
@@ -1553,7 +1525,7 @@ E. None of the above (इनमें से कोई नहीं)
 
 ---
 
-### **Question 48**
+### **Question 62**
 **In April 2024, Abdel Fattah al-Sisi was re-elected for a third six-year term as President of which country?**  
 *अप्रैल 2024 में अब्देल फत्ताह अल-सीसी किस देश के राष्ट्रपति के रूप में तीसरे छह वर्षीय कार्यकाल के लिए पुनः निर्वाचित हुए?*
 
@@ -1569,215 +1541,253 @@ E. None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **C. Egypt**
 
-💊 Q49. Which country became the first nation to adopt India’s Jan Aushadhi Scheme in February 2024?
+### **Question 63**
+**Which country became the first nation to adopt India's Jan Aushadhi Scheme in February 2024?**  
+*फरवरी 2024 में भारत की जन औषधि योजना को अपनाने वाला पहला देश कौन-सा बना?*
 
-फरवरी 2024 में भारत की जन औषधि योजना को अपनाने वाला पहला देश कौन-सा बना?
+**📌 Topic:** Current Affairs – Health & Cooperation  
+**📌 विषय:** समसामयिक घटनाएँ – स्वास्थ्य एवं सहयोग
 
-📌 Topic: Current Affairs – Health & Cooperation
-विषय: समसामयिक घटनाएँ – स्वास्थ्य एवं सहयोग
+**Options:**  
+- **A.** Sri Lanka  
+- **B.** Mauritius  
+- **C.** Nepal  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Sri Lanka
-B. Mauritius
-C. Nepal
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **B. Mauritius**
 
-✅ Correct Answer: B. Mauritius
+---
 
-🏕️ Q50. Which countries continue to host the majority of Afghan refugees globally, providing access to health and education services?
+### **Question 64**
+**Which countries continue to host the majority of Afghan refugees globally, providing access to health and education services?**  
+*कौन-से देश विश्व स्तर पर अधिकांश अफगान शरणार्थियों की मेज़बानी करते हैं और उन्हें स्वास्थ्य व शिक्षा की सुविधा प्रदान करते हैं?*
 
-कौन-से देश विश्व स्तर पर अधिकांश अफगान शरणार्थियों की मेज़बानी करते हैं और उन्हें स्वास्थ्य व शिक्षा की सुविधा प्रदान करते हैं?
+**📌 Topic:** Current Affairs – Refugees & International Issues  
+**📌 विषय:** समसामयिक घटनाएँ – शरणार्थी एवं अंतरराष्ट्रीय मुद्दे
 
-📌 Topic: Current Affairs – Refugees & International Issues
-विषय: समसामयिक घटनाएँ – शरणार्थी एवं अंतरराष्ट्रीय मुद्दे
+**Options:**  
+- **A.** Turkey and Syria  
+- **B.** Iran and Pakistan  
+- **C.** Lebanon and Egypt  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Turkey and Syria
-B. Iran and Pakistan
-C. Lebanon and Egypt
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **B. Iran and Pakistan**
 
-✅ Correct Answer: B. Iran and Pakistan
+---
 
-🤖 Q51. Which state government has proposed the design, development and operation of India’s first AI City in 2024?
+### **Question 65**
+**Which state government has proposed the design, development and operation of India's first AI City in 2024?**  
+*2024 में भारत का पहला AI City विकसित करने का प्रस्ताव किस राज्य सरकार ने रखा?*
 
-2024 में भारत का पहला AI City विकसित करने का प्रस्ताव किस राज्य सरकार ने रखा?
+**📌 Topic:** Current Affairs – Science & Technology  
+**📌 विषय:** समसामयिक घटनाएँ – विज्ञान एवं प्रौद्योगिकी
 
-📌 Topic: Current Affairs – Science & Technology
-विषय: समसामयिक घटनाएँ – विज्ञान एवं प्रौद्योगिकी
+**Options:**  
+- **A.** Maharashtra  
+- **B.** Kerala  
+- **C.** Uttar Pradesh  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Maharashtra
-B. Kerala
-C. Uttar Pradesh
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **B. Kerala**
 
-✅ Correct Answer: B. Kerala
+---
 
-🪙 Q52. Which company has become the third-largest silver producer globally according to the 2024 World Silver Survey?
+### **Question 66**
+**Which company has become the third-largest silver producer globally according to the 2024 World Silver Survey?**  
+*2024 वर्ल्ड सिल्वर सर्वे के अनुसार विश्व की तीसरी सबसे बड़ी चांदी उत्पादक कंपनी कौन-सी है?*
 
-2024 वर्ल्ड सिल्वर सर्वे के अनुसार विश्व की तीसरी सबसे बड़ी चांदी उत्पादक कंपनी कौन-सी है?
+**📌 Topic:** Current Affairs – Economy & Industry  
+**📌 विषय:** समसामयिक घटनाएँ – अर्थव्यवस्था एवं उद्योग
 
-📌 Topic: Current Affairs – Economy & Industry
-विषय: समसामयिक घटनाएँ – अर्थव्यवस्था एवं उद्योग
+**Options:**  
+- **A.** Hindustan Zinc Limited  
+- **B.** Silver Zinc Limited  
+- **C.** Sunrise Zinc Corporation  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Hindustan Zinc Limited
-B. Silver Zinc Limited
-C. Sunrise Zinc Corporation
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Hindustan Zinc Limited**
 
-✅ Correct Answer: A. Hindustan Zinc Limited
+---
 
-🌱 Q53. What initiative did India announce at the G20 Summit to take ethanol blending with petrol globally to 20 percent?
+### **Question 67**
+**What initiative did India announce at the G20 Summit to take ethanol blending with petrol globally to 20 percent?**  
+*पेट्रोल में एथनॉल मिश्रण को वैश्विक स्तर पर 20% तक ले जाने के लिए भारत ने G20 शिखर सम्मेलन में किस पहल की घोषणा की?*
 
-पेट्रोल में एथनॉल मिश्रण को वैश्विक स्तर पर 20% तक ले जाने के लिए भारत ने G20 शिखर सम्मेलन में किस पहल की घोषणा की?
+**📌 Topic:** Current Affairs – Energy & G20  
+**📌 विषय:** समसामयिक घटनाएँ – ऊर्जा एवं G20
 
-📌 Topic: Current Affairs – Energy & G20
-विषय: समसामयिक घटनाएँ – ऊर्जा एवं G20
+**Options:**  
+- **A.** Global Climate Action Plan  
+- **B.** Green Energy Revolution  
+- **C.** Global Biofuel Alliance  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Global Climate Action Plan
-B. Green Energy Revolution
-C. Global Biofuel Alliance
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **C. Global Biofuel Alliance**
 
-✅ Correct Answer: C. Global Biofuel Alliance
+---
 
-⚓ Q54. Which ferry craft was inducted into the Indian Navy at the end of December 2023?
+### **Question 68**
+**Which ferry craft was inducted into the Indian Navy at the end of December 2023?**  
+*दिसंबर 2023 के अंत में भारतीय नौसेना में कौन-सा फेरी क्राफ्ट शामिल किया गया?*
 
-दिसंबर 2023 के अंत में भारतीय नौसेना में कौन-सा फेरी क्राफ्ट शामिल किया गया?
+**📌 Topic:** Current Affairs – Defence  
+**📌 विषय:** समसामयिक घटनाएँ – रक्षा
 
-📌 Topic: Current Affairs – Defence
-विषय: समसामयिक घटनाएँ – रक्षा
+**Options:**  
+- **A.** Manjula  
+- **B.** Manohar  
+- **C.** Mangal  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Manjula
-B. Manohar
-C. Mangal
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **A. Manjula** 
 
-✅ Correct Answer: A. Manjula 
+### **Question 69**
+**Very high-intensity Earthquake Zone includes:**  
+*अत्यधिक तीव्रता वाले भूकंप क्षेत्र (Zone-V) में कौन-से जिले शामिल हैं?*
 
-Q55. Very high-intensity Earthquake Zone includes:
+**📌 Topic:** Bihar Geography – Earthquake Zones  
+**📌 विषय:** बिहार भूगोल – भूकंप क्षेत्र
 
-अत्यधिक तीव्रता वाले भूकंप क्षेत्र (Zone-V) में कौन-से जिले शामिल हैं?
+**Options:**  
+- **A.** Pashchim Champaran and Purab Champaran  
+- **B.** Madhubani and Supaul  
+- **C.** Purnea and Katihar  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Bihar Geography – Earthquake Zones
-विषय: बिहार भूगोल – भूकंप क्षेत्र
+✅ **Correct Answer:** **D. More than one of the above**
 
-A. Pashchim Champaran and Purab Champaran
-B. Madhubani and Supaul
-C. Purnea and Katihar
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+---
 
-✅ Correct Answer: D. More than one of the above
+### **Question 70**
+**The smallest Bird Sanctuary in Bihar in terms of geographical area is:**  
+*भौगोलिक क्षेत्रफल की दृष्टि से बिहार का सबसे छोटा पक्षी अभयारण्य कौन-सा है?*
 
-🐦 Q56. The smallest Bird Sanctuary in Bihar in terms of geographical area is:
+**📌 Topic:** Bihar Geography – Wildlife Sanctuaries  
+**📌 विषय:** बिहार भूगोल – वन्यजीव अभयारण्य
 
-भौगोलिक क्षेत्रफल की दृष्टि से बिहार का सबसे छोटा पक्षी अभयारण्य कौन-सा है?
+**Options:**  
+- **A.** Barela Jheel Salim Ali Bird Sanctuary  
+- **B.** Nakti Dam Bird Sanctuary  
+- **C.** Nagi Dam Bird Sanctuary  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Bihar Geography – Wildlife Sanctuaries
-विषय: बिहार भूगोल – वन्यजीव अभयारण्य
+✅ **Correct Answer:** **A. Barela Jheel Salim Ali Bird Sanctuary**
 
-A. Barela Jheel Salim Ali Bird Sanctuary
-B. Nakti Dam Bird Sanctuary
-C. Nagi Dam Bird Sanctuary
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+---
 
-✅ Correct Answer: A. Barela Jheel Salim Ali Bird Sanctuary
+### **Question 71**
+**The tributary of the Ganga having the longest distance in Bihar is:**  
+*बिहार में गंगा की सबसे लंबी सहायक नदी कौन-सी है?*
 
-🌊 Q57. The tributary of the Ganga having the longest distance in Bihar is:
+**📌 Topic:** Bihar Geography – Rivers  
+**📌 विषय:** बिहार भूगोल – नदियाँ
 
-बिहार में गंगा की सबसे लंबी सहायक नदी कौन-सी है?
+**Options:**  
+- **A.** Sone  
+- **B.** Kosi  
+- **C.** Burhi Gandak  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Bihar Geography – Rivers
-विषय: बिहार भूगोल – नदियाँ
+✅ **Correct Answer:** **C. Burhi Gandak**
 
-A. Sone
-B. Kosi
-C. Burhi Gandak
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+---
 
-✅ Correct Answer: C. Burhi Gandak
+### **Question 72**
+**The river having the largest basin area is:**  
+*निम्नलिखित में से किस नदी का अपवाह क्षेत्र (Basin Area) सबसे बड़ा है?*
 
-🌍 Q58. The river having the largest basin area is:
+**📌 Topic:** Indian Geography – River Basins  
+**📌 विषय:** भारतीय भूगोल – नदी अपवाह क्षेत्र
 
-निम्नलिखित में से किस नदी का अपवाह क्षेत्र (Basin Area) सबसे बड़ा है?
+**Options:**  
+- **A.** Pennar  
+- **B.** Brahmani  
+- **C.** Sabarmati  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Indian Geography – River Basins
-विषय: भारतीय भूगोल – नदी अपवाह क्षेत्र
+✅ **Correct Answer:** **A. Pennar**
 
-A. Pennar
-B. Brahmani
-C. Sabarmati
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+---
 
-✅ Correct Answer: A. Pennar
+### **Question 73**
+**The second longest length of international boundary is shared by India with:**  
+*भारत की दूसरी सबसे लंबी अंतरराष्ट्रीय सीमा किस देश के साथ है?*
 
-🗺️ Q59. The second longest length of international boundary is shared by India with:
+**📌 Topic:** Indian Geography – International Boundaries  
+**📌 विषय:** भारतीय भूगोल – अंतरराष्ट्रीय सीमाएँ
 
-भारत की दूसरी सबसे लंबी अंतरराष्ट्रीय सीमा किस देश के साथ है?
+**Options:**  
+- **A.** Pakistan  
+- **B.** China  
+- **C.** Bangladesh  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Indian Geography – International Boundaries
-विषय: भारतीय भूगोल – अंतरराष्ट्रीय सीमाएँ
+✅ **Correct Answer:** **B. China**
 
-A. Pakistan
-B. China
-C. Bangladesh
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+---
 
-✅ Correct Answer: B. China
+### **Question 74**
+**The antecedent drainage pattern of river systems is found in:**  
+*नदियों का एंटीसिडेंट (Antecedent) अपवाह तंत्र कहाँ पाया जाता है?*
 
-⛰️ Q60. The antecedent drainage pattern of river systems is found in:
+**📌 Topic:** Indian Physical Geography – Drainage  
+**📌 विषय:** भारतीय भौतिक भूगोल – अपवाह तंत्र
 
-नदियों का एंटीसिडेंट (Antecedent) अपवाह तंत्र कहाँ पाया जाता है?
+**Options:**  
+- **A.** The Punjab Himalayas  
+- **B.** The Kumaun Himalayas  
+- **C.** The Deccan Plateau Region  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Indian Physical Geography – Drainage
-विषय: भारतीय भौतिक भूगोल – अपवाह तंत्र
+✅ **Correct Answer:** **A. The Punjab Himalayas**
 
-A. The Punjab Himalayas
-B. The Kumaun Himalayas
-C. The Deccan Plateau Region
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+---
 
-✅ Correct Answer: A. The Punjab Himalayas
+### **Question 75**
+**The State with the highest number of wildlife sanctuaries (2019) is:**  
+*2019 में सर्वाधिक वन्यजीव अभयारण्य किस राज्य में थे?*
 
-🐯 Q61. The State with the highest number of wildlife sanctuaries (2019) is:
+**📌 Topic:** Indian Environment – Wildlife  
+**📌 विषय:** भारतीय पर्यावरण – वन्यजीव
 
-2019 में सर्वाधिक वन्यजीव अभयारण्य किस राज्य में थे?
+**Options:**  
+- **A.** Maharashtra  
+- **B.** Karnataka  
+- **C.** Madhya Pradesh  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Indian Environment – Wildlife
-विषय: भारतीय पर्यावरण – वन्यजीव
+✅ **Correct Answer:** **A. Maharashtra**
 
-A. Maharashtra
-B. Karnataka
-C. Madhya Pradesh
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+---
 
-✅ Correct Answer: A. Maharashtra
+### **Question 76**
+**The State producing the highest solar power generation in 2022–23 is:**  
+*2022–23 में सर्वाधिक सौर ऊर्जा उत्पादन करने वाला राज्य कौन-सा है?*
 
-☀️ Q62. The State producing the highest solar power generation in 2022–23 is:
+**📌 Topic:** Indian Economy – Renewable Energy  
+**📌 विषय:** भारतीय अर्थव्यवस्था – नवीकरणीय ऊर्जा
 
-2022–23 में सर्वाधिक सौर ऊर्जा उत्पादन करने वाला राज्य कौन-सा है?
+**Options:**  
+- **A.** Gujarat  
+- **B.** Karnataka  
+- **C.** Rajasthan  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-📌 Topic: Indian Economy – Renewable Energy
-विषय: भारतीय अर्थव्यवस्था – नवीकरणीय ऊर्जा
-
-A. Gujarat
-B. Karnataka
-C. Rajasthan
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: C. Rajasthan
+✅ **Correct Answer:** **C. Rajasthan**
 
 ---
 
@@ -1890,321 +1900,379 @@ E. None of the above (इनमें से कोई नहीं)
 
 ✅ Correct Answer: A. Gandhiji
 
-📘 Q70. Who wrote “The Indian Struggle” as his autobiography?
+### **Question 77**
+**Who wrote "The Indian Struggle" as his autobiography?**  
+*"The Indian Struggle" नामक आत्मकथा किसने लिखी?*
 
-“The Indian Struggle” नामक आत्मकथा किसने लिखी?
+**📌 Topic:** Indian National Movement – Literature  
+**📌 विषय:** भारतीय राष्ट्रीय आंदोलन – साहित्य
 
-📌 Topic: Indian National Movement – Literature
-विषय: भारतीय राष्ट्रीय आंदोलन – साहित्य
+**Options:**  
+- **A.** Maulana Abul Kalam Azad  
+- **B.** Bal Gangadhar Tilak  
+- **C.** Rajendra Prasad  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. Maulana Abul Kalam Azad
-B. Bal Gangadhar Tilak
-C. Rajendra Prasad
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+✅ **Correct Answer:** **E. None of the above**  
+*(Correct author: Subhash Chandra Bose – not in options)*
 
-✅ Correct Answer: E. None of the above
-(Correct author: Subhash Chandra Bose – not in options)
+---
 
-## tre 3.0(11 to 12)
-Q51. The process involved in achieving Green Hydrogen is:
+### **Question 78**
+**The process involved in achieving Green Hydrogen is:**  
+*ग्रीन हाइड्रोजन प्राप्त करने में कौन-सी प्रक्रिया शामिल होती है?*
 
-ग्रीन हाइड्रोजन प्राप्त करने में कौन-सी प्रक्रिया शामिल होती है?
+**📌 Topic:** Science & Technology – Renewable Energy  
+**📌 विषय:** विज्ञान एवं प्रौद्योगिकी – नवीकरणीय ऊर्जा
 
-📌 Topic: Science & Technology – Renewable Energy
-विषय: विज्ञान एवं प्रौद्योगिकी – नवीकरणीय ऊर्जा
+**Options:**  
+- **A.** Electrolysis *(विद्युत अपघटन)*  
+- **B.** Dehydrogenesis  
+- **C.** Dehydration  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Electrolysis (विद्युत अपघटन)
-B. Dehydrogenesis
-C. Dehydration
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **A. Electrolysis**
 
-✅ Correct Answer: A. Electrolysis
+---
 
-🤖 Q52. Which technology can be used to revive deceased individuals (digitally)?
+### **Question 79**
+**Which technology can be used to revive deceased individuals (digitally)?**  
+*मृत व्यक्तियों को डिजिटल रूप से पुनः प्रस्तुत करने के लिए कौन-सी तकनीक प्रयोग की जाती है?*
 
-मृत व्यक्तियों को डिजिटल रूप से पुनः प्रस्तुत करने के लिए कौन-सी तकनीक प्रयोग की जाती है?
+**📌 Topic:** Current Affairs – Artificial Intelligence  
+**📌 विषय:** समसामयिक घटनाएँ – कृत्रिम बुद्धिमत्ता
 
-📌 Topic: Current Affairs – Artificial Intelligence
-विषय: समसामयिक घटनाएँ – कृत्रिम बुद्धिमत्ता
+**Options:**  
+- **A.** Deepfake  
+- **B.** AI  
+- **C.** Chatbot  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Deepfake
-B. AI
-C. Chatbot
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **A. Deepfake**
 
-✅ Correct Answer: A. Deepfake
+---
 
-🌍 Q53. In the Cost of Living Index 2024, which country is better than India?
+### **Question 80**
+**In the Cost of Living Index 2024, which country is better than India?**  
+*कॉस्ट ऑफ लिविंग इंडेक्स 2024 में भारत से बेहतर स्थिति किस देश की है?*
 
-कॉस्ट ऑफ लिविंग इंडेक्स 2024 में भारत से बेहतर स्थिति किस देश की है?
+**📌 Topic:** Current Affairs – Economy  
+**📌 विषय:** समसामयिक घटनाएँ – अर्थव्यवस्था
 
-📌 Topic: Current Affairs – Economy
-विषय: समसामयिक घटनाएँ – अर्थव्यवस्था
+**Options:**  
+- **A.** Nigeria  
+- **B.** Pakistan  
+- **C.** Bangladesh  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Nigeria
-B. Pakistan
-C. Bangladesh
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **C. Bangladesh**
 
-✅ Correct Answer: C. Bangladesh
+---
 
-🇮🇳 Q54. Who supported Gandhiji in the Champaran Satyagraha (1917) in support of farmers?
+### **Question 81**
+**Who supported Gandhiji in the Champaran Satyagraha (1917) in support of farmers?**  
+*किसने 1917 के चंपारण सत्याग्रह में किसानों के समर्थन में गांधीजी का साथ दिया?*
 
-किसने 1917 के चंपारण सत्याग्रह में किसानों के समर्थन में गांधीजी का साथ दिया?
+**📌 Topic:** Modern Indian History – Freedom Movement  
+**📌 विषय:** आधुनिक भारतीय इतिहास – स्वतंत्रता आंदोलन
 
-📌 Topic: Modern Indian History – Freedom Movement
-विषय: आधुनिक भारतीय इतिहास – स्वतंत्रता आंदोलन
+**Options:**  
+- **A.** Birsa Munda  
+- **B.** Rajendra Prasad  
+- **C.** Satya Narayan Sinha  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Birsa Munda
-B. Rajendra Prasad
-C. Satya Narayan Sinha
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **B. Rajendra Prasad**
 
-✅ Correct Answer: B. Rajendra Prasad
+---
 
-🌕 Q55. Which is known as the moon-like planet?
+### **Question 82**
+**Which is known as the moon-like planet?**  
+*किस ग्रह को चंद्रमा जैसा ग्रह कहा जाता है?*
 
-किस ग्रह को चंद्रमा जैसा ग्रह कहा जाता है?
+**📌 Topic:** Science – Astronomy  
+**📌 विषय:** विज्ञान – खगोल विज्ञान
 
-📌 Topic: Science – Astronomy
-विषय: विज्ञान – खगोल विज्ञान
+**Options:**  
+- **A.** Mercury  
+- **B.** Mars  
+- **C.** Earth  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Mercury
-B. Mars
-C. Earth
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **A. Mercury**
 
-✅ Correct Answer: A. Mercury
+---
 
-🧬 Q56. On the basis of fossils, which is considered the place of origin of man?
+### **Question 83**
+**On the basis of fossils, which is considered the place of origin of man?**  
+*जीवाश्मों के आधार पर मानव की उत्पत्ति का स्थान कौन-सा माना जाता है?*
 
-जीवाश्मों के आधार पर मानव की उत्पत्ति का स्थान कौन-सा माना जाता है?
+**📌 Topic:** Biology – Human Evolution  
+**📌 विषय:** जीवविज्ञान – मानव विकास
 
-📌 Topic: Biology – Human Evolution
-विषय: जीवविज्ञान – मानव विकास
+**Options:**  
+- **A.** Rift Valley of Africa  
+- **B.** Central Asia  
+- **C.** Jerusalem  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Rift Valley of Africa
-B. Central Asia
-C. Jerusalem
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **A. Rift Valley of Africa**
 
-✅ Correct Answer: A. Rift Valley of Africa
+---
 
-🏜️ Q57. In India, dry point settlements are found in:
+### **Question 84**
+**In India, dry point settlements are found in:**  
+*भारत में ड्राई पॉइंट सेटलमेंट कहाँ पाए जाते हैं?*
 
-भारत में ड्राई पॉइंट सेटलमेंट कहाँ पाए जाते हैं?
+**📌 Topic:** Indian Geography – Human Settlement  
+**📌 विषय:** भारतीय भूगोल – मानव बस्तियाँ
 
-📌 Topic: Indian Geography – Human Settlement
-विषय: भारतीय भूगोल – मानव बस्तियाँ
+**Options:**  
+- **A.** Flood prone area  
+- **B.** Bikaner  
+- **C.** Aravali region  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Flood prone area
-B. Bikaner
-C. Aravali region
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **B. Bikaner**
 
-✅ Correct Answer: B. Bikaner
+---
 
-🌾 Q58. In which district of Bihar is paddy crop production maximum?
+### **Question 85**
+**In which district of Bihar is paddy crop production maximum?**  
+*बिहार के किस जिले में धान का उत्पादन सर्वाधिक है?*
 
-बिहार के किस जिले में धान का उत्पादन सर्वाधिक है?
+**📌 Topic:** Bihar Geography – Agriculture  
+**📌 विषय:** बिहार भूगोल – कृषि
 
-📌 Topic: Bihar Geography – Agriculture
-विषय: बिहार भूगोल – कृषि
+**Options:**  
+- **A.** Bhojpur  
+- **B.** Rohtas  
+- **C.** Nalanda  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Bhojpur
-B. Rohtas
-C. Nalanda
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **C. Nalanda**
 
-✅ Correct Answer: C. Nalanda
+---
 
-⛰️ Q59. On which mountain range is Tehran situated?
+### **Question 86**
+**On which mountain range is Tehran situated?**  
+*तेहरान किस पर्वत श्रृंखला पर स्थित है?*
 
-तेहरान किस पर्वत श्रृंखला पर स्थित है?
+**📌 Topic:** World Geography  
+**📌 विषय:** विश्व भूगोल
 
-📌 Topic: World Geography
-विषय: विश्व भूगोल
+**Options:**  
+- **A.** Alburz  
+- **B.** Zagros  
+- **C.** Makran  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Alburz
-B. Zagros
-C. Makran
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **A. Alburz**
 
-✅ Correct Answer: A. Alburz
+---
 
-🏔️ Q60. The highest peak in the Eastern Ghats of India is:
+### **Question 87**
+**The highest peak in the Eastern Ghats of India is:**  
+*भारत की पूर्वी घाट पर्वतमाला की सबसे ऊँची चोटी कौन-सी है?*
 
-भारत की पूर्वी घाट पर्वतमाला की सबसे ऊँची चोटी कौन-सी है?
+**📌 Topic:** Indian Physical Geography  
+**📌 विषय:** भारतीय भौतिक भूगोल
 
-📌 Topic: Indian Physical Geography
-विषय: भारतीय भौतिक भूगोल
+**Options:**  
+- **A.** Anai Mudi  
+- **B.** Kanchenjunga  
+- **C.** Mahendragiri  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Anai Mudi
-B. Kanchenjunga
-C. Mahendragiri
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **C. Mahendragiri**
 
-✅ Correct Answer: C. Mahendragiri
+---
 
-🌳 Q61. Which of the following is not a valid reason for the depletion of flora and fauna?
+### **Question 88**
+**Which of the following is not a valid reason for the depletion of flora and fauna?**  
+*निम्नलिखित में से कौन-सा वनस्पति एवं जीव-जंतुओं के क्षय का सही कारण नहीं है?*
 
-निम्नलिखित में से कौन-सा वनस्पति एवं जीव-जंतुओं के क्षय का सही कारण नहीं है?
+**📌 Topic:** Environment – Biodiversity  
+**📌 विषय:** पर्यावरण – जैव विविधता
 
-📌 Topic: Environment – Biodiversity
-विषय: पर्यावरण – जैव विविधता
+**Options:**  
+- **A.** Agricultural expansion  
+- **B.** Large scale development projects  
+- **C.** Grazing and fuel wood collection  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-A. Agricultural expansion
-B. Large scale development projects
-C. Grazing and fuel wood collection
-D. More than one of the above
-E. None of the above
+✅ **Correct Answer:** **E. None of the above**  
+*(All are valid reasons)*
 
-✅ Correct Answer: E. None of the above
-(All are valid reasons)
+### **Question 89**
+**In which district of Bihar is silk textile production maximum?**  
+*बिहार के किस जिले में रेशम वस्त्र उत्पादन सर्वाधिक है?*
 
-🧵 Q62. In which district of Bihar is silk textile production maximum?
+**📌 Topic:** Bihar Economy – Industries  
+**📌 विषय:** बिहार अर्थव्यवस्था – उद्योग
 
-बिहार के किस जिले में रेशम वस्त्र उत्पादन सर्वाधिक है?
+**Options:**  
+- **A.** Madhubani  
+- **B.** Bhagalpur  
+- **C.** Aurangabad  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Bihar Economy – Industries
-विषय: बिहार अर्थव्यवस्था – उद्योग
+✅ **Correct Answer:** **B. Bhagalpur**
 
-A. Madhubani
-B. Bhagalpur
-C. Aurangabad
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: B. Bhagalpur 
+### **Question 90**
+**Who was the Viceroy of India during the Jallianwala Bagh Massacre?**  
+*जलियांवाला बाग हत्याकांड (1919) के समय भारत का वायसराय कौन था?*
 
-Q63. Who was the Viceroy of India during the Jallianwala Bagh Massacre?
+**📌 Topic:** Modern Indian History – British Administration  
+**📌 विषय:** आधुनिक भारतीय इतिहास – ब्रिटिश प्रशासन
 
-जलियांवाला बाग हत्याकांड (1919) के समय भारत का वायसराय कौन था?
+**Options:**  
+- **A.** Lord Curzon  
+- **B.** Lord Chelmsford  
+- **C.** Lord Irwin  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Modern Indian History – British Administration
-विषय: आधुनिक भारतीय इतिहास – ब्रिटिश प्रशासन
+✅ **Correct Answer:** **B. Lord Chelmsford**
 
-A. Lord Curzon
-B. Lord Chelmsford
-C. Lord Irwin
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: B. Lord Chelmsford
+### **Question 91**
+**The first President of the Indian National Congress was:**  
+*भारतीय राष्ट्रीय कांग्रेस के प्रथम अध्यक्ष कौन थे?*
 
-🏛️ Q64. The first President of the Indian National Congress was:
+**📌 Topic:** Indian National Congress – Foundation  
+**📌 विषय:** भारतीय राष्ट्रीय कांग्रेस – स्थापना
 
-भारतीय राष्ट्रीय कांग्रेस के प्रथम अध्यक्ष कौन थे?
+**Options:**  
+- **A.** Dadabhai Naoroji  
+- **B.** W. C. Bonnerjee  
+- **C.** Badruddin Tyabji  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Indian National Congress – Foundation
-विषय: भारतीय राष्ट्रीय कांग्रेस – स्थापना
+✅ **Correct Answer:** **B. W. C. Bonnerjee**
 
-A. Dadabhai Naoroji
-B. W. C. Bonnerjee
-C. Badruddin Tyabji
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: B. W. C. Bonnerjee
+### **Question 92**
+**Who among the following is known as the Grand Old Man of India?**  
+*निम्नलिखित में से किसे भारत का महान वृद्ध पुरुष (Grand Old Man of India) कहा जाता है?*
 
-👴 Q65. Who among the following is known as the Grand Old Man of India?
+**📌 Topic:** Indian National Movement – Leaders  
+**📌 विषय:** भारतीय राष्ट्रीय आंदोलन – नेता
 
-निम्नलिखित में से किसे भारत का महान वृद्ध पुरुष (Grand Old Man of India) कहा जाता है?
+**Options:**  
+- **A.** Bal Gangadhar Tilak  
+- **B.** Dadabhai Naoroji  
+- **C.** Gopal Krishna Gokhale  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Indian National Movement – Leaders
-विषय: भारतीय राष्ट्रीय आंदोलन – नेता
+✅ **Correct Answer:** **B. Dadabhai Naoroji**
 
-A. Bal Gangadhar Tilak
-B. Dadabhai Naoroji
-C. Gopal Krishna Gokhale
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: B. Dadabhai Naoroji
+### **Question 93**
+**Which of the following movements was started by M. K. Gandhi?**  
+*निम्नलिखित में से कौन-सा आंदोलन महात्मा गांधी द्वारा प्रारंभ किया गया था?*
 
-✊ Q66. Which of the following movements was started by M. K. Gandhi?
+**📌 Topic:** Gandhian Movements  
+**📌 विषय:** गांधीवादी आंदोलन
 
-निम्नलिखित में से कौन-सा आंदोलन महात्मा गांधी द्वारा प्रारंभ किया गया था?
+**Options:**  
+- **A.** Quit India Movement  
+- **B.** Non-Cooperation Movement  
+- **C.** Swadeshi Movement  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Gandhian Movements
-विषय: गांधीवादी आंदोलन
+✅ **Correct Answer:** **D. More than one of the above**  
+*(Quit India & Non-Cooperation were led by Gandhiji)*
 
-A. Quit India Movement
-B. Non-Cooperation Movement
-C. Swadeshi Movement
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: D. More than one of the above
-(Quit India & Non-Cooperation were led by Gandhiji)
+### **Question 94**
+**Who was the leader of the Bardoli Satyagraha?**  
+*बारडोली सत्याग्रह का नेतृत्व किसने किया?*
 
-🌾 Q67. Who was the leader of the Bardoli Satyagraha?
+**📌 Topic:** Peasant Movements – Gandhian Era  
+**📌 विषय:** किसान आंदोलन – गांधी युग
 
-बारडोली सत्याग्रह का नेतृत्व किसने किया?
+**Options:**  
+- **A.** Sardar Vallabhbhai Patel  
+- **B.** Bal Gangadhar Tilak  
+- **C.** Jawaharlal Nehru  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Peasant Movements – Gandhian Era
-विषय: किसान आंदोलन – गांधी युग
+✅ **Correct Answer:** **A. Sardar Vallabhbhai Patel**
 
-A. Sardar Vallabhbhai Patel
-B. Bal Gangadhar Tilak
-C. Jawaharlal Nehru
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: A. Sardar Vallabhbhai Patel
+### **Question 95**
+**Who among the following is not associated with the Home Rule Movement?**  
+*निम्नलिखित में से कौन होमरूल आंदोलन से संबंधित नहीं था?*
 
-🏠 Q68. Who among the following is not associated with the Home Rule Movement?
+**📌 Topic:** Home Rule Movement  
+**📌 विषय:** होमरूल आंदोलन
 
-निम्नलिखित में से कौन होमरूल आंदोलन से संबंधित नहीं था?
+**Options:**  
+- **A.** Annie Besant  
+- **B.** Bal Gangadhar Tilak  
+- **C.** Sarojini Naidu  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Home Rule Movement
-विषय: होमरूल आंदोलन
+✅ **Correct Answer:** **C. Sarojini Naidu**
 
-A. Annie Besant
-B. Bal Gangadhar Tilak
-C. Sarojini Naidu
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: C. Sarojini Naidu
+### **Question 96**
+**Who founded the Bihar Provincial Congress Committee in 1920?**  
+*1920 में बिहार प्रांतीय कांग्रेस कमेटी की स्थापना किसने की?*
 
-🇮🇳 Q69. Who founded the Bihar Provincial Congress Committee in 1920?
+**📌 Topic:** Freedom Movement in Bihar  
+**📌 विषय:** बिहार में स्वतंत्रता आंदोलन
 
-1920 में बिहार प्रांतीय कांग्रेस कमेटी की स्थापना किसने की?
+**Options:**  
+- **A.** Dr. Rajendra Prasad  
+- **B.** Anugrah Narayan Sinha  
+- **C.** Jai Prakash Narayan  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Freedom Movement in Bihar
-विषय: बिहार में स्वतंत्रता आंदोलन
+✅ **Correct Answer:** **A. Dr. Rajendra Prasad**
 
-A. Dr. Rajendra Prasad
-B. Anugrah Narayan Sinha
-C. Jai Prakash Narayan
-D. More than one of the above
-E. None of the above
+---
 
-✅ Correct Answer: A. Dr. Rajendra Prasad
+### **Question 97**
+**The All India Kisan Sabha (AIKS) was founded in 1936 in Bihar under the leadership of:**  
+*1936 में बिहार में अखिल भारतीय किसान सभा की स्थापना किसके नेतृत्व में हुई?*
 
-🚜 Q70. The All India Kisan Sabha (AIKS) was founded in 1936 in Bihar under the leadership of:
+**📌 Topic:** Peasant Movements in India  
+**📌 विषय:** भारत में किसान आंदोलन
 
-1936 में बिहार में अखिल भारतीय किसान सभा की स्थापना किसके नेतृत्व में हुई?
+**Options:**  
+- **A.** Dr. Rajendra Prasad  
+- **B.** Jai Prakash Narayan  
+- **C.** Swami Sahajanand Saraswati  
+- **D.** More than one of the above  
+- **E.** None of the above
 
-📌 Topic: Peasant Movements in India
-विषय: भारत में किसान आंदोलन
-
-A. Dr. Rajendra Prasad
-B. Jai Prakash Narayan
-C. Swami Sahajanand Saraswati
-D. More than one of the above
-E. None of the above
-
-✅ Correct Answer: C. Swami Sahajanand Saraswati
+✅ **Correct Answer:** **C. Swami Sahajanand Saraswati**

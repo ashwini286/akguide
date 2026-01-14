@@ -454,3 +454,18 @@
 
 ✅ **Correct Answer:** **A. Russia**
 
+### **Question 48**
+**The task of processing citizenship applications under the CAA will be undertaken by:**  
+*CAA के अंतर्गत नागरिकता आवेदनों की प्रक्रिया किस विभाग द्वारा की जाएगी?*
+
+📋 **Topic:** Current Affairs – Indian Polity  
+📋 **विषय:** समसामयिक घटनाएँ – भारतीय राजनीति
+
+**Options:**  
+- **A.** Postal Department  
+- **B.** Census Department  
+- **C.** Central Security / IB  
+- **D.** More than one of the above  
+- **E.** None of the above
+
+✅ **Correct Answer:** **A. Postal Department**
