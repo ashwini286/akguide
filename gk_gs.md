@@ -186,69 +186,79 @@
 
 ✅ **Correct Answer:** **A. Gondwana Land**
 
-👥 Q31. The percentage of population of Bihar with respect to India’s total population is:
+### **Question 31**
+**The percentage of population of Bihar with respect to India's total population is:**  
+*भारत की कुल जनसंख्या के सापेक्ष बिहार की जनसंख्या का प्रतिशत कितना है?*
 
-भारत की कुल जनसंख्या के सापेक्ष बिहार की जनसंख्या का प्रतिशत कितना है?
+📋 **Topic:** Indian Demography – Census  
+📋 **विषय:** भारतीय जनसांख्यिकी – जनगणना
 
-📌 Topic: Indian Demography – Census
-विषय: भारतीय जनसांख्यिकी – जनगणना
+**Options:**  
+- **A.** 8.58%  
+- **B.** 10.10%  
+- **C.** 12.25%  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-A. 8.58%
-B. 10.10%
-C. 12.25%
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. 8.58%
-
-🗺️ Q32. Which of the following pairs is not correctly matched with respect to the south of Ganga region in Bihar?
-
-निम्नलिखित में से कौन-सा युग्म बिहार में गंगा के दक्षिण क्षेत्र के संदर्भ में सही सुमेलित नहीं है?
-
-📌 Topic: Bihar Geography – Regions
-विषय: बिहार भूगोल – क्षेत्र
-
-A. Patna – Munger
-B. Gaya – Arwal
-C. Patna – Vaishali
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: C. Patna – Vaishali 
- 
-🎶 Q47. Who was the writer of 'Banglar Mati, Banglar Jal', which was originally a protest song against the Partition of Bengal (1905)?
-
-‘बांग्लार माटी, बांग्लार जल’ गीत, जो 1905 में बंगाल विभाजन के विरोध में लिखा गया था, किसके द्वारा रचित है?
-
-📌 Topic: Indian Culture – Literature & National Movement
-विषय: भारतीय संस्कृति – साहित्य एवं राष्ट्रीय आंदोलन
-
-A. Kazi Nazrul Islam
-B. Rabindranath Tagore
-C. Sukanta Bhattacharya
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: B. Rabindranath Tagore
-
-🏛️ Q48. Who is the architect of the new Parliament of India building inaugurated recently?
-
-हाल ही में उद्घाटित भारत की नई संसद भवन के वास्तुकार कौन हैं?
-
-📌 Topic: Current Affairs – Indian Polity & Architecture
-विषय: समसामयिक घटनाएँ – भारतीय राजनीति एवं वास्तुकला
-
-A. Bimal Patel
-B. Rahul Mehrotra
-C. Yogesh Kapoor
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. Bimal Patel
+✅ **Correct Answer:** **A. 8.58%**
 
 ---
 
-### **Question 49**
+### **Question 32**
+**Which of the following pairs is not correctly matched with respect to the south of Ganga region in Bihar?**  
+*निम्नलिखित में से कौन-सा युग्म बिहार में गंगा के दक्षिण क्षेत्र के संदर्भ में सही सुमेलित नहीं है?*
+
+📋 **Topic:** Bihar Geography – Regions  
+📋 **विषय:** बिहार भूगोल – क्षेत्र
+
+**Options:**  
+- **A.** Patna – Munger  
+- **B.** Gaya – Arwal  
+- **C.** Patna – Vaishali  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **C. Patna – Vaishali**
+
+---
+
+### **Question 33**
+**Who was the writer of 'Banglar Mati, Banglar Jal', which was originally a protest song against the Partition of Bengal (1905)?**  
+*'बांग्लार माटी, बांग्लार जल' गीत, जो 1905 में बंगाल विभाजन के विरोध में लिखा गया था, किसके द्वारा रचित है?*
+
+📋 **Topic:** Indian Culture – Literature & National Movement  
+📋 **विषय:** भारतीय संस्कृति – साहित्य एवं राष्ट्रीय आंदोलन
+
+**Options:**  
+- **A.** Kazi Nazrul Islam  
+- **B.** Rabindranath Tagore  
+- **C.** Sukanta Bhattacharya  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **B. Rabindranath Tagore**
+
+---
+
+### **Question 34**
+**Who is the architect of the new Parliament of India building inaugurated recently?**  
+*हाल ही में उद्घाटित भारत की नई संसद भवन के वास्तुकार कौन हैं?*
+
+📋 **Topic:** Current Affairs – Indian Polity & Architecture  
+📋 **विषय:** समसामयिक घटनाएँ – भारतीय राजनीति एवं वास्तुकला
+
+**Options:**  
+- **A.** Bimal Patel  
+- **B.** Rahul Mehrotra  
+- **C.** Yogesh Kapoor  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **A. Bimal Patel**
+
+---
+
+### **Question 35**
 **Which one of the following Indian films was screened at the 76th Cannes Film Festival (May 2023)?**  
 *मई 2023 में आयोजित 76वें कान्स फिल्म फेस्टिवल में निम्नलिखित में से कौन-सी भारतीय फिल्म प्रदर्शित की गई थी?*
 
@@ -264,53 +274,63 @@ E. None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **D. More than one of the above**
 
-🌍 Q50. Azali Assoumani, who attended the G20 Summit in New Delhi as the current Chairperson of the African Union, is the President of which country?
+---
 
-अफ्रीकी संघ के वर्तमान अध्यक्ष के रूप में G20 शिखर सम्मेलन (नई दिल्ली) में भाग लेने वाले अज़ाली असौमानी किस देश के राष्ट्रपति हैं?
+### **Question 36**
+**Azali Assoumani, who attended the G20 Summit in New Delhi as the current Chairperson of the African Union, is the President of which country?**  
+*अफ्रीकी संघ के वर्तमान अध्यक्ष के रूप में G20 शिखर सम्मेलन (नई दिल्ली) में भाग लेने वाले अज़ाली असौमानी किस देश के राष्ट्रपति हैं?*
 
-📌 Topic: International Affairs – G20 & Africa
-विषय: अंतरराष्ट्रीय संबंध – G20 एवं अफ्रीका
+📋 **Topic:** International Affairs – G20 & Africa  
+📋 **विषय:** अंतरराष्ट्रीय संबंध – G20 एवं अफ्रीका
 
-A. Republic of the Congo
-B. Gabon
-C. Comoros
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** Republic of the Congo  
+- **B.** Gabon  
+- **C.** Comoros  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. Comoros
-
-🕊️ Q51. When is Human Rights Day celebrated annually?
-
-मानवाधिकार दिवस प्रतिवर्ष कब मनाया जाता है?
-
-📌 Topic: International Observances
-विषय: अंतरराष्ट्रीय दिवस
-
-A. 10th November
-B. 10th December
-C. 24th October
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: B. 10th December 
-🐦 Q47. Before Elon Musk announced the change of Twitter’s signature Blue Bird logo to the ‘X’ logo, who is regarded as the creator of Twitter’s iconic bird in its final version (2012)?
-
-एलन मस्क द्वारा ट्विटर के ब्लू बर्ड लोगो को ‘X’ लोगो में बदलने से पहले, 2012 में इसके अंतिम संस्करण के प्रतिष्ठित पक्षी लोगो का निर्माता किसे माना जाता है?
-
-📌 Topic: Current Affairs – Technology & Social Media
-विषय: समसामयिक घटनाएँ – तकनीक एवं सोशल मीडिया
-
-A. Jack Dorsey
-B. Martin Grasser
-C. Noah Glass
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: B. Martin Grasser
+✅ **Correct Answer:** **C. Comoros**
 
 ---
 
-### **Question 50**
+### **Question 37**
+**When is Human Rights Day celebrated annually?**  
+*मानवाधिकार दिवस प्रतिवर्ष कब मनाया जाता है?*
+
+📋 **Topic:** International Observances  
+📋 **विषय:** अंतरराष्ट्रीय दिवस
+
+**Options:**  
+- **A.** 10th November  
+- **B.** 10th December  
+- **C.** 24th October  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **B. 10th December**
+
+---
+
+### **Question 38**
+**Before Elon Musk announced the change of Twitter's signature Blue Bird logo to the 'X' logo, who is regarded as the creator of Twitter's iconic bird in its final version (2012)?**  
+*एलन मस्क द्वारा ट्विटर के ब्लू बर्ड लोगो को 'X' लोगो में बदलने से पहले, 2012 में इसके अंतिम संस्करण के प्रतिष्ठित पक्षी लोगो का निर्माता किसे माना जाता है?*
+
+📋 **Topic:** Current Affairs – Technology & Social Media  
+📋 **विषय:** समसामयिक घटनाएँ – तकनीक एवं सोशल मीडिया
+
+**Options:**  
+- **A.** Jack Dorsey  
+- **B.** Martin Grasser  
+- **C.** Noah Glass  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
+
+✅ **Correct Answer:** **B. Martin Grasser**
+
+---
+
+### **Question 39**
 **Who is the Director of the famous film Oppenheimer, a film about high-concept science, released this year?**  
 *इस वर्ष रिलीज़ हुई उच्च-स्तरीय विज्ञान पर आधारित प्रसिद्ध फिल्म Oppenheimer के निर्देशक कौन हैं?*
 
@@ -326,95 +346,111 @@ E. None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **A. Christopher Nolan**
 
-🏟️ Q49. Which one of the following has pulled out from hosting the 2026 Commonwealth Games due to huge estimated expenditure?
+---
 
-अधिक अनुमानित खर्च के कारण 2026 राष्ट्रमंडल खेलों की मेज़बानी से किसने अपना नाम वापस ले लिया?
+### **Question 40**
+**Which one of the following has pulled out from hosting the 2026 Commonwealth Games due to huge estimated expenditure?**  
+*अधिक अनुमानित खर्च के कारण 2026 राष्ट्रमंडल खेलों की मेज़बानी से किसने अपना नाम वापस ले लिया?*
 
-📌 Topic: Current Affairs – Sports
-विषय: समसामयिक घटनाएँ – खेल
+📋 **Topic:** Current Affairs – Sports  
+📋 **विषय:** समसामयिक घटनाएँ – खेल
 
-A. London, UK
-B. Kuala Lumpur, Malaysia
-C. Victoria, Australia
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** London, UK  
+- **B.** Kuala Lumpur, Malaysia  
+- **C.** Victoria, Australia  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. Victoria, Australia
+✅ **Correct Answer:** **C. Victoria, Australia**
 
-🏛️ Q50. What is the full form of INDIA, a recently formed alliance of opposition political parties?
+---
 
-हाल ही में गठित विपक्षी दलों के गठबंधन INDIA का पूर्ण रूप क्या है?
+### **Question 41**
+**What is the full form of INDIA, a recently formed alliance of opposition political parties?**  
+*हाल ही में गठित विपक्षी दलों के गठबंधन INDIA का पूर्ण रूप क्या है?*
 
-📌 Topic: Current Affairs – Indian Polity
-विषय: समसामयिक घटनाएँ – भारतीय राजनीति
+📋 **Topic:** Current Affairs – Indian Polity  
+📋 **विषय:** समसामयिक घटनाएँ – भारतीय राजनीति
 
-A. Indian National Developmental Inclusive Alliance
-B. Indian National Development for Improvement Alliance
-C. Indian National Developmental Inclusive Association
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** Indian National Developmental Inclusive Alliance  
+- **B.** Indian National Development for Improvement Alliance  
+- **C.** Indian National Developmental Inclusive Association  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: A. Indian National Developmental Inclusive Alliance
+✅ **Correct Answer:** **A. Indian National Developmental Inclusive Alliance**
 
-🌕🚀 Q51. What message was sent by the Chandrayaan-2 lunar orbiter to Chandrayaan-3’s lander module when it established contact in August 2023?
+---
 
-अगस्त 2023 में संपर्क स्थापित होने पर चंद्रयान-2 के लूनर ऑर्बिटर ने चंद्रयान-3 के लैंडर मॉड्यूल को कौन-सा संदेश भेजा?
+### **Question 42**
+**What message was sent by the Chandrayaan-2 lunar orbiter to Chandrayaan-3's lander module when it established contact in August 2023?**  
+*अगस्त 2023 में संपर्क स्थापित होने पर चंद्रयान-2 के लूनर ऑर्बिटर ने चंद्रयान-3 के लैंडर मॉड्यूल को कौन-सा संदेश भेजा?*
 
-📌 Topic: Science & Technology – Space Mission
-विषय: विज्ञान एवं प्रौद्योगिकी – अंतरिक्ष मिशन
+📋 **Topic:** Science & Technology – Space Mission  
+📋 **विषय:** विज्ञान एवं प्रौद्योगिकी – अंतरिक्ष मिशन
 
-A. “Welcome home”
-B. “Chalo chand ke paar chalein”
-C. “Welcome, buddy”
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
+**Options:**  
+- **A.** "Welcome home"  
+- **B.** "Chalo chand ke paar chalein"  
+- **C.** "Welcome, buddy"  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. “Welcome, buddy”
+✅ **Correct Answer:** **C. "Welcome, buddy"**
 
-## tre3.0(11 to 12)
-Q48. In which of the following countries has India launched its UPI?
+---
 
-निम्नलिखित में से किस देश में भारत ने UPI शुरू किया है?
+### **Question 43**
+**In which of the following countries has India launched its UPI?**  
+*निम्नलिखित में से किस देश में भारत ने UPI शुरू किया है?*
 
-📌 Topic: Current Affairs – Digital Payments
-विषय: समसामयिक घटनाएँ – डिजिटल भुगतान
+📋 **Topic:** Current Affairs – Digital Payments  
+📋 **विषय:** समसामयिक घटनाएँ – डिजिटल भुगतान
 
-A. Thailand
-B. Myanmar
-C. Mauritius
-D. More than one of the above
-E. None of the above
+**Options:**  
+- **A.** Thailand  
+- **B.** Myanmar  
+- **C.** Mauritius  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: C. Mauritius
+✅ **Correct Answer:** **C. Mauritius**
 
-🚀 Q49. What is the name of the spacecraft to be launched by ISRO in 2024 to carry astronauts?
+---
 
-अंतरिक्ष यात्रियों को ले जाने हेतु ISRO द्वारा 2024 में प्रक्षेपित किए जाने वाले अंतरिक्ष यान का नाम क्या है?
+### **Question 44**
+**What is the name of the spacecraft to be launched by ISRO in 2024 to carry astronauts?**  
+*अंतरिक्ष यात्रियों को ले जाने हेतु ISRO द्वारा 2024 में प्रक्षेपित किए जाने वाले अंतरिक्ष यान का नाम क्या है?*
 
-📌 Topic: Science & Technology – Space Mission
-विषय: विज्ञान एवं प्रौद्योगिकी – अंतरिक्ष मिशन
+📋 **Topic:** Science & Technology – Space Mission  
+📋 **विषय:** विज्ञान एवं प्रौद्योगिकी – अंतरिक्ष मिशन
 
-A. Akashyan
-B. Gaganyan
-C. Bhramyan
-D. More than one of the above
-E. None of the above
+**Options:**  
+- **A.** Akashyan  
+- **B.** Gaganyaan  
+- **C.** Bhramyan  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: B. Gaganyan
-(Correct spelling: Gaganyaan)
+✅ **Correct Answer:** **B. Gaganyaan**
 
-🌍 Q50. Which country is not a member of G7?
+---
 
-निम्नलिखित में से कौन G7 का सदस्य नहीं है?
+### **Question 45**
+**Which country is not a member of G7?**  
+*निम्नलिखित में से कौन G7 का सदस्य नहीं है?*
 
-📌 Topic: International Organizations
-विषय: अंतरराष्ट्रीय संगठन
+📋 **Topic:** International Organizations  
+📋 **विषय:** अंतरराष्ट्रीय संगठन
 
-A. Russia
-B. Canada
-C. USA
-D. More than one of the above
-E. None of the above
+**Options:**  
+- **A.** Russia  
+- **B.** Canada  
+- **C.** USA  
+- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
+- **E.** None of the above *(इनमें से कोई नहीं)*
 
-✅ Correct Answer: A. Russia
+✅ **Correct Answer:** **A. Russia**
 
