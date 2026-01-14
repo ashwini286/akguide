@@ -1,6 +1,6 @@
-﻿# ðŸ’» Computer Science Study Guide
+﻿# 💻 Computer Science Study Guide
 
-## ðŸ“š Table of Contents
+## 📚 Table of Contents
 - [Computer Fundamentals (Questions 1-40)](#computer-fundamentals)
 - [Programming Concepts (Questions 41-80)](#programming-concepts)
 - [Data Structures & Algorithms (Questions 81-120)](#data-structures--algorithms)
@@ -10,7 +10,7 @@
 
 ---
 
-## ðŸ”§ Computer Fundamentals
+## 🔧 Computer Fundamentals
 
 ### **Question 1**
 **What is the full form of CPU?**
@@ -22,7 +22,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Central Processing Unit**
+✅ **Correct Answer:** **A. Central Processing Unit**
 
 ---
 
@@ -36,7 +36,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. CPU**
+✅ **Correct Answer:** **A. CPU**
 
 ---
 
@@ -50,7 +50,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Random Access Memory**
+✅ **Correct Answer:** **A. Random Access Memory**
 
 ---
 
@@ -64,7 +64,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Keyboard**
+✅ **Correct Answer:** **B. Keyboard**
 
 ---
 
@@ -78,7 +78,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Hard Disk**
+✅ **Correct Answer:** **C. Hard Disk**
 
 ---
 
@@ -92,7 +92,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Monitor**
+✅ **Correct Answer:** **C. Monitor**
 
 ---
 
@@ -106,7 +106,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Graphical User Interface**
+✅ **Correct Answer:** **A. Graphical User Interface**
 
 ---
 
@@ -120,7 +120,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Windows**
+✅ **Correct Answer:** **C. Windows**
 
 ---
 
@@ -134,7 +134,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Bit**
+✅ **Correct Answer:** **A. Bit**
 
 ---
 
@@ -148,7 +148,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Python**
+✅ **Correct Answer:** **C. Python**
 
 ---
 
@@ -162,7 +162,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Hyper Text Markup Language**
+✅ **Correct Answer:** **A. Hyper Text Markup Language**
 
 ---
 
@@ -176,7 +176,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -190,7 +190,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Uniform Resource Locator**
+✅ **Correct Answer:** **A. Uniform Resource Locator**
 
 ---
 
@@ -204,7 +204,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Chrome**
+✅ **Correct Answer:** **A. Chrome**
 
 ---
 
@@ -218,7 +218,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Portable Document Format**
+✅ **Correct Answer:** **A. Portable Document Format**
 
 ---
 
@@ -232,7 +232,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. F5**
+✅ **Correct Answer:** **B. F5**
 
 ---
 
@@ -246,7 +246,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Motherboard**
+✅ **Correct Answer:** **A. Motherboard**
 
 ---
 
@@ -260,7 +260,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. RAM**
+✅ **Correct Answer:** **C. RAM**
 
 ---
 
@@ -274,7 +274,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Universal Serial Bus**
+✅ **Correct Answer:** **A. Universal Serial Bus**
 
 ---
 
@@ -288,7 +288,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Microsoft**
+✅ **Correct Answer:** **C. Microsoft**
 
 ---
 
@@ -302,7 +302,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Internet Protocol Address**
+✅ **Correct Answer:** **A. Internet Protocol Address**
 
 ---
 
@@ -316,7 +316,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Google**
+✅ **Correct Answer:** **A. Google**
 
 ---
 
@@ -330,7 +330,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Wireless Fidelity**
+✅ **Correct Answer:** **A. Wireless Fidelity**
 
 ---
 
@@ -344,7 +344,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Ctrl + C**
+✅ **Correct Answer:** **A. Ctrl + C**
 
 ---
 
@@ -358,7 +358,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Hyper Text Transfer Protocol**
+✅ **Correct Answer:** **A. Hyper Text Transfer Protocol**
 
 ---
 
@@ -372,7 +372,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Pen Drive**
+✅ **Correct Answer:** **C. Pen Drive**
 
 ---
 
@@ -386,7 +386,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Virtual Private Network**
+✅ **Correct Answer:** **A. Virtual Private Network**
 
 ---
 
@@ -400,7 +400,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Google**
+✅ **Correct Answer:** **C. Google**
 
 ---
 
@@ -414,7 +414,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Short Message Service**
+✅ **Correct Answer:** **A. Short Message Service**
 
 ---
 
@@ -428,7 +428,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Google Drive**
+✅ **Correct Answer:** **A. Google Drive**
 
 ---
 
@@ -442,7 +442,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Global Positioning System**
+✅ **Correct Answer:** **A. Global Positioning System**
 
 ---
 
@@ -456,7 +456,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Facebook**
+✅ **Correct Answer:** **A. Facebook**
 
 ---
 
@@ -470,7 +470,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Joint Photographic Experts Group**
+✅ **Correct Answer:** **A. Joint Photographic Experts Group**
 
 ---
 
@@ -484,7 +484,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Ctrl + V**
+✅ **Correct Answer:** **B. Ctrl + V**
 
 ---
 
@@ -498,7 +498,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Internet Service Provider**
+✅ **Correct Answer:** **A. Internet Service Provider**
 
 ---
 
@@ -512,7 +512,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. YouTube**
+✅ **Correct Answer:** **A. YouTube**
 
 ---
 
@@ -526,7 +526,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. World Wide Web**
+✅ **Correct Answer:** **A. World Wide Web**
 
 ---
 
@@ -540,7 +540,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Norton**
+✅ **Correct Answer:** **A. Norton**
 
 ---
 
@@ -554,7 +554,7 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Portable Document Format**
+✅ **Correct Answer:** **A. Portable Document Format**
 
 ---
 
@@ -568,11 +568,11 @@
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Apple**
+✅ **Correct Answer:** **C. Apple**
 
 ---
 
-## ðŸ”§ Programming Concepts
+## 💻 Programming Concepts
 
 ### **Question 41**
 **Which of the following is a technique that marks the beginning of computer communications?**
@@ -584,7 +584,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Time Sharing**
+✅ **Correct Answer:** **C. Time Sharing**
 
 ---
 
@@ -598,7 +598,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. PASCAL**
+✅ **Correct Answer:** **A. PASCAL**
 
 ---
 
@@ -612,7 +612,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above** *(HTML is used)*
+✅ **Correct Answer:** **E. None of the above** *(HTML is used)*
 
 ---
 
@@ -626,7 +626,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -640,7 +640,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Compaction**
+✅ **Correct Answer:** **B. Compaction**
 
 ---
 
@@ -654,7 +654,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. 123Variable**
+✅ **Correct Answer:** **B. 123Variable**
 
 ---
 
@@ -668,7 +668,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Physical**
+✅ **Correct Answer:** **A. Physical**
 
 ---
 
@@ -682,7 +682,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above**
+✅ **Correct Answer:** **E. None of the above**
 
 ---
 
@@ -696,7 +696,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Graphics package**
+✅ **Correct Answer:** **A. Graphics package**
 
 ---
 
@@ -710,7 +710,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above**
+✅ **Correct Answer:** **E. None of the above**
 
 ---
 
@@ -724,7 +724,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -738,7 +738,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. h**
+✅ **Correct Answer:** **C. h**
 
 ---
 
@@ -752,7 +752,7 @@
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. indirect**
+✅ **Correct Answer:** **B. indirect**
 
 ---
 
@@ -771,7 +771,7 @@ delete ptr;
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. The program is compiled and executed successfully**
+✅ **Correct Answer:** **B. The program is compiled and executed successfully**
 
 ---
 
@@ -785,7 +785,7 @@ delete ptr;
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. buffer registers**
+✅ **Correct Answer:** **B. buffer registers**
 
 ---
 
@@ -799,7 +799,7 @@ delete ptr;
 - **D.** More than one of the above  
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. PCI bus**
+✅ **Correct Answer:** **A. PCI bus**
 
 ---
 
@@ -813,7 +813,7 @@ delete ptr;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. the I/O devices and the memory share the same address space**
+✅ **Correct Answer:** **A. the I/O devices and the memory share the same address space**
 
 ---
 
@@ -827,7 +827,7 @@ delete ptr;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Absolute**
+✅ **Correct Answer:** **C. Absolute**
 
 ---
 
@@ -841,7 +841,7 @@ delete ptr;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. int array[10]**
+✅ **Correct Answer:** **C. int array[10]**
 
 ---
 
@@ -855,7 +855,7 @@ delete ptr;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. virtual tables**
+✅ **Correct Answer:** **B. virtual tables**
 
 ---
 
@@ -869,7 +869,7 @@ delete ptr;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Only 1**
+✅ **Correct Answer:** **A. Only 1**
 
 ---
 
@@ -897,7 +897,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Error**
+✅ **Correct Answer:** **C. Error**
 
 ---
 
@@ -911,7 +911,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Union**
+✅ **Correct Answer:** **C. Union**
 
 ---
 
@@ -925,7 +925,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. COMPUTE**
+✅ **Correct Answer:** **B. COMPUTE**
 
 ---
 
@@ -939,7 +939,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Charles Babbage**
+✅ **Correct Answer:** **B. Charles Babbage**
 
 ---
 
@@ -953,7 +953,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. ASC**
+✅ **Correct Answer:** **B. ASC**
 
 ---
 
@@ -967,7 +967,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -981,7 +981,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Similar to WHERE clause but is used for groups rather than rows**
+✅ **Correct Answer:** **C. Similar to WHERE clause but is used for groups rather than rows**
 
 ---
 
@@ -995,7 +995,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. program-controlled I/O**
+✅ **Correct Answer:** **A. program-controlled I/O**
 
 ---
 
@@ -1009,7 +1009,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. WITH**
+✅ **Correct Answer:** **A. WITH**
 
 ---
 
@@ -1029,7 +1029,7 @@ SELECT ROUND (65.726, -1) FROM DUAL;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. 70**
+✅ **Correct Answer:** **A. 70**
 
 ---
 
@@ -1043,7 +1043,7 @@ SELECT ROUND (65.726, -1) FROM DUAL;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. total number of zero elements > (m*n)/2**
+✅ **Correct Answer:** **A. total number of zero elements > (m*n)/2**
 
 ---
 
@@ -1057,7 +1057,7 @@ SELECT ROUND (65.726, -1) FROM DUAL;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. COMMIT**
+✅ **Correct Answer:** **B. COMMIT**
 
 ---
 
@@ -1071,7 +1071,7 @@ SELECT ROUND (65.726, -1) FROM DUAL;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Natural JOIN**
+✅ **Correct Answer:** **B. Natural JOIN**
 
 ---
 
@@ -1085,7 +1085,7 @@ SELECT ROUND (65.726, -1) FROM DUAL;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. O(N)**
+✅ **Correct Answer:** **B. O(N)**
 
 ---
 
@@ -1099,7 +1099,7 @@ SELECT ROUND (65.726, -1) FROM DUAL;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Easier to access the elements in an array**
+✅ **Correct Answer:** **B. Easier to access the elements in an array**
 
 ---
 
@@ -1113,7 +1113,7 @@ SELECT ROUND (65.726, -1) FROM DUAL;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Stack**
+✅ **Correct Answer:** **B. Stack**
 
 ---
 
@@ -1131,7 +1131,7 @@ a b c d e + * + * ( )
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. abc de * + * +**
+✅ **Correct Answer:** **A. abc de * + * +**
 
 ---
 
@@ -1145,7 +1145,7 @@ a b c d e + * + * ( )
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above**
+✅ **Correct Answer:** **E. None of the above**
 
 ---
 
@@ -1159,7 +1159,7 @@ a b c d e + * + * ( )
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. underflow**
+✅ **Correct Answer:** **B. underflow**
 
 ---
 
@@ -1185,7 +1185,7 @@ display( );
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. 10 30 40 15**
+✅ **Correct Answer:** **C. 10 30 40 15**
 
 ---
 
@@ -1199,7 +1199,7 @@ display( );
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. deque**
+✅ **Correct Answer:** **C. deque**
 
 ---
 
@@ -1213,7 +1213,7 @@ display( );
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Front=rear= -1**
+✅ **Correct Answer:** **A. Front=rear= -1**
 
 ---
 
@@ -1234,7 +1234,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above**
+✅ **Correct Answer:** **E. None of the above**
 
 ---
 
@@ -1248,7 +1248,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Randomized traversal**
+✅ **Correct Answer:** **A. Randomized traversal**
 
 ---
 
@@ -1262,7 +1262,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Single-user access only**
+✅ **Correct Answer:** **C. Single-user access only**
 
 ---
 
@@ -1276,7 +1276,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Implementation of doubly linked list is easier than the singly linked list.**
+✅ **Correct Answer:** **C. Implementation of doubly linked list is easier than the singly linked list.**
 
 ---
 
@@ -1290,7 +1290,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. referential**
+✅ **Correct Answer:** **A. referential**
 
 ---
 
@@ -1304,7 +1304,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above**
+✅ **Correct Answer:** **E. None of the above**
 
 ---
 
@@ -1318,7 +1318,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. SOP**
+✅ **Correct Answer:** **B. SOP**
 
 ---
 
@@ -1332,7 +1332,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. SOM and POM**
+✅ **Correct Answer:** **C. SOM and POM**
 
 ---
 
@@ -1348,7 +1348,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above**
+✅ **Correct Answer:** **E. None of the above**
 
 ---
 
@@ -1362,7 +1362,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -1376,7 +1376,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -1390,7 +1390,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Seven-segment decoder**
+✅ **Correct Answer:** **A. Seven-segment decoder**
 
 ---
 
@@ -1404,7 +1404,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Optical fiber**
+✅ **Correct Answer:** **B. Optical fiber**
 
 ---
 
@@ -1418,7 +1418,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Star**
+✅ **Correct Answer:** **A. Star**
 
 ---
 
@@ -1432,7 +1432,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. World Wide Web (WWW)**
+✅ **Correct Answer:** **A. World Wide Web (WWW)**
 
 ---
 
@@ -1446,7 +1446,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. The IPv6 flow label is considered**
+✅ **Correct Answer:** **C. The IPv6 flow label is considered**
 
 ---
 
@@ -1460,7 +1460,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Full access rights for all users**
+✅ **Correct Answer:** **B. Full access rights for all users**
 
 ---
 
@@ -1474,7 +1474,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Media access control sublayer**
+✅ **Correct Answer:** **B. Media access control sublayer**
 
 ---
 
@@ -1488,7 +1488,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above**
+✅ **Correct Answer:** **E. None of the above**
 
 ---
 
@@ -1502,7 +1502,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. In structures, members are public by default, whereas, in classes, they are private by default**
+✅ **Correct Answer:** **B. In structures, members are public by default, whereas, in classes, they are private by default**
 
 ---
 
@@ -1516,7 +1516,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. SMTP client**
+✅ **Correct Answer:** **A. SMTP client**
 
 ---
 
@@ -1530,7 +1530,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **E. None of the above** *(IPv6 addresses are 128 bits)*
+✅ **Correct Answer:** **E. None of the above** *(IPv6 addresses are 128 bits)*
 
 ---
 
@@ -1544,7 +1544,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. To truncate an existing file to zero**
+✅ **Correct Answer:** **C. To truncate an existing file to zero**
 
 ---
 
@@ -1558,7 +1558,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Host-to-host**
+✅ **Correct Answer:** **A. Host-to-host**
 
 ---
 
@@ -1576,7 +1576,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. 2, 3**
+✅ **Correct Answer:** **B. 2, 3**
 
 ---
 
@@ -1590,7 +1590,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Ping summarizes the packet loss and round-trip delay between two IP endpoints.**
+✅ **Correct Answer:** **C. Ping summarizes the packet loss and round-trip delay between two IP endpoints.**
 
 ---
 
@@ -1604,7 +1604,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. int **fun(float *, char **)**
+✅ **Correct Answer:** **C. int **fun(float *, char **)**
 
 ---
 
@@ -1618,7 +1618,7 @@ q1.offer(x);
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. sender and receiver**
+✅ **Correct Answer:** **C. sender and receiver**
 
 ---
 
@@ -1650,7 +1650,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Segmentation fault**
+✅ **Correct Answer:** **C. Segmentation fault**
 
 ---
 
@@ -1664,7 +1664,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -1678,7 +1678,7 @@ return 0;
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. class derived_classname : access base_classname {/*define class body*/};**
+✅ **Correct Answer:** **B. class derived_classname : access base_classname {/*define class body*/};**
 
 ---
 
@@ -1693,7 +1693,7 @@ function in C++?**
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. It checks that the specified variable is of the array or not**
+✅ **Correct Answer:** **A. It checks that the specified variable is of the array or not**
 
 ---
 
@@ -1707,7 +1707,7 @@ function in C++?**
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. An object is an instance of its class.**
+✅ **Correct Answer:** **A. An object is an instance of its class.**
 
 ---
 
@@ -1721,7 +1721,7 @@ function in C++?**
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. By using the pure virtual function in the class**
+✅ **Correct Answer:** **A. By using the pure virtual function in the class**
 
 ---
 
@@ -1735,7 +1735,7 @@ function in C++?**
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -1755,7 +1755,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Encapsulation and inheritance**
+✅ **Correct Answer:** **A. Encapsulation and inheritance**
 
 ---
 
@@ -1769,7 +1769,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. Silicon**
+✅ **Correct Answer:** **B. Silicon**
 
 ---
 
@@ -1783,11 +1783,11 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Merge sort**
+✅ **Correct Answer:** **A. Merge sort**
 
 ---
 
-## ðŸ”§ Database Management
+## 🗄️ Database Management
 
 ### **Question 122**
 **What is a database?**
@@ -1799,7 +1799,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. A collection of related data**
+✅ **Correct Answer:** **A. A collection of related data**
 
 ---
 
@@ -1813,7 +1813,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. MS Excel**
+✅ **Correct Answer:** **C. MS Excel**
 
 ---
 
@@ -1827,7 +1827,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Structured Query Language**
+✅ **Correct Answer:** **A. Structured Query Language**
 
 ---
 
@@ -1841,7 +1841,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. 3NF**
+✅ **Correct Answer:** **C. 3NF**
 
 ---
 
@@ -1855,7 +1855,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. A unique identifier for each record**
+✅ **Correct Answer:** **A. A unique identifier for each record**
 
 ---
 
@@ -1869,7 +1869,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. SELECT**
+✅ **Correct Answer:** **A. SELECT**
 
 ---
 
@@ -1883,7 +1883,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Database Management System**
+✅ **Correct Answer:** **A. Database Management System**
 
 ---
 
@@ -1897,7 +1897,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. MongoDB**
+✅ **Correct Answer:** **B. MongoDB**
 
 ---
 
@@ -1911,11 +1911,11 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Atomicity, Consistency, Isolation, Durability**
+✅ **Correct Answer:** **A. Atomicity, Consistency, Isolation, Durability**
 
 ---
 
-## ðŸŒ Computer Networks
+## 🌐 Computer Networks
 
 ### **Question 131**
 **What does LAN stand for?**
@@ -1927,7 +1927,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Local Area Network**
+✅ **Correct Answer:** **A. Local Area Network**
 
 ---
 
@@ -1941,7 +1941,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. SMTP**
+✅ **Correct Answer:** **C. SMTP**
 
 ---
 
@@ -1955,7 +1955,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Transmission Control Protocol/Internet Protocol**
+✅ **Correct Answer:** **A. Transmission Control Protocol/Internet Protocol**
 
 ---
 
@@ -1969,7 +1969,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Router**
+✅ **Correct Answer:** **A. Router**
 
 ---
 
@@ -1983,7 +1983,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Wide Area Network**
+✅ **Correct Answer:** **A. Wide Area Network**
 
 ---
 
@@ -1997,7 +1997,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Network Layer**
+✅ **Correct Answer:** **C. Network Layer**
 
 ---
 
@@ -2011,7 +2011,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above** *(10 Mbps, 100 Mbps, 1 Gbps, 10 Gbps, etc.)*
+✅ **Correct Answer:** **D. More than one of the above** *(10 Mbps, 100 Mbps, 1 Gbps, 10 Gbps, etc.)*
 
 ---
 
@@ -2025,7 +2025,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. HTTPS**
+✅ **Correct Answer:** **B. HTTPS**
 
 ---
 
@@ -2039,7 +2039,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Domain Name System**
+✅ **Correct Answer:** **A. Domain Name System**
 
 ---
 
@@ -2053,11 +2053,11 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
-## ðŸš€ Advanced Topics
+## 🚀 Advanced Topics
 
 ### **Question 141**
 **What is artificial intelligence?**
@@ -2069,7 +2069,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Making computers think like humans**
+✅ **Correct Answer:** **A. Making computers think like humans**
 
 ---
 
@@ -2083,7 +2083,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Object-oriented**
+✅ **Correct Answer:** **C. Object-oriented**
 
 ---
 
@@ -2097,7 +2097,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Internet of Things**
+✅ **Correct Answer:** **A. Internet of Things**
 
 ---
 
@@ -2111,7 +2111,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -2125,7 +2125,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **B. A distributed ledger technology**
+✅ **Correct Answer:** **B. A distributed ledger technology**
 
 ---
 
@@ -2139,7 +2139,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **C. Guido van Rossum**
+✅ **Correct Answer:** **C. Guido van Rossum**
 
 ---
 
@@ -2153,7 +2153,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Application Programming Interface**
+✅ **Correct Answer:** **A. Application Programming Interface**
 
 ---
 
@@ -2167,7 +2167,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **D. More than one of the above**
+✅ **Correct Answer:** **D. More than one of the above**
 
 ---
 
@@ -2181,7 +2181,7 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. Software as a Service**
+✅ **Correct Answer:** **A. Software as a Service**
 
 ---
 
@@ -2195,4 +2195,4 @@ topper(int age) {this.age=age;}};
 - **D.** More than one of the above
 - **E.** None of the above
 
-âœ… **Correct Answer:** **A. AI and Machine Learning**
+✅ **Correct Answer:** **A. AI and Machine Learning**

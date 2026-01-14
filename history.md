@@ -6,7 +6,7 @@
 - [Modern Indian History (Questions 21-40)](#modern-indian-history)
 - [Indian Geography (Questions 41-60)](#indian-geography)
 - [Indian Polity (Questions 61-80)](#indian-polity)
-- [Indian Economy (Questions 81-97)](#indian-economy)
+- [Current Affairs & Contemporary Topics (Questions 81-97)](#current-affairs)
 
 ---
 
@@ -1092,69 +1092,8 @@
 
 ✅ **Correct Answer:** **E. None of the above** *(This phrase was used by Jawaharlal Nehru, who is not in the options)* 
 
-Q63. Who first described the Revolt of 1857 as the ‘First Indian War of Independence’?
 
-1857 के विद्रोह को सबसे पहले ‘भारत का प्रथम स्वतंत्रता संग्राम’ किसने कहा?
-
-📌 Topic: Modern Indian History – Revolt of 1857
-विषय: आधुनिक भारतीय इतिहास – 1857 का विद्रोह
-
-A. V. D. Savarkar
-B. Bal Gangadhar Tilak
-C. R. C. Majumdar
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. V. D. Savarkar
-
-🏹 Q64. Which of the following events happened first?
-
-निम्नलिखित में से कौन-सी घटना सबसे पहले हुई?
-
-📌 Topic: Tribal & Peasant Movements
-विषय: जनजातीय एवं किसान आंदोलन
-
-A. Santhal Rebellion
-B. Rebellion of Birsa Munda
-C. Tana Bhagat Movement
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. Santhal Rebellion
-
-📖 Q65. Which revolt is mentioned in Bankim Chandra Chatterjee’s novel Anandamath?
-
-बंकिम चंद्र चट्टोपाध्याय के उपन्यास आनंदमठ में किस विद्रोह का उल्लेख है?
-
-📌 Topic: Modern Indian History – Revolts & Literature
-विषय: आधुनिक भारतीय इतिहास – विद्रोह एवं साहित्य
-
-A. Sannyasi
-B. Pagalpanthi
-C. Indigo
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. Sannyasi
-
-🇮🇳 Q66. When were Swadeshi and Boycott first adopted as forms of struggle in India?
-
-भारत में स्वदेशी और बहिष्कार को संघर्ष के रूप में पहली बार कब अपनाया गया?
-
-📌 Topic: Indian National Movement
-विषय: भारतीय राष्ट्रीय आंदोलन
-
-A. Partition of Bengal
-B. Home Rule Movement
-C. Non-Cooperation Movement
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. Partition of Bengal
-
----
-
-### **Question 67**
+### **Question 61**
 **Who was the President of the Indian National Congress at the Gaya Session (1922)?**  
 *1922 के गया अधिवेशन में भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष कौन थे?*
 
@@ -1507,7 +1446,7 @@ E. None of the above (इनमें से कोई नहीं)
 
 ---
 
-### **Question 61**
+### **Question 62**
 **In which country was the ASEAN–India Grassroots Innovation Forum (AIGIF) launched in November 2023?**  
 *ASEAN–India Grassroots Innovation Forum (AIGIF) नवंबर 2023 में किस देश में शुरू किया गया?*
 
@@ -1525,7 +1464,7 @@ E. None of the above (इनमें से कोई नहीं)
 
 ---
 
-### **Question 62**
+### **Question 63**
 **In April 2024, Abdel Fattah al-Sisi was re-elected for a third six-year term as President of which country?**  
 *अप्रैल 2024 में अब्देल फत्ताह अल-सीसी किस देश के राष्ट्रपति के रूप में तीसरे छह वर्षीय कार्यकाल के लिए पुनः निर्वाचित हुए?*
 
@@ -1541,23 +1480,6 @@ E. None of the above (इनमें से कोई नहीं)
 
 ✅ **Correct Answer:** **C. Egypt**
 
-### **Question 63**
-**Which country became the first nation to adopt India's Jan Aushadhi Scheme in February 2024?**  
-*फरवरी 2024 में भारत की जन औषधि योजना को अपनाने वाला पहला देश कौन-सा बना?*
-
-**📌 Topic:** Current Affairs – Health & Cooperation  
-**📌 विषय:** समसामयिक घटनाएँ – स्वास्थ्य एवं सहयोग
-
-**Options:**  
-- **A.** Sri Lanka  
-- **B.** Mauritius  
-- **C.** Nepal  
-- **D.** More than one of the above *(उपरोक्त में से एक से अधिक)*  
-- **E.** None of the above *(इनमें से कोई नहीं)*
-
-✅ **Correct Answer:** **B. Mauritius**
-
----
 
 ### **Question 64**
 **Which countries continue to host the majority of Afghan refugees globally, providing access to health and education services?**  
@@ -1821,84 +1743,6 @@ D. More than one of the above (उपरोक्त में से एक स
 E. None of the above (इनमें से कोई नहीं)
 
 ✅ Correct Answer: A. Partition of Bengal
-
-✊ Q65. What were the major gains of the Non-Cooperation Movement?
-
-असहयोग आंदोलन की प्रमुख उपलब्धियाँ क्या थीं?
-
-📌 Topic: Indian National Movement – Non-Cooperation Movement
-विषय: भारतीय राष्ट्रीय आंदोलन – असहयोग आंदोलन
-
-A. General awakening in the masses
-(जनसाधारण में जागृति)
-B. Disbelief in the British system of government
-(ब्रिटिश शासन प्रणाली में अविश्वास)
-C. Faith in the Congress for the attainment of Swaraj
-(स्वराज प्राप्ति हेतु कांग्रेस में विश्वास)
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: D. More than one of the above
-
-⚙️ Q66. Who defined socialism in a scientific manner as “the abolition of capitalism and class domination”?
-
-किसने समाजवाद को वैज्ञानिक रूप में “पूंजीवाद और वर्ग प्रभुत्व की समाप्ति” के रूप में परिभाषित किया?
-
-📌 Topic: Indian National Movement – Socialist Ideas
-विषय: भारतीय राष्ट्रीय आंदोलन – समाजवादी विचार
-
-A. Lala Lajpat Rai
-B. Leaders of Hindustan Socialist Republican Association
-C. The Extremist leaders of Congress
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: B. Leaders of Hindustan Socialist Republican Association
-
-👩‍⚖️ Q67. Who led a delegation to London to meet the Secretary of State for India, Montagu, to demand female franchise?
-
-महिला मताधिकार की माँग को लेकर भारत सचिव मॉन्टेग्यू से मिलने लंदन में प्रतिनिधिमंडल का नेतृत्व किसने किया?
-
-📌 Topic: Women in Indian Freedom Movement
-विषय: भारतीय स्वतंत्रता आंदोलन में महिलाएँ
-
-A. Sarla Devi Chaudhurani
-B. Sucheta Kripalani
-C. Aruna Asaf Ali
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. Sarla Devi Chaudhurani
-
-📜 Q68. Which event was described as “a glorious event in the history of the freedom movement in India” and was acceptable to both the Congress and the Muslim League?
-
-भारतीय स्वतंत्रता आंदोलन के इतिहास में किसे “एक गौरवशाली घटना” कहा गया, जिसे कांग्रेस और मुस्लिम लीग दोनों ने स्वीकार किया?
-
-📌 Topic: Constitutional Development – British Plans
-विषय: संवैधानिक विकास – ब्रिटिश योजनाएँ
-
-A. Cripps Mission Plan
-B. Simon Commission Plan
-C. Cabinet Mission Plan
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: C. Cabinet Mission Plan
-
-💼 Q69. Who firmly believed that a happy and prosperous national existence could be built on the basis of a capitalist social system?
-
-कौन यह दृढ़ता से मानता था कि एक सुखी और समृद्ध राष्ट्रीय जीवन की रचना पूंजीवादी सामाजिक व्यवस्था पर की जा सकती है?
-
-📌 Topic: Political Ideologies of Indian Leaders
-विषय: भारतीय नेताओं की राजनीतिक विचारधाराएँ
-
-A. Gandhiji
-B. Jawaharlal Nehru
-C. Subhash Chandra Bose
-D. More than one of the above (उपरोक्त में से एक से अधिक)
-E. None of the above (इनमें से कोई नहीं)
-
-✅ Correct Answer: A. Gandhiji
 
 ### **Question 77**
 **Who wrote "The Indian Struggle" as his autobiography?**  
