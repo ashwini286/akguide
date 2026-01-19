@@ -111,3 +111,7 @@ GitHub → Settings → SSH and GPG Keys → New SSH Key
 - Always use SSH aliases from ~/.ssh/config
 - Never use github.com-work
 - Each repository can have its own Git identity
+
+## Check Current Global Username & Email
+ - git config --global user.name
+ - git config --global user.email
