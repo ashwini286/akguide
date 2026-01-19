@@ -625,12 +625,12 @@
             </div>
 
             <ul class="file-list" id="file-list">
-                <li class="file-item active" data-file="github_setup">
+                <!-- <li class="file-item active" data-file="github_setup">
                     <span class="emoji">🔐</span>
                     <span class="title">GitHub Multiple Accounts</span>
                     <span class="description">SSH setup for work & personal accounts</span>
-                </li>
-                <li class="file-item" data-file="science">
+                </li> -->
+                <li class="file-item active" data-file="science">
                     <span class="emoji">🧪</span>
                     <span class="title">Science</span>
                     <span class="description">Science concepts and topics</span>
@@ -698,7 +698,7 @@
             </div>
 
             <!-- PDF Upload Section -->
-            <div class="upload-section">
+            <!-- <div class="upload-section">
                 <div class="upload-header">
                     <span class="emoji">📄</span>
                     <span class="upload-title">Upload PDF</span>
@@ -709,15 +709,15 @@
                     <input type="file" id="pdf-upload" accept=".pdf" style="display: none;">
                 </div>
                 <div id="upload-status" class="upload-status" style="display: none;"></div>
-            </div>
+            </div> -->
         </div>
 
         <!-- Main Content -->
         <div class="main-content">
             <div class="content-header">
                 <div>
-                    <h1 class="content-title" id="doc-title">GitHub Multiple Accounts Setup</h1>
-                    <p class="content-subtitle" id="doc-subtitle">Complete SSH configuration guide for Windows</p>
+                    <h1 class="content-title" id="doc-title">BPSC PYQ</h1>
+                    <p class="content-subtitle" id="doc-subtitle"></p>
                 </div>
             </div>
 
@@ -748,11 +748,11 @@
         pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 
         const DOCS_CONFIG = {
-            'github_setup': {
-                title: 'GitHub Multiple Accounts Setup',
-                subtitle: 'Complete SSH configuration guide for Windows',
-                file: 'multiple_github_account.md'
-            },
+            // 'github_setup': {
+            //     title: 'GitHub Multiple Accounts Setup',
+            //     subtitle: 'Complete SSH configuration guide for Windows',
+            //     file: 'multiple_github_account.md'
+            // },
             'science': {
                 title: 'Science',
                 subtitle: 'Science concepts and topics',
@@ -852,7 +852,7 @@
         marked.setOptions({ renderer });
 
         // Global variables
-        let currentFile = 'github_setup';
+        let currentFile = 'science';
         let currentMarkdown = '';
 
         // PDF variables
