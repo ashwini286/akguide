@@ -112,7 +112,23 @@ GitHub → Settings → SSH and GPG Keys → New SSH Key
 - Never use github.com-work
 - Each repository can have its own Git identity
 
+## Github Basic changes
 
 ## Check Current Global Username & Email
 git config --global user.name
 git config --global user.email
+
+## change the Global Username & Email
+-- git config --global user.name "Ashwini kumari"
+-- git config --global user.email "abc@gmail.com"
+
+## Delete branch in local 
+-- git branch -D ""branch name
+-- git branch -D bpsc_pyd
+
+## Delete branch form github
+ git push origin --delete branch name
+ git push origin --delete bpsc_pyd
+
+ ## what the use of this command
+ -- git remote prune origin
